@@ -1,0 +1,1001 @@
+,song_name,album_name,album_link,artist_name,popularity,release_date,song_link,duration_ms,explicit
+1,アイドル,アイドル,https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a,YOASOBI,91,2023-04-12,https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt,213233,False
+2,怪獣の花唄,strobo,https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy,Vaundy,81,2020-05-27,https://open.spotify.com/track/10zz9RZt9DnqcxNWksRNrx,224806,False
+3,そんなbitterな話,そんなbitterな話,https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP,Vaundy,78,2023-03-13,https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY,276082,False
+4,祝福,祝福,https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4,YOASOBI,80,2022-10-01,https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw,196235,False
+5,Nagisa,Nagisa,https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK,imase,77,2023-05-26,https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW,226489,False
+6,ガーデン,LOVE ALL SERVE ALL,https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH,Fujii Kaze,76,2022-03-23,https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF,229333,False
+7,ベテルギウス,壱,https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd,Yuuri,77,2022-01-12,https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR,230600,False
+8,シンデレラボーイ,レイジーサンデー,https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr,Saucy Dog,76,2021-08-25,https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V,234323,False
+9,ビリミリオン,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,75,2023-03-29,https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ,228760,False
+10,W / X / Y,Memories,https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5,Tani Yuuki,75,2021-12-08,https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49,278118,False
+11,リンジュー・ラヴ,リンジュー・ラヴ,https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU,Macaroni Empitsu,75,2023-01-14,https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX,185945,False
+12,青のすみか,青のすみか,https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS,Tatsuya Kitani,81,2023-07-07,https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd,196466,False
+13,なんでもないよ、,ハッピーエンドへの期待は,https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz,Macaroni Empitsu,74,2022-01-12,https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl,219252,False
+14,名前は片想い,名前は片想い,https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9,indigo la End,75,2023-01-25,https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu,213793,False
+15,群青,THE BOOK,https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv,YOASOBI,78,2021-01-06,https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk,248026,False
+16,ドライフラワー,壱,https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd,Yuuri,74,2022-01-12,https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA,286360,False
+17,新時代,ウタの歌 ONE PIECE FILM RED,https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA,Ado,74,2022-08-09,https://open.spotify.com/track/28MATCYDctW5EiBa2repxb,226813,False
+18,第ゼロ感,コリンズ,https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk,10-FEET,73,2022-12-14,https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh,286000,False
+19,きらり,Kirari Remixes (Asia Edition),https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT,Fujii Kaze,76,2022-01-14,https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP,231882,False
+20,LONGINESS REMIX,LONGINESS REMIX,https://open.spotify.com/album/5Cy4fWRnIWDXVL8NulfBlm,SugLawd Familiar,71,2022-12-16,https://open.spotify.com/track/4WV6zSmQVMmgSAaY9M5bVE,254310,False
+21,レオ,壱,https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd,Yuuri,71,2022-01-12,https://open.spotify.com/track/3eg3igrhEhzk8bqqRz6XCt,238973,False
+22,W●RK,W●RK,https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB,millennium parade,77,2023-04-01,https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf,201073,False
+23,I'm a mess,告白,https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ,MY FIRST STORY,72,2021-07-14,https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg,249480,False
+24,花占い,花占い,https://open.spotify.com/album/0hGRfbMoPFpIJJBpWkdYbI,Vaundy,71,2021-07-05,https://open.spotify.com/track/2PlbwoIVr25oita35jg9ht,207555,False
+25,napori,strobo,https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy,Vaundy,70,2020-05-27,https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae,203787,False
+26,アドベンチャー,アドベンチャー,https://open.spotify.com/album/1oniwzKzy5hIwoAHjACgsi,YOASOBI,73,2023-02-15,https://open.spotify.com/track/1w2tdCsX2yKFjbh3wHII94,199964,False
+27,I'm a mess,X,https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e,MY FIRST STORY,71,2022-08-24,https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc,251333,False
+28,トウキョウ・シャンディ・ランデヴ,トウキョウ・シャンディ・ランデヴ,https://open.spotify.com/album/4PVGSr28Y12iTfD6QnzAkQ,MAISONdes,71,2022-10-21,https://open.spotify.com/track/2MmgGuQzr0kkiA04lMdPXW,184766,False
+29,Burning Friday Night,FULLCOLOR,https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd,Lucky Kilimanjaro,69,2015-07-22,https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V,255408,False
+30,私は最強,ウタの歌 ONE PIECE FILM RED,https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA,Ado,70,2022-08-09,https://open.spotify.com/track/5YQNjKZofFhlBCIzTVY6rW,257079,False
+31,ブルーベリー・ナイツ,hope,https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF,Macaroni Empitsu,69,2020-04-01,https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm,244869,False
+32,もう一度,もう一度,https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey,Tani Yuuki,70,2022-09-21,https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0,250766,False
+33,踊り子,踊り子,https://open.spotify.com/album/4p30PkTJXqj3Sa58xkDpPM,Vaundy,75,2021-11-17,https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V,230109,False
+34,恋人ごっこ,hope,https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF,Macaroni Empitsu,69,2020-04-01,https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO,200219,False
+35,不可幸力,strobo,https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy,Vaundy,71,2020-05-27,https://open.spotify.com/track/57MvUwzIzRJ0r21rnNU1s1,200243,False
+36,セブンティーン,セブンティーン,https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6,YOASOBI,72,2023-03-27,https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB,199585,False
+37,日常革命,ワンダーランドに愛情を!,https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih,neguse.,69,2022-09-14,https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT,273160,False
+38,夜に駆ける,THE BOOK,https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv,YOASOBI,79,2021-01-06,https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB,258838,False
+39,シャッター,壱,https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd,Yuuri,69,2022-01-12,https://open.spotify.com/track/19mjCzLuMHZ0Tyn3eI85bo,248946,False
+40,ビリミリオン,ビリミリオン,https://open.spotify.com/album/3dsbKkYZTyhuN3W3aSBHcu,Yuuri,68,2023-01-19,https://open.spotify.com/track/7KExqPOvjFzAI4d49mQxt9,226627,False
+41,死ぬのがいいわ,HELP EVER HURT NEVER,https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG,Fujii Kaze,69,2020-05-20,https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6,185573,False
+42,いつか,カントリーロード,https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y,Saucy Dog,69,2017-05-24,https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT,274871,False
+43,ねぇ,ねぇ,https://open.spotify.com/album/0LA32zD1z0qow1CiuBXTlR,YOAKE,68,2022-04-29,https://open.spotify.com/track/4OL2UHjasZp21Z1c2htqPj,200701,False
+44,心得,心得,https://open.spotify.com/album/6vVdLDovF993mCA4dBayHz,Uru,69,2023-05-01,https://open.spotify.com/track/2hPBIYQeqpbQWSMAM9ln1w,219309,False
+45,Tokimeki,Tokimeki,https://open.spotify.com/album/3Cx94e8flSlI3WE5pGrQNx,Vaundy,69,2021-09-22,https://open.spotify.com/track/18gB0d6DaRPvrQBbl7WEuk,212000,False
+46,恋風邪にのせて,恋風邪にのせて,https://open.spotify.com/album/1Qkyl4it7jUIvXWOWD2k8g,Vaundy,69,2022-03-07,https://open.spotify.com/track/5PeXak0Ox3JmH2oor0qnGt,255914,False
+47,第ゼロ感,第ゼロ感,https://open.spotify.com/album/7hUGSAApToftQu366lqPVf,10-FEET,68,2022-11-08,https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE,287991,False
+48,Idol,Idol,https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0,YOASOBI,74,2023-05-26,https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE,213233,False
+49,怪物,THE BOOK 2,https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY,YOASOBI,69,2021-12-01,https://open.spotify.com/track/6uhIF5J5Txaie0is2nXdxU,205480,False
+50,"Stand by me, Stand by you.",Life Goes On,https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe,HIRAIDAI,67,2021-02-10,https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh,193012,False
+51,Season,PRIVATE,https://open.spotify.com/album/4iEtXGDpfraVH7Srme6iqD,iri,66,2023-05-10,https://open.spotify.com/track/4rcAJoljlgzkYsisGJ1NsT,208133,False
+52,ドライフラワー,ドライフラワー,https://open.spotify.com/album/69BzgmDXpLIPQI4tUGuLZM,Yuuri,68,2020-10-25,https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J,285586,False
+53,ピーターパン,壱,https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd,Yuuri,67,2022-01-12,https://open.spotify.com/track/5MLIlPL6L8RVqL7YSpFdgr,214213,False
+54,マーメイド,マーメイド,https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq,WEDNESDAY CAMPANELLA,66,2023-07-05,https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e,235814,False
+55,向日葵,向日葵,https://open.spotify.com/album/1DTVQMng1zrycLCDzxza0y,Ado,62,2023-07-11,https://open.spotify.com/track/37EITaEG3UyWedRZrERoaK,259586,False
+56,色彩,色彩,https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn,yama,73,2022-10-02,https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD,192175,False
+57,小さな恋のうた,MESSAGE,https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2,MONGOL800,69,2001-09-16,https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35,222640,False
+58,ともに,Everybody!!,https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac,WANIMA,66,2018-01-17,https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3,207368,False
+59,Makuhari,Makuhari,https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o,Bonbero,65,2023-04-19,https://open.spotify.com/track/6AaePXUruO3297PugyiDwT,250950,True
+60,世界の秘密,世界の秘密,https://open.spotify.com/album/5lRvazxaSdC5fENYAM9W8g,Vaundy,67,2020-12-27,https://open.spotify.com/track/2ISglgxR4TxUXxrA5Iqwzr,221250,False
+61,題名のない今日,Life Goes On,https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe,HIRAIDAI,66,2021-02-10,https://open.spotify.com/track/6skNbV22epX2yHu4O2hYSx,193709,False
+62,東京フラッシュ,strobo,https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy,Vaundy,69,2020-05-27,https://open.spotify.com/track/3vXdK7DCzJyp1MIh10TJFS,258858,False
+63,さよならエレジー,PLAY(Special Edition),https://open.spotify.com/album/5JP5NDPvio5ZhkXXjcHVov,SUDA MASAKI,67,2018-03-21,https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI,257066,False
+64,泣き地蔵,泣き地蔵,https://open.spotify.com/album/1idyUee1P7komiLWlszJsC,Vaundy,66,2021-10-19,https://open.spotify.com/track/2WHVKDG5Lj92IUijUno1ON,149500,False
+65,スパークル,Sketch,https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy,Lilas Ikuta,68,2023-03-08,https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU,210500,False
+66,春を告げる,春を告げる,https://open.spotify.com/album/1B4Ka4FOargLNxmbNch7xv,yama,66,2020-04-17,https://open.spotify.com/track/2Gmyw5Vg2X5YW2lM3OC7nD,196497,False
+67,魔法が解けたら,魔法が解けたら,https://open.spotify.com/album/0oyywfjvWOi80lBKEM8GFa,Saucy Dog,66,2023-06-28,https://open.spotify.com/track/0fXzoBYLjGGzsKTO2IpoFQ,240880,False
+68,CHAINSAW BLOOD,CHAINSAW BLOOD,https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg,Vaundy,71,2022-10-12,https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU,200997,False
+69,君と羊と青,絶体絶命,https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm,RADWIMPS,66,2011-03-09,https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF,158186,False
+70,夜に駆ける,夜に駆ける,https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23,YOASOBI,77,2019-12-15,https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js,261013,False
+71,ただ声一つ,ただ声一つ,https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t,ロクデナシ,74,2021-12-22,https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J,161561,False
+72,ヤングアダルト,hope,https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF,Macaroni Empitsu,65,2020-04-01,https://open.spotify.com/track/3IanNVIcOMlKFr329uhNcA,258158,False
+73,First Love,First Love,https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6,Hikaru Utada,73,1999-03-10,https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc,257293,False
+74,グッドな音楽を,グッドな音楽を,https://open.spotify.com/album/3yp1DVS4dSKvkgJqcxXfcA,neguse.,65,2022-07-27,https://open.spotify.com/track/2vAtN2fB1zqTzfPGxqHmyO,215093,False
+75,Wherever you are,Nicheシンドローム,https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa,ONE OK ROCK,65,2010-06-09,https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm,295600,False
+76,結,テイクミー,https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh,Saucy Dog,66,2020-09-02,https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd,264840,False
+77,欲望に満ちた青年団,ゼイタクビョウ,https://open.spotify.com/album/46tj8YcIiWYdrkS8QcDNrP,ONE OK ROCK,65,2007-11-21,https://open.spotify.com/track/6D6Pybzey0shI8U9ttRAPx,202200,False
+78,灯火,strobo,https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy,Vaundy,66,2020-05-27,https://open.spotify.com/track/1JnvAinIjLd8WrEECx9neZ,178892,False
+79,線香花火 - feat. 幾田りら,線香花火 (feat. 幾田りら),https://open.spotify.com/album/4cq0K1U2cesCfyNVQkgBXu,CHIAKI SATO,66,2023-06-14,https://open.spotify.com/track/5p0iFOcN4kDKBqE9Tld5eJ,199266,False
+80,ヨワネハキ,ヨワネハキ,https://open.spotify.com/album/5cVWpOwex504JeWwqE3Q7y,MAISONdes,66,2021-05-19,https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw,166966,False
+81,まちがいさがし,LOVE,https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B,SUDA MASAKI,67,2019-07-10,https://open.spotify.com/track/55Ww4Pa1iIQMhh0MLMetjo,223640,False
+82,プロローグ,プロローグ,https://open.spotify.com/album/3MOKzDaMiqSc04I04oiELA,Uru,66,2018-12-05,https://open.spotify.com/track/4YMukCV1BsdK8V9kZoQpT6,302346,False
+83,怪物,怪物,https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9,YOASOBI,73,2021-01-06,https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi,206000,False
+84,ベテルギウス,ベテルギウス,https://open.spotify.com/album/25FWSs9iK7hQqyK2fdKvSV,Yuuri,67,2021-11-04,https://open.spotify.com/track/2sf18cEv463VgqmdjDsFpw,230393,False
+85,いばら,いばら,https://open.spotify.com/album/2oSVsWCwiLaCMCR6bqONPY,Ado,65,2023-05-09,https://open.spotify.com/track/3xWRjOUp8oDOByEJbOVh6U,261045,False
+86,なぁ,なぁ,https://open.spotify.com/album/69zY0xxGpRkMHwxmtShobk,YOAKE,64,2021-06-30,https://open.spotify.com/track/0E5FxZ0spndv7NZGQdrJaZ,194344,False
+87,life hack,strobo,https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy,Vaundy,66,2020-05-27,https://open.spotify.com/track/0NlM3asfhPzhDwm5frXquS,226443,False
+88,逆光,ウタの歌 ONE PIECE FILM RED,https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA,Ado,66,2022-08-09,https://open.spotify.com/track/78MS9OT9Flm2V78fhTw4rk,237666,False
+89,ミズキリ,壱,https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd,Yuuri,66,2022-01-12,https://open.spotify.com/track/6T8eKlvqWuPKJT7euIqoxX,208400,False
+90,洗濯機と君とラヂオ,CHOSYOKU,https://open.spotify.com/album/4oal4axj41REAu9bIHvsXF,Macaroni Empitsu,64,2017-12-07,https://open.spotify.com/track/24WOKllIT2yySSqtcTFmMf,231406,False
+91,W / X / Y,W / X / Y,https://open.spotify.com/album/4nghzKJpgZuRG6TLkAHODf,Tani Yuuki,65,2021-05-26,https://open.spotify.com/track/6ybLgHBGIxR8R6IIVmaipO,279100,False
+92,群青,群青,https://open.spotify.com/album/4nLIK2uFzYUJqLAfJZYgLx,YOASOBI,69,2020-09-01,https://open.spotify.com/track/0T4AitQuq8IJhWBWuZwkFA,248444,False
+93,恋人じゃなくなった日,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,65,2023-03-29,https://open.spotify.com/track/57PvgLc0UuLaMEu49w8tiR,226093,False
+94,何なんw,HELP EVER HURT NEVER,https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG,Fujii Kaze,64,2020-05-20,https://open.spotify.com/track/2Nl3vx5qRnATIckVRZxb4T,320640,False
+95,少年,S,https://open.spotify.com/album/7Kl8YgPC8fI3RIDApfUB7T,SOUTH BLUE,64,2022-02-14,https://open.spotify.com/track/5m0f8vdqvEElUgJRXnOxqy,183530,False
+96,damn,LOVE ALL SERVE ALL,https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH,Fujii Kaze,64,2022-03-23,https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy,259026,False
+97,裸の勇者,裸の勇者,https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7,Vaundy,70,2022-01-07,https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o,201973,False
+98,grace,grace,https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu,Fujii Kaze,68,2022-10-09,https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2,289541,False
+99,Super Star,Super Star,https://open.spotify.com/album/3la1sobSJKoHNVyNScStwp,Furui Riho,63,2023-05-10,https://open.spotify.com/track/4LCJXB7w5ZV0oT6cu9mv5k,202706,False
+100,愛言葉,Memories,https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5,Tani Yuuki,64,2021-12-08,https://open.spotify.com/track/515q6vR077kY4BQv8F3pGj,286546,False
+101,メリーゴーランド,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,65,2023-03-29,https://open.spotify.com/track/2MsDVWHcrBexkP9zOIWz4R,256680,False
+102,なんでもないよ、,なんでもないよ、,https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S,Macaroni Empitsu,64,2021-11-03,https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1,218751,False
+103,海のまにまに,海のまにまに,https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB,YOASOBI,68,2022-11-18,https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN,255918,False
+104,常緑,you,https://open.spotify.com/album/1zYNXMwnOzrM188c5DRQLw,Chippoke Ohashi,64,2021-10-13,https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP,171546,False
+105,Good Bye,Good Bye,https://open.spotify.com/album/6qdTJTp6Lya9Aias2YnPpG,Rin音,64,2023-06-08,https://open.spotify.com/track/1rpiNePakpelGxsKFzNVBP,250932,False
+106,三原色,THE BOOK 2,https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY,YOASOBI,65,2021-12-01,https://open.spotify.com/track/0UBUg8NU4XJtQqzTPs8Pkr,220253,False
+107,まぶた,まぶた,https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP,Vaundy,65,2023-01-10,https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN,256303,False
+108,愛してみてよ減るもんじゃないし,愛してみてよ減るもんじゃないし,https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH,neguse.,64,2023-04-12,https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS,198806,False
+109,ウタカタララバイ,ウタの歌 ONE PIECE FILM RED,https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA,Ado,64,2022-08-09,https://open.spotify.com/track/3IhHrBYZaxySuRu1zI7Vuk,173373,False
+110,おもかげ -self cover-,裸の勇者,https://open.spotify.com/album/1tLmGtOgNhMFgPR5bQpigb,Vaundy,64,2022-02-21,https://open.spotify.com/track/6uqewERWZ1vzfCcin1zFIp,209920,False
+111,好きだ,好きだ,https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0,YOASOBI,67,2022-05-30,https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu,217512,False
+112,椿,椿,https://open.spotify.com/album/21K9crxMcJ2oKbvHVOopnr,TORAUMA,63,2020-07-10,https://open.spotify.com/track/09ejq9irl5FsaFWzh0oK5R,327446,True
+113,しわあわせ,しわあわせ,https://open.spotify.com/album/0SoKJtlMONWEI19IZ2QAzr,Vaundy,64,2021-04-11,https://open.spotify.com/track/2F1Zfnh89pO7urUL7KoVfn,278250,False
+114,fake face dance music,fake face dance music,https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I,音田 雅則,65,2023-07-11,https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313,151015,False
+115,新時代 - ウタ from ONE PIECE FILM RED,新時代 (ウタ from ONE PIECE FILM RED),https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb,Ado,69,2022-06-08,https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25,228214,False
+116,まつり,LOVE ALL SERVE ALL,https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH,Fujii Kaze,64,2022-03-23,https://open.spotify.com/track/3OdkC5pG8vc26S26qHyBo8,225920,False
+117,また逢う日まで,Slow & Easy,https://open.spotify.com/album/0LLMweYMQL9FSdHortnpx8,HIRAIDAI,63,2015-05-06,https://open.spotify.com/track/3awymLmIrvn9lkJeFpmRSf,255026,False
+118,Longiness,Longiness,https://open.spotify.com/album/07w0hA3SRaQ1t9tETYMiSQ,SugLawd Familiar,63,2020-10-21,https://open.spotify.com/track/6xf2KSaajcQyIUNESVYhzO,187741,False
+119,おかえり,Memories,https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5,Tani Yuuki,64,2021-12-08,https://open.spotify.com/track/7GoPAWftpQzN8euEs2mgM6,225828,False
+120,Lovers,アンサーパレード,https://open.spotify.com/album/4kNlMuuyicf74Vn0b74Jys,sumika,65,2016-05-25,https://open.spotify.com/track/6IEqiEgTQn4FwE0seKXFZO,250800,False
+121,祈り花,祈り花,https://open.spotify.com/album/1GyEndDROnEar07lJ2RHyb,HIRAIDAI,63,2011-10-19,https://open.spotify.com/track/5G24eB35Ucu4A8MPKLNV9B,263480,False
+122,slash,slash,https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3,yama,67,2023-04-09,https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T,238833,False
+123,P.S.,P.S.,https://open.spotify.com/album/4Ov5F3jrRQcCApqS3NheI0,Lilas Ikuta,61,2023-07-07,https://open.spotify.com/track/5IUa0XCUrIzqjBcFv5fgRo,172611,False
+124,夢みるスーパーマン,バットリアリー,https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU,Saucy Dog,46,2023-07-19,https://open.spotify.com/track/7JEYvQLv4io6Xi5FldZMqw,192878,False
+125,Bluma to Lunch,BLOOM SQUAD,https://open.spotify.com/album/3jEYkWEh3uvfHPjl1x3Kwx,BLOOM VASE,63,2020-12-19,https://open.spotify.com/track/0eQkbjPz6eQvhI3sfpshVK,159040,True
+126,サマーデイドリーム,バットリアリー,https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU,Saucy Dog,42,2023-07-19,https://open.spotify.com/track/6t3aCzGJaigaURhSvDDduN,257513,False
+127,シグナル,Everybody!!,https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac,WANIMA,63,2018-01-17,https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq,219530,False
+128,魔法が解けたら,バットリアリー,https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU,Saucy Dog,39,2023-07-19,https://open.spotify.com/track/6h1ry3Eb2gPMSi2mIhmBP6,240880,False
+129,現在を生きるのだ。,バットリアリー,https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU,Saucy Dog,39,2023-07-19,https://open.spotify.com/track/0zZn7tupk239zwb3SPFmT1,277701,False
+130,紫苑,バットリアリー,https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU,Saucy Dog,39,2023-07-19,https://open.spotify.com/track/5kDvlzU9exo2NjRmVjPWZu,325068,False
+131,そんだけ,バットリアリー,https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU,Saucy Dog,39,2023-07-19,https://open.spotify.com/track/2AUJNbHdjLV6PQ3gpy92To,260601,False
+132,正解 - 18FES ver.,ANTI ANTI GENERATION,https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF,RADWIMPS,63,2018-12-12,https://open.spotify.com/track/5Frs0ai4Vz387B7nKi75JJ,357426,False
+133,怪物たちよ,バットリアリー,https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU,Saucy Dog,37,2023-07-19,https://open.spotify.com/track/3Lbzbx3gxVpVmwd7q3dZ8r,323554,False
+134,Slow & Easy,Slow & Easy,https://open.spotify.com/album/0LLMweYMQL9FSdHortnpx8,HIRAIDAI,63,2015-05-06,https://open.spotify.com/track/4b5oBON2DgamONUxvP4JyQ,215120,False
+135,05410-(ん),RADWIMPS 4 ~おかずのごはん~,https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP,RADWIMPS,64,2006-12-06,https://open.spotify.com/track/45Qz90khfSW8AnaH9vNg5j,190453,False
+136,優しさに溢れた世界で,サニーボトル,https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew,Saucy Dog,64,2022-07-06,https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE,258207,False
+137,今更だって僕は言うかな,テイクミー,https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh,Saucy Dog,64,2020-09-02,https://open.spotify.com/track/6NsZYSKBD30LvrB25yAZ2v,249600,False
+138,そっけない,ANTI ANTI GENERATION,https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF,RADWIMPS,63,2018-12-12,https://open.spotify.com/track/2ntXQnx4ZUraj1u5Hwqjem,389466,False
+139,アンコール,THE BOOK,https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv,YOASOBI,68,2021-01-06,https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC,271440,False
+140,Have a nice day,POP CUBE,https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX,imase,66,2022-11-09,https://open.spotify.com/track/5SWxyVd5Q5c1jzPpdL9olt,175600,False
+141,スパークル,スパークル,https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv,Lilas Ikuta,64,2022-01-17,https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ,213600,False
+142,やってみよう,Everybody!!,https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac,WANIMA,63,2018-01-17,https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz,169697,False
+143,あなたがいることで,オリオンブルー (Special Edition),https://open.spotify.com/album/369KX0SKUZRgD0MISapqrT,Uru,63,2020-03-18,https://open.spotify.com/track/2AVbKUuvvzbPK6NIZZZvcY,316453,False
+144,きらり,きらり,https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy,Fujii Kaze,64,2021-05-03,https://open.spotify.com/track/3ciqhcLmXP4hVGBD98QlEj,231882,False
+145,あの夢をなぞって,THE BOOK,https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv,YOASOBI,70,2021-01-06,https://open.spotify.com/track/5ptl2PXkiSth54HCuGO7vN,240746,False
+146,happy ending,happy ending,https://open.spotify.com/album/57mtjHY4I31nFLDqiAmrnP,eill,62,2023-06-14,https://open.spotify.com/track/6Ej417VdDyV4NJ9CMyd7pt,229847,False
+147,アストロノーツ,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,63,2023-03-29,https://open.spotify.com/track/4GLeHXOyA4gdTzxp5VxTu5,198893,False
+148,夏恋センセイション,CHOSYOKU,https://open.spotify.com/album/4oal4axj41REAu9bIHvsXF,Macaroni Empitsu,62,2017-12-07,https://open.spotify.com/track/5McCZ1isTVJg3Wr5WBVoI3,138135,False
+149,たましいの居場所,たましいの居場所,https://open.spotify.com/album/7Gy6jvTXkSgx5oEbaWBt1l,Macaroni Empitsu,62,2022-06-17,https://open.spotify.com/track/5D16E22MJJyKesh9PrJf2L,201535,False
+150,Hug,Hug,https://open.spotify.com/album/1q8jca3CXP19IutTf5BKMp,空音,62,2019-08-21,https://open.spotify.com/track/4cHB6U8fasfxq7XD8uNxuK,184728,False
+151,ウエディング,ウエディング,https://open.spotify.com/album/6LKuvUyN7HfayyAhWtVZsx,音田 雅則,62,2022-10-25,https://open.spotify.com/track/3ZtHtqqSEKd8EcggroTfZU,318586,False
+152,たぶん,THE BOOK,https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv,YOASOBI,73,2021-01-06,https://open.spotify.com/track/398dL22bDbKbAmiOnPaq7o,256773,False
+153,Canvas,Canvas,https://open.spotify.com/album/1DHLCK0JwwKeNxdy9fWtp0,Kaneee,62,2023-05-28,https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT,185124,False
+154,ユートピア,ユートピア,https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V,imase,60,2023-07-07,https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI,272036,False
+155,Buddy,HOPE / WISH,https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ,HIRAIDAI,62,2022-05-09,https://open.spotify.com/track/1GlT0DZKjapYwJzRcdBh4F,174232,False
+156,風のゆくえ,ウタの歌 ONE PIECE FILM RED,https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA,Ado,63,2022-08-09,https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s,272466,False
+157,三原色,三原色,https://open.spotify.com/album/3MeMuzwFRLje0g7fdni41h,YOASOBI,66,2021-07-02,https://open.spotify.com/track/3FUCuf498nFHJXFYR1V9Bd,224066,False
+158,燈,燈,https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz,Soushi Sakiyama,69,2023-07-07,https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr,238720,False
+159,ハルカ,THE BOOK,https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv,YOASOBI,66,2021-01-06,https://open.spotify.com/track/5D9MPWdY2hjSeTIGE5n5kv,243613,False
+160,ピーターパン,ピーターパン,https://open.spotify.com/album/0VQOiQ2dXH2qjpbHTlwXlz,Yuuri,62,2020-08-09,https://open.spotify.com/track/0Ic9yiyHCoRCSvPoqTagat,214586,False
+161,ミスター,ミスター,https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt,YOASOBI,67,2022-02-16,https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np,187000,False
+162,会いたいな,会いたいな,https://open.spotify.com/album/3YlYW7WfeDvrrlvpnmm6go,手がクリームパン,62,2021-12-29,https://open.spotify.com/track/2b5CS01QECfqKE25e0vF0V,165205,False
+163,喜劇,喜劇,https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB,Gen Hoshino,63,2022-04-08,https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL,230666,False
+164,エジソン,ネオン,https://open.spotify.com/album/4tlqOW9ThwLtEBHPLWD27C,WEDNESDAY CAMPANELLA,61,2022-05-25,https://open.spotify.com/track/2wRKOmpe6I7q6k69bkjuFU,193510,False
+165,それを愛と呼ぶなら,それを愛と呼ぶなら,https://open.spotify.com/album/5gdO6MiTK1Df7SGctJWtUs,Uru,63,2022-04-24,https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL,294666,False
+166,魔法にかけられて,サニーボトル,https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew,Saucy Dog,62,2022-07-06,https://open.spotify.com/track/4n1x8gmuHKOJ1BNFnBsgTh,259351,False
+167,君の為のキミノウタ,I believe in you,https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL,Takaya Kawasaki,62,2018-03-14,https://open.spotify.com/track/56Cdqx7BdhEsUUMctdORvU,313877,False
+168,Symphony,Symphony,https://open.spotify.com/album/5gXLrip7tdaXELfwcjDeeu,HIRAIDAI,61,2023-04-28,https://open.spotify.com/track/4TI7dRixtHok7njiL4CCaI,262505,False
+169,Answer,Sketch,https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy,Lilas Ikuta,64,2023-03-08,https://open.spotify.com/track/0avegfB0TQ8cGDk9nuxcOQ,242105,False
+170,もう少しだけ,THE BOOK 2,https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY,YOASOBI,62,2021-12-01,https://open.spotify.com/track/2cBAc8f0ueFKSXGQRJRsyN,218853,False
+171,MIRROR MIRROR,HOPE / WISH,https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ,HIRAIDAI,61,2022-05-09,https://open.spotify.com/track/3nFxkwyRpr4xYBR9Z0ywjo,186650,False
+172,Tot Musica,ウタの歌 ONE PIECE FILM RED,https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA,Ado,62,2022-08-09,https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj,195226,False
+173,DOSHABURI,DOSHABURI,https://open.spotify.com/album/23nlB57PLkDfluacW1PmCv,kZm,62,2023-06-14,https://open.spotify.com/track/4PmbTS1aZVE7k9XdcZz3Uv,161543,False
+174,大団円,大団円,https://open.spotify.com/album/3E7zFmPjS6pzIqkqfbsu9f,RADWIMPS,63,2023-07-04,https://open.spotify.com/track/0SonLPh214mxlPF3ZjzuoL,325851,False
+175,それを愛と呼ぶなら,コントラスト(Special Edition),https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1,Uru,62,2023-01-30,https://open.spotify.com/track/2lHfHAQDlmTfN8SqYs9G09,294173,False
+176,シャッター,シャッター,https://open.spotify.com/album/25dyJV4gL5abAB8GqCdH1C,Yuuri,62,2021-07-07,https://open.spotify.com/track/6VwpOZpqx8IqoF201VGAp8,247333,False
+177,Yessir,Jungle,https://open.spotify.com/album/5qr3R4M52bfZ3PrgRiDjmM,¥ellow Bucks,61,2020-08-21,https://open.spotify.com/track/4ef665KqgZWRooxhSwtQtH,172389,True
+178,踊,狂言,https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P,Ado,62,2022-01-26,https://open.spotify.com/track/0871AdnvzzSGr5XdTJaDHC,210346,False
+179,タイムマシン,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,62,2023-03-29,https://open.spotify.com/track/7bPb3FOpEqv8q146tNeq8r,201640,False
+180,紫苑,紫苑,https://open.spotify.com/album/7kCkbIhyJo0h2P4tgRkxRR,Saucy Dog,62,2022-10-04,https://open.spotify.com/track/4dFGAtzdQ0C7WowKPZXc8J,324698,False
+181,ワンドリンク別,アルデンテ,https://open.spotify.com/album/0blIFyYXMXiaCU9OPLVGg1,Macaroni Empitsu,61,2019-04-18,https://open.spotify.com/track/5tapE1gGyABsGFtgeOYchU,110924,False
+182,切手のないおくりもの,JUICE UP!!,https://open.spotify.com/album/4Lok72u8OYNTmdO30Y159a,WANIMA,61,2016-08-03,https://open.spotify.com/track/6o62Uq8qFlpCKpk5jZiHuo,117480,False
+183,線香花火,S,https://open.spotify.com/album/7Kl8YgPC8fI3RIDApfUB7T,SOUTH BLUE,61,2022-02-14,https://open.spotify.com/track/5j3JsdtR8oQJDX44ECCUna,204375,False
+184,不思議,不思議,https://open.spotify.com/album/5s6klVSavspAWCCKSjDYCn,Gen Hoshino,62,2021-04-27,https://open.spotify.com/track/6NKn02oJDkUkRa9IHbMe3n,290000,False
+185,熱帯夜,FUNFAIR,https://open.spotify.com/album/0RRc468UtRV23G7tRLQBzo,RIP SLYME,62,2007-07-25,https://open.spotify.com/track/6hQdLMHZXPGJV8oJdr2zsL,289946,False
+186,Can You Keep A Secret?,Distance,https://open.spotify.com/album/4A2UQhhGtYlsD6pMpuW4XR,Hikaru Utada,63,2001-03-28,https://open.spotify.com/track/3ZNeHexG9hUvduqJlywq0g,308466,False
+187,夏夜のマジック,藍色ミュージック,https://open.spotify.com/album/7xcwmNnb4URBJMKgyfaTkU,indigo la End,63,2016-06-08,https://open.spotify.com/track/144pIQC3mpmUkZXMt8fIwb,305640,False
+188,Get Back,Get Back,https://open.spotify.com/album/3tEL6DBYyXvtDSmQBDNog5,Ralph,60,2023-04-05,https://open.spotify.com/track/2L4TksDkTcAfZXGNjpdQqG,207015,True
+189,ハルジオン,THE BOOK,https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv,YOASOBI,67,2021-01-06,https://open.spotify.com/track/08YwAPnX8sygJUXG9rvhDv,198600,False
+190,Wasted Nights,Eye of the Storm,https://open.spotify.com/album/6JjOyVA7Ph4Ufowxgz1ezk,ONE OK ROCK,61,2019-02-13,https://open.spotify.com/track/2gSQoIbvF2hDfIayhF7QLa,224773,False
+191,ハルカ,ハルカ,https://open.spotify.com/album/6uq5X6zI466fOyPkzwVYTH,YOASOBI,65,2020-12-18,https://open.spotify.com/track/6wKmxUeMJAoz2GpMrw95z5,243613,False
+192,もう少しだけ,もう少しだけ,https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I,YOASOBI,66,2021-05-10,https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg,220200,False
+193,リベリオン,リベリオン,https://open.spotify.com/album/120fFIxJOERpjvhdC7xJSE,Ado,62,2022-09-18,https://open.spotify.com/track/3AchaKyy2z6K85YGR729JQ,178064,False
+194,Stand Out Fit In,Eye of the Storm,https://open.spotify.com/album/6JjOyVA7Ph4Ufowxgz1ezk,ONE OK ROCK,61,2019-02-13,https://open.spotify.com/track/17EiIn0d2tftCjJrGOrbFj,214546,False
+195,あの夢をなぞって,あの夢をなぞって,https://open.spotify.com/album/6VtHuuDn351LBXwpxmvZqt,YOASOBI,68,2020-01-18,https://open.spotify.com/track/4BE1OloRc9xwjyqA4wFFuN,242666,False
+196,最低,最低,https://open.spotify.com/album/4DV2vgNpPKrd4BS3p2Msb0,れん,61,2022-10-12,https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt,200050,False
+197,旅路,LOVE ALL SERVE ALL,https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH,Fujii Kaze,61,2022-03-23,https://open.spotify.com/track/7uSLJCDetmdm3tQcoYLyty,277026,False
+198,かくれんぼ,壱,https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd,Yuuri,61,2022-01-12,https://open.spotify.com/track/0tMqllhrXe8CWOosrCD1fE,271426,False
+199,瞳惚れ,瞳惚れ,https://open.spotify.com/album/4qVQrqIXH8XToBGY4SOOss,Vaundy,62,2022-10-28,https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z,257687,False
+200,愛の波,愛の波,https://open.spotify.com/album/2mBNWnAlpgGhAOeNlbZXRu,Macaroni Empitsu,60,2023-04-22,https://open.spotify.com/track/2pitZk9jjMrkHVHgtEyx12,223263,False
+201,勿忘,Grower,https://open.spotify.com/album/4TapnJaH5MhqK5Jn7jt3eS,Awesome City Club,62,2021-02-10,https://open.spotify.com/track/0XZyF9lv6diMt4bxThOL0h,251533,False
+202,栄光の扉,栄光の扉,https://open.spotify.com/album/5B4g8QeADJxr4Vbv3lBwbX,HIRAIDAI,60,2022-07-18,https://open.spotify.com/track/67O5aJpFGwY3fWTZR7dYF4,207898,False
+203,虹,虹,https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi,SUDA MASAKI,63,2020-11-10,https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS,258733,False
+204,NINOKUNI,OZWORLD,https://open.spotify.com/album/36eFAkbCd4RZw4P2Qy3Vmo,OZworld,61,2019-06-09,https://open.spotify.com/track/4cszUCYBMe3KiyewKfU96B,257282,False
+205,置き手紙,置き手紙,https://open.spotify.com/album/0c0A1E5XEI1IEopfuaIgxN,Vaundy,62,2022-11-28,https://open.spotify.com/track/30qO2rZlw1ZTLWOpCGuuGI,239072,False
+206,阿修羅ちゃん,狂言,https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P,Ado,61,2022-01-26,https://open.spotify.com/track/0cN6iBeCR7NgeBeTIKjLml,195080,False
+207,あぁ、もう。,サニーボトル,https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew,Saucy Dog,61,2022-07-06,https://open.spotify.com/track/0DPNaz9xQ0AKUsCOvfakqy,284335,False
+208,フレンズ,REBECCA SINGLES,https://open.spotify.com/album/0WdjB3rM7JFfHo3iNoABZw,REBECCA,61,1984,https://open.spotify.com/track/5lAW7Y56kL1r3dD6bAI49y,276000,False
+209,ラブレター,ラブレター,https://open.spotify.com/album/6RfHLN2DLnZLAvR5Ogb4jA,YOASOBI,65,2021-08-09,https://open.spotify.com/track/185Wm4Mx09dQG0fUktklDm,212400,False
+210,やさしさに包まれたなら,MISSLIM,https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO,Yumi Arai,63,1974-10-05,https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU,191726,False
+211,うるうびと,余命10年 (Original Soundtrack),https://open.spotify.com/album/4BVxkC0NDkRLpTmNdDnPmz,RADWIMPS,61,2022-03-04,https://open.spotify.com/track/6mJIn3fvwWHHAnrR3LEdxp,318880,False
+212,最大公約数,RADWIMPS 3 ~無人島に持っていき忘れた一枚~,https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f,RADWIMPS,62,2006-02-15,https://open.spotify.com/track/6B6PeBESFdk0OjBmGDllYI,274093,False
+213,アイワナムチュー,アイワナムチュー,https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC,MAISONdes,63,2023-01-06,https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv,205733,False
+214,私は最強 - ウタ from ONE PIECE FILM RED,私は最強 (ウタ from ONE PIECE FILM RED),https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq,Ado,64,2022-06-22,https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh,257915,False
+215,アタシは問題作,アタシは問題作,https://open.spotify.com/album/21iY3NVr5gHtQ3qxLXFWOl,Ado,61,2023-02-20,https://open.spotify.com/track/2CzFckH57NqbC4n0VZDLLB,194515,False
+216,アイタリナイ,アイタリナイ,https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj,MAISONdes,65,2023-01-13,https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh,162366,False
+217,第六感,第六感,https://open.spotify.com/album/6CTOnVKQhpsL1NeJQ3XyXF,Reol,63,2020-07-27,https://open.spotify.com/track/22sQUmLhT8umlEhQzDrzfJ,191624,False
+218,鱗(うろこ),コントラスト,https://open.spotify.com/album/3zQQfkeOgbjCwjA2585J0P,Motohiro Hata,62,2007-09-26,https://open.spotify.com/track/4IubwxgmXeZtDtYjTaT9gN,324053,False
+219,ミライチズ,ミライチズ,https://open.spotify.com/album/1qogh6gwk9pSvO97IxIaIO,Yoru no Hitowarai,60,2021-06-03,https://open.spotify.com/track/3mSqtn05vfpqAMpFTLsxpi,239613,False
+220,さよならべいべ,HELP EVER HURT NEVER,https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG,Fujii Kaze,60,2020-05-20,https://open.spotify.com/track/58zXQUhb3NXbY2QjhRgTNL,260533,False
+221,Bye,Bye,https://open.spotify.com/album/6mzV8iotT6rGNLQrX82tXA,YRD Leo,60,2021-09-17,https://open.spotify.com/track/1CCaDGO0fcJ9LJCn44G2AK,142516,False
+222,Love Song,Love Song,https://open.spotify.com/album/5NWIfXCP5VKNlZmkfDnPuV,Uru,61,2021-08-05,https://open.spotify.com/track/2aAuO61alPO20xyePFHjdf,286413,False
+223,The Beginning,人生×僕=,https://open.spotify.com/album/2bvVzDllEs2oc73rZW7wnU,ONE OK ROCK,60,2013-03-06,https://open.spotify.com/track/1J6MFj60gFCvYqOtjoYkM0,292733,False
+224,どんなときも。,君は誰と幸せなあくびをしますか。,https://open.spotify.com/album/1W5bcnsF2oBSTuQCJYPlrK,Noriyuki Makihara,61,1991-09-25,https://open.spotify.com/track/4feDzcxtXRU8clyOluco5Y,304506,False
+225,キミシダイ列車,残響リファレンス,https://open.spotify.com/album/46tySm112BCkEkfssfPODv,ONE OK ROCK,60,2011-10-05,https://open.spotify.com/track/0a5rZP8sYdlvBRVmcNovyC,254746,False
+226,完全感覚Dreamer,Nicheシンドローム,https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa,ONE OK ROCK,60,2010-06-09,https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh,252200,False
+227,あなたに,MESSAGE,https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2,MONGOL800,62,2001-09-16,https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja,195600,False
+228,SUN,YELLOW DANCER,https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax,Gen Hoshino,61,2015-12-02,https://open.spotify.com/track/1DOZa2VoazIiDjGYlUQTlW,241466,False
+229,帰ろう,HELP EVER HURT NEVER,https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG,Fujii Kaze,60,2020-05-20,https://open.spotify.com/track/6Dmxt4rbi97c7sjoWRrJoj,284480,False
+230,打上花火,THANK YOU BLUE,https://open.spotify.com/album/7202ZrUyEoOv4xwbbBEfql,Daoko,67,2017-12-20,https://open.spotify.com/track/4IouQaO9GkaHC7AtMErdSa,289577,False
+231,mabataki,mabataki,https://open.spotify.com/album/5EdGTFSSmYxaGOBTnCHClZ,Vaundy,62,2022-09-10,https://open.spotify.com/track/1mzn53qwArYj52lIGpXXlD,243925,False
+232,夢灯籠,君の名は。,https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl,RADWIMPS,61,2016-08-24,https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T,129186,False
+233,不可幸力,不可幸力,https://open.spotify.com/album/3JibWYuL2HWKtCEZH4ToHu,Vaundy,61,2020-01-22,https://open.spotify.com/track/50yI44ARRBhru5AK3Arhsk,200243,False
+234,桜晴,壱,https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd,Yuuri,60,2022-01-12,https://open.spotify.com/track/73R8pJOJ2pBFgZsyFA2Ewz,238240,False
+235,LA・LA・LA LOVE SONG,LA・LA・LA LOVE THANG,https://open.spotify.com/album/3sqTfrcrrVXqmquAQ5LqGc,Toshinobu Kubota,62,1996-12-02,https://open.spotify.com/track/2NFKSwzaNKXAqBqlXgeTEo,286493,False
+236,Bye by me,strobo,https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy,Vaundy,61,2020-05-27,https://open.spotify.com/track/7DZx9TAPMhQOHrHiCS4gds,242415,False
+237,恋人じゃなくなった日,恋人じゃなくなった日,https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ,Yuuri,60,2023-02-14,https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8,224027,False
+238,I LOVE YOU,愛すべきものすべてに -YUTAKA OZAKI BEST,https://open.spotify.com/album/5KYFjInulb9juOaJSDJtme,Yutaka Ozaki,61,1983,https://open.spotify.com/track/0HMSTmDVXtCSauJvu8nnfs,260626,False
+239,レモンパイ,hope,https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF,Macaroni Empitsu,59,2020-04-01,https://open.spotify.com/track/5a9awnr002AVXUSVu2CC46,217740,False
+240,ラブソング,LOVE: AMPLIFIED,https://open.spotify.com/album/45NbVBQW1OYgYXUC8K9Ejh,Tatsuya Kitani,64,2023-06-14,https://open.spotify.com/track/5iYQ3bdL5XsPPpu8iZskQJ,164917,False
+241,フシアワセ,フシアワセ,https://open.spotify.com/album/1ynoylwFZ0K7qC85sp8CnP,れん,60,2023-05-31,https://open.spotify.com/track/26TkBHFwts2pMl0xKoL2Mz,210969,False
+242,MARIONETTE,PSYCHOPATH,https://open.spotify.com/album/5XNV1gmhnTnwvQ1bpMmYhj,BOØWY,59,1987-09-05,https://open.spotify.com/track/1zg3S9jjRaKG3O9TMU6Cnh,230173,False
+243,うっせぇわ,狂言,https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P,Ado,61,2022-01-26,https://open.spotify.com/track/5QS01sq07pThdktoNUxXRZ,206893,False
+244,独占愛,ワンダーランドに愛情を!,https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih,neguse.,60,2022-09-14,https://open.spotify.com/track/5wc5nCZqZqDjBhnouHkbvz,174613,False
+245,優しい彗星,優しい彗星,https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf,YOASOBI,67,2021-01-20,https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c,215333,False
+246,My Resort,Jungle,https://open.spotify.com/album/5qr3R4M52bfZ3PrgRiDjmM,¥ellow Bucks,60,2020-08-21,https://open.spotify.com/track/7p21ty59l7gtfhDX7rifLa,132813,True
+247,優しさ,HELP EVER HURT NEVER,https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG,Fujii Kaze,60,2020-05-20,https://open.spotify.com/track/0f3Ce9xjHymExIpEyHUC8D,240080,False
+248,コンタクトケース,サラダデイズ,https://open.spotify.com/album/1Bt5XeQvgtpBtcbRvcCNDf,Saucy Dog,60,2018-05-23,https://open.spotify.com/track/3nD8q4dCCybzh5L3HU8PWH,286493,False
+249,Unreachable love song,Memories,https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5,Tani Yuuki,60,2021-12-08,https://open.spotify.com/track/7dthn3tyJkotnxTRih1LMo,220325,False
+250,CHILDAYS,BLOOM iSLAND,https://open.spotify.com/album/7dHsWvzd5ZRThgTrKLLAo9,BLOOM VASE,60,2020-07-21,https://open.spotify.com/track/233av6iCcdMz62X73Z1MMZ,190271,False
+251,ハルジオン,ハルジオン,https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q,YOASOBI,66,2020-05-11,https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi,198000,False
+252,世界のつづき,ウタの歌 ONE PIECE FILM RED,https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA,Ado,60,2022-08-09,https://open.spotify.com/track/17zp5n2rbiRJzQtCaZpXDD,287986,False
+253,夢の恋人,夢が醒めたら,https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z,ZOOKARADERU,60,2018-11-21,https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T,200386,False
+254,かくれんぼ,かくれんぼ,https://open.spotify.com/album/6cpzSon38ekIuocueyQTCe,Yuuri,59,2019-12-01,https://open.spotify.com/track/0JTjZnuciQH4M3620aMDtZ,271093,False
+255,友達以上恋人未満,友達以上恋人未満,https://open.spotify.com/album/5ZG2Q9FWX4GkQdXnjL1KNH,まつむら かなう,59,2022-07-13,https://open.spotify.com/track/6CbtmvNHxMjf7X7VKJghUh,262533,False
+256,B・BLUE,BEAT EMOTION,https://open.spotify.com/album/2bkKCQ1ASzhXrQebGRTTSm,BOØWY,59,1986-11-08,https://open.spotify.com/track/2jTBjozRvi81DWyJ3B2adJ,237093,False
+257,カタコト,カタコト,https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7,sloppy dim,60,2020-09-24,https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT,158888,False
+258,にじいろ,レインボーロード,https://open.spotify.com/album/0PxbPJV4yqtEe6Vk6nvK03,ayaka,60,2015-04-15,https://open.spotify.com/track/3JrxNi0sQ1Lnx8eGonp3Ma,224720,False
+259,幸せの花束を,幸せの花束を,https://open.spotify.com/album/784lEVG9l9UKEEKsthR081,マルシィ,60,2022-10-26,https://open.spotify.com/track/1Euv5nYRVHABdQdQEwi5kE,250666,False
+260,ロマンスの神様,SUCCESS STORY,https://open.spotify.com/album/1i1NAFDXh1mgzyXLJxOReo,Kohmi Hirose,61,1993-12-16,https://open.spotify.com/track/0xYSgQHddr1lh6IfqWgn2W,269283,False
+261,Real Life,Falling,https://open.spotify.com/album/4z9xnNbdA9hLSJhHZ3ODZ7,rk bene baby,59,2021-12-01,https://open.spotify.com/track/5PaexnNveNJ7NtEAnC3Ox3,180282,True
+262,紙一重,紙一重,https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN,Uru,66,2023-04-15,https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb,249477,False
+263,Season,Season,https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M,iri,58,2023-04-19,https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg,208133,False
+264,たぶん,たぶん,https://open.spotify.com/album/2882DYZkYy3UOYyWOvbnnl,YOASOBI,70,2020-07-20,https://open.spotify.com/track/62Lv9WcrfzJqhvYDbilJy3,258666,False
+265,もしも命が描けたら,THE BOOK 2,https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY,YOASOBI,61,2021-12-01,https://open.spotify.com/track/06Dyf27hoaHiVugKgL7K2Z,201626,False
+266,アスノヨゾラ哨戒班,アスノヨゾラ哨戒班,https://open.spotify.com/album/6BU55pKpQIZE4PCnniMKEF,Yuaru,59,2020-07-01,https://open.spotify.com/track/12UQIL5yjh7GT7upccCcXk,179220,False
+267,返光(Movie Edition),返光(Movie Edition),https://open.spotify.com/album/0QNXYlm9zDHKXZA8UFa3DQ,yama,55,2023-07-12,https://open.spotify.com/track/1lLsIUCAXc8U7QuS3J87Fu,245533,False
+268,虹,COLLAGE,https://open.spotify.com/album/6wxmZtLnco0Ett7Hz4TS19,SUDA MASAKI,61,2022-03-09,https://open.spotify.com/track/7eqjbcOZTgZbV0lX2ghtfV,257398,False
+269,Wonderful Life,SURF & TURF,https://open.spotify.com/album/3JQPj1uNk62oTh8oB1qsNQ,HIRAIDAI,59,2023-06-25,https://open.spotify.com/track/5YlVrcpa4RUtZVapiatmIN,183519,False
+270,さくらんぼ,LOVE PUNCH,https://open.spotify.com/album/54YEgdwpHNFQmZog7Lffwy,Ai Otsuka,60,2004-03-31,https://open.spotify.com/track/5U1xJmlRimUm6DtRd0kM6f,233800,False
+271,セプテンバーさん,RADWIMPS 3 ~無人島に持っていき忘れた一枚~,https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f,RADWIMPS,60,2006-02-15,https://open.spotify.com/track/0D2ZQ5DKyys3UPAfeKpvwp,307173,False
+272,僕が一番欲しかったもの,EXPLORER,https://open.spotify.com/album/7HhfLLRLSwwwFVSD9eK9RM,Noriyuki Makihara,60,2004-08-11,https://open.spotify.com/track/0lgZz4x4QuTo3nEl5uoVJl,339906,False
+273,うぉ,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,60,2023-03-29,https://open.spotify.com/track/7iRoB3hjM7FQm3teSMSpBu,167866,False
+274,打上花火,打上花火,https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS,Daoko,65,2017-08-16,https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ,289334,False
+275,カナタハルカ,カナタハルカ,https://open.spotify.com/album/2U6dxXwJN57xaoOW7v2m04,RADWIMPS,60,2022-10-28,https://open.spotify.com/track/5r2G8PqwY3GcTJi0FYiCfd,355706,False
+276,田園,CAFE JAPAN,https://open.spotify.com/album/2HSrcUXXNh5ib1T2oXxM08,Koji Tamaki,59,1996,https://open.spotify.com/track/0b2PHexDZWgFbvRRswrfRk,219666,False
+277,アイウエ,アイウエ,https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ,MAISONdes,63,2022-10-14,https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc,222366,False
+278,愛のレンタル,hope,https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF,Macaroni Empitsu,58,2020-04-01,https://open.spotify.com/track/4GgI6ESeHw4SPqicVY3HPV,258543,False
+279,プラネタリウム,LOVE COOK,https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ,Ai Otsuka,61,2005-12-14,https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02,307833,False
+280,すずめ,すずめ,https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF,RADWIMPS,59,2022-09-30,https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s,236390,False
+281,大正浪漫,大正浪漫,https://open.spotify.com/album/4D1e5OPqOqOWhQhiNleOOl,YOASOBI,60,2021-09-15,https://open.spotify.com/track/3uw93CiI34uZlfk8ywep1e,168461,False
+282,KANASHIBARI,KANASHIBARI,https://open.spotify.com/album/68Sl0rwtjcl6UdxKGjFy6X,RADWIMPS,60,2023-04-18,https://open.spotify.com/track/4zJEGkmkmA4orRkMdzimRu,297692,False
+283,ひまわりの約束,青の光景,https://open.spotify.com/album/35HzEGeHwTNMiZIVXCOlPc,Motohiro Hata,64,2015-12-16,https://open.spotify.com/track/45jGOHwYKgsRYbAJ8DR61d,308146,False
+284,Wonderland,Shade,https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB,iri,60,2019-03-06,https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i,224786,False
+285,ひこうき雲,ひこうき雲,https://open.spotify.com/album/2Apn7plsxGOwwD7anbcAOS,Yumi Arai,61,1973-11-20,https://open.spotify.com/track/2YyxBmzk2l7NzyBakN3TdM,206164,False
+286,化け猫 - Leaks From His Laptop,化け猫 (Leaks From His Laptop),https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK,Tatsuya Kitani,67,2022-01-19,https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE,56021,False
+287,ルージュの伝言,COBALT HOUR,https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu,Yumi Arai,63,1975-06-20,https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL,182800,False
+288,Flavor Of Life,HEART STATION,https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L,Hikaru Utada,61,2008-03-19,https://open.spotify.com/track/64Ce9XO5NHzgPiKZ71j9Rl,293746,False
+289,LIKE I LOVE YOU feat. Ninety6miles,LIFE IS WAVY,https://open.spotify.com/album/1k9xsl6ERasBsfFDK7UJbQ,JP THE WAVY,59,2020-04-08,https://open.spotify.com/track/4v3uHaMCZZEufJvf14FFhX,201213,False
+290,踊,踊,https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2,Ado,66,2021-04-27,https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l,208271,False
+291,未来図,Memory,https://open.spotify.com/album/1lemAJOLEhD9JWaWbQnUAf,マルシィ,62,2022-06-01,https://open.spotify.com/track/3hD6z4YbJk64kN3v3N47hr,229586,False
+292,あなた,初恋,https://open.spotify.com/album/0vYCN1SXivJ5dS1dasLZug,Hikaru Utada,61,2018-06-27,https://open.spotify.com/track/3yCVsL9xnnnhtOQ1CfPD7W,277133,False
+293,スウェット,ワンダーランドに愛情を!,https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih,neguse.,58,2022-09-14,https://open.spotify.com/track/0iz7qlE9KJ0vIkYbNxSBTK,211053,False
+294,ラブレター,THE BOOK 2,https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY,YOASOBI,60,2021-12-01,https://open.spotify.com/track/0UcjHexmVrLkUOflxPefNe,210506,False
+295,おにごっこ,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,59,2023-03-29,https://open.spotify.com/track/10QPe0MZGTXh7q6C71YFPG,231413,False
+296,FINE LINE (feat. Skaai) (Prod. uin),FINE LINE (feat. Skaai) (Prod. uin),https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P,SIRUP,58,2023-03-29,https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY,179266,True
+297,花束を君に,Fantome,https://open.spotify.com/album/3OsjveYa3ODxbAHuoZp7MS,Hikaru Utada,61,2016-09-28,https://open.spotify.com/track/31yv1hR9gw1WSEmtqsaZbD,278240,False
+298,素敵なしゅうまつを！,青のすみか,https://open.spotify.com/album/3rHbZkE8Hov6chHEiyU5DP,Tatsuya Kitani,43,2023-07-19,https://open.spotify.com/track/4Ntdp3aRtZPlteJjz0PBQb,191080,False
+299,夏音,壱,https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd,Yuuri,60,2022-01-12,https://open.spotify.com/track/3yPVvphH8RtPt41FyX7vPV,239200,False
+300,POP STAR,Ken Hirai 10th Anniversary Complete Single Collection '95-'05 歌バカ,https://open.spotify.com/album/6XLXlr6vKDBxkpgkBKF502,Ken Hirai,59,2005-11-23,https://open.spotify.com/track/2YFdAAFSKovzYgF3XBlV8u,283346,False
+301,ラブソング - cover,青のすみか,https://open.spotify.com/album/3rHbZkE8Hov6chHEiyU5DP,Tatsuya Kitani,41,2023-07-19,https://open.spotify.com/track/6rzj2tkH9uP75cvK34ikGm,165680,False
+302,僕らまた,FINALE,https://open.spotify.com/album/5heoNrxzbBfvPLwODJNK8j,SG,58,2023-03-22,https://open.spotify.com/track/6II2hXGYMd9cTZWshcPUf8,199733,False
+303,カナタハルカ,すずめの戸締まり,https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp,RADWIMPS,59,2022-11-11,https://open.spotify.com/track/4Fh1CzvLHIUn26tjbZZ1mR,355706,False
+304,"Stand by me, Stand by you.","Stand by me, Stand by you.",https://open.spotify.com/album/79ybh56ysZUeRhwg9RWAGH,HIRAIDAI,59,2020-09-09,https://open.spotify.com/track/2RbVD1IgXtyQFlLtbthaZ3,193012,False
+305,紋白蝶 - feat. 石原慎也 (Saucy Dog),紋白蝶 [feat. 石原慎也 (Saucy Dog)],https://open.spotify.com/album/6RBgLMu6RSKhzp0qw6l9kz,Tokyo Ska Paradise Orchestra,58,2022-11-07,https://open.spotify.com/track/70uJr9I7fSA0DUrnSzyCvZ,284433,False
+306,青のすみか,青のすみか,https://open.spotify.com/album/3rHbZkE8Hov6chHEiyU5DP,Tatsuya Kitani,39,2023-07-19,https://open.spotify.com/track/44ZztYx4aODAFAC9bn9skL,197266,False
+307,恋,恋,https://open.spotify.com/album/0DfuNg7whkEABLFek6IF27,Gen Hoshino,59,2016-10-05,https://open.spotify.com/track/5Hu29JT4xtbRUBTZeOAjxW,253333,False
+308,青のすみか - Instrumental,青のすみか,https://open.spotify.com/album/3rHbZkE8Hov6chHEiyU5DP,Tatsuya Kitani,33,2023-07-19,https://open.spotify.com/track/7xd4emZejT8sDMNAZxHEZ3,197306,False
+309,たしかなこと,そうかな,https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6,Kazumasa Oda,59,2005,https://open.spotify.com/track/6tUVFkmMyIxDbk7DCjdrMu,299760,False
+310,スパークル - movie ver.,君の名は。,https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl,RADWIMPS,59,2016-08-24,https://open.spotify.com/track/1TFv0KXyFvC7eCP2ury0KV,534120,False
+311,きらり,LOVE ALL SERVE ALL,https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH,Fujii Kaze,59,2022-03-23,https://open.spotify.com/track/3L7ISJTvKx56uhsF28aJ4p,227893,False
+312,Missing,SHAKE IT PARADISE,https://open.spotify.com/album/4ZA8qvyScEfx6IHAEO5d3z,Toshinobu Kubota,59,1986-09-10,https://open.spotify.com/track/3qjHbrnu71IJ04InWjmjvJ,262760,False
+313,あいたい,2+0+2+1+3+1+1= 10 years 10 songs,https://open.spotify.com/album/693ar0bRYwaKwnepcKW2Tr,RADWIMPS,58,2021-03-11,https://open.spotify.com/track/3dxmlsjBTrbJG7FzSRvU58,309000,False
+314,Answer,Answer,https://open.spotify.com/album/6jWEkDAAvJ18hqR0QAR60B,Lilas Ikuta,62,2021-03-09,https://open.spotify.com/track/5hVAQTNarrb3lmWqg9Ens4,246000,False
+315,リライト,ソルファ,https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04,ASIAN KUNG-FU GENERATION,64,2004-10-20,https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ,225493,False
+316,ふたりごと,ふたりごと,https://open.spotify.com/album/4j4fPJojDsKQVeEohkISNH,RADWIMPS,60,2006-05-17,https://open.spotify.com/track/6I2Xl5fZP0tdFOUjgekK4p,255293,False
+317,なんでもないや - movie ver.,君の名は。,https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl,RADWIMPS,59,2016-08-24,https://open.spotify.com/track/3SMpsXpVrFju2OUzFtJPws,344053,False
+318,アイデア,POP VIRUS,https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86,Gen Hoshino,59,2018-12-19,https://open.spotify.com/track/7jgqNMnqAT9FghC1uSYTFF,280666,False
+319,械物,械物,https://open.spotify.com/album/58Xglex1HKyErlO3VwkF45,Tani Yuuki,60,2023-06-28,https://open.spotify.com/track/7KTFpmdmtPrLjJEwDzSXi7,223966,False
+320,We are,Ambitions,https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b,ONE OK ROCK,59,2017-01-11,https://open.spotify.com/track/4QL5DKkPZwBXkph4fW2Y0Z,255484,False
+321,逆光 - ウタ from ONE PIECE FILM RED,逆光 (ウタ from ONE PIECE FILM RED),https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564,Ado,66,2022-07-05,https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME,237862,False
+322,スーパー愛したい,スペースシャトルで君の家まで,https://open.spotify.com/album/6NqOxfckFhVqIpyHGfdl6J,neguse.,58,2021-10-13,https://open.spotify.com/track/19QF8XwEEZ4RPbUEdYl5RD,247321,False
+323,イージーゲーム,イージーゲーム,https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF,natsumi,58,2021-05-10,https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw,183929,False
+324,メリーゴーランド,メリーゴーランド,https://open.spotify.com/album/51rgXBzk8MYv4IEN0ZeBdI,Yuuri,60,2022-12-22,https://open.spotify.com/track/1llk0Ducps2jpfNDtKwO1h,255840,False
+325,me me she,RADWIMPS 4 ~おかずのごはん~,https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP,RADWIMPS,60,2006-12-06,https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ,281493,False
+326,三日月,First Message,https://open.spotify.com/album/4kKWJldQVEEeXIBIStjReI,ayaka,59,2006-11-01,https://open.spotify.com/track/5SDVaYU4nfaIV0rNSlWSCa,279013,False
+327,Two,Two,https://open.spotify.com/album/06vxYd2woX9y6TrZv0KQRY,YRD Leo,58,2022-03-25,https://open.spotify.com/track/5ZBmTf2Hd3fCzhxQKaTa51,136216,False
+328,ら・ら・ら (2019 Remastered),LA.LA.LA (2019 Remastered),https://open.spotify.com/album/3WKe714gzgyaVY9zmPn3Kz,Maki Ohguro,59,1995-07-19,https://open.spotify.com/track/08WMcRBYuUEzTnbQ5v9wuq,264710,False
+329,うっせぇわ,うっせぇわ,https://open.spotify.com/album/5msh7Lspyh1jGbDM2BxwAy,Ado,68,2020-10-23,https://open.spotify.com/track/6EzZn96uOc9JsVGNRpx06n,204920,False
+330,ツバメ (feat. ミドリーズ),ツバメ (feat. ミドリーズ),https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr,YOASOBI,62,2021-10-25,https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e,217429,False
+331,あぁ、もう。,あぁ、もう。,https://open.spotify.com/album/23lZ1iicD23SONnNdolPE5,Saucy Dog,59,2021-12-17,https://open.spotify.com/track/7G4rZHIBiXJNFmLYXtWCPm,284330,False
+332,なんでも言っちゃって,LOGIC,https://open.spotify.com/album/5ftRmSBjH02fMedZmn1alL,LEX,58,2021-09-29,https://open.spotify.com/track/1ZGBwdBfy7M5XWGo4XoGlf,146666,False
+333,融解sink,融解sink,https://open.spotify.com/album/6JZ9BCIEapKcYyP7eF6NXL,Vaundy,59,2021-02-24,https://open.spotify.com/track/1m7lHpniqlJyCac7dJgyYJ,242000,False
+334,TEENAGE VIBE feat. Tohji,DISTORTION,https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI,kZm,58,2020-04-22,https://open.spotify.com/track/5k59SQn3GJ0FgDsDzeOnLH,157581,False
+335,恋泥棒。,恋泥棒。,https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0,『ユイカ』,61,2022-03-27,https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P,219643,False
+336,嘘つきの君が好き,嘘つきの君が好き,https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs,音田 雅則,58,2022-07-12,https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT,194591,False
+337,瞳をとじて,SENTIMENTALovers,https://open.spotify.com/album/12H8S3cARLfYIQ3dSNKIUA,Ken Hirai,59,2004-11-24,https://open.spotify.com/track/0JAQpusQK6R7w07s0UgcU3,343240,False
+338,もう恋なんてしない,君は僕の宝物,https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda,Noriyuki Makihara,59,1992-06-25,https://open.spotify.com/track/2dQ4alICWrgs9gyYUOWlEg,272706,False
+339,Love Song,コントラスト(Special Edition),https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1,Uru,59,2023-01-30,https://open.spotify.com/track/2bVNCp7NZEO5wnRJnNKjff,286146,False
+340,前前前世 - movie ver.,君の名は。,https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl,RADWIMPS,59,2016-08-24,https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe,284240,False
+341,soramimi,strobo,https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy,Vaundy,59,2020-05-27,https://open.spotify.com/track/4PfQEzBB4U24d8yiSDa4is,213446,False
+342,What’s Poppin,Hit Different,https://open.spotify.com/album/2VzcuGy9zAowlF2SAV6Mre,JP THE WAVY,58,2023-05-24,https://open.spotify.com/track/6BkEiNQdMlwxPMgFDLkZtV,148213,True
+343,大正浪漫,THE BOOK 2,https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY,YOASOBI,59,2021-12-01,https://open.spotify.com/track/1KbDCvjDHrvqURzwB7c10M,166426,False
+344,アゲイン,COMINATCHA!!,https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au,WANIMA,58,2019-10-23,https://open.spotify.com/track/1TdYXsTtYbud0IieSW5wbh,214088,False
+345,フィクション,Chime,https://open.spotify.com/album/0c7qbrYBJX9sbIXJlYnBwr,sumika,59,2019-03-13,https://open.spotify.com/track/47eLnWll78mdBJjcgJu34o,233253,False
+346,優しい彗星,THE BOOK 2,https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY,YOASOBI,59,2021-12-01,https://open.spotify.com/track/1KiJQAgOCabKSzgQgArFTz,213240,False
+347,また君と,また君と,https://open.spotify.com/album/2K2x2yqq29b9tsQeuhkzxf,JAY'ED,58,2014-11-12,https://open.spotify.com/track/4ZkdPpJbOvBqjYnDq23Zp9,248520,False
+348,破壊前夜のこと,破壊前夜のこと,https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud,asmi,49,2023-07-14,https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai,222240,False
+349,メロウ,メロウ,https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e,須田景凪,62,2023-04-04,https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n,249204,False
+350,運命,多面態,https://open.spotify.com/album/44sqGyvaG8h5xtTSsFtGgk,Tani Yuuki,58,2023-03-29,https://open.spotify.com/track/3VCvZY3Jwnb5Bod84FHNhV,253116,False
+351,Symphony,LOVE+PEACE,https://open.spotify.com/album/4nlLn9bbCipFARu5OcRyti,HIRAIDAI,57,2023-05-07,https://open.spotify.com/track/6ukg2JG0EUiX3yxv8rlyCG,262505,False
+352,Buddy,Buddy,https://open.spotify.com/album/5G8ZkCnQCRGSVvyNJFQrNs,HIRAIDAI,57,2021-05-30,https://open.spotify.com/track/7xfPyBgb9om8iUooItxHl8,174232,False
+353,ONLY YOU,BEAT EMOTION,https://open.spotify.com/album/2bkKCQ1ASzhXrQebGRTTSm,BOØWY,57,1986-11-08,https://open.spotify.com/track/6Y0AubW8Kk45RSgy8lgykS,250773,False
+354,もうええわ,HELP EVER HURT NEVER,https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG,Fujii Kaze,58,2020-05-20,https://open.spotify.com/track/7vBvAgZizx6wvlVXMbvuf4,301933,False
+355,ホワイトアウト,my,https://open.spotify.com/album/2ScDaY2kCiHLd0li7FQf37,reGretGirl,58,2017-12-13,https://open.spotify.com/track/6ueqIFxAqxPnFdZXKNPSrr,211706,False
+356,Beautiful,The Light,https://open.spotify.com/album/3AuK5f8i5cl3EXETeXcL7W,HIRAIDAI,57,2014-01-29,https://open.spotify.com/track/5A4xCfm0MybwPbAdVqoJe2,232773,False
+357,ジターバグ,BRING YOUR BOARD!!,https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k,ELLEGARDEN,57,2003-07-02,https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg,199826,False
+358,熱帯夜,熱帯夜,https://open.spotify.com/album/43FQZaVGdxMCF2NRS3YDuw,RIP SLYME,58,2007-07-25,https://open.spotify.com/track/0Xs6JbTolXavra7Pz7UgJ9,290893,False
+359,Myra,Memories,https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5,Tani Yuuki,58,2021-12-08,https://open.spotify.com/track/3YGkEsa1tSsWBVFEvwA42y,254084,False
+360,僕は今日も,strobo,https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy,Vaundy,58,2020-05-27,https://open.spotify.com/track/2o0wEBQyj1WhY5oFy13tJw,327547,False
+361,君の隣で。,記録,https://open.spotify.com/album/6qhUIGI2HoKonCSHSMpcfT,Riria.,58,2022-05-11,https://open.spotify.com/track/2mYF6tWe39FNxoMfbZ5rFr,266771,False
+362,魔法にかけられて,魔法にかけられて,https://open.spotify.com/album/52fv6XcFtPnEIp63WL2bAE,Saucy Dog,58,2022-03-25,https://open.spotify.com/track/03RD1XAEH7lSTrYe4zMDl9,254934,False
+363,High Land,BAD HOP WORLD,https://open.spotify.com/album/6Icv59IuSJ3T5UYWoVkMEb,BAD HOP,57,2020-08-07,https://open.spotify.com/track/4MfjYFP7twVjiOZZfGecrz,248826,True
+364,真夏の夜の夢,U-miz,https://open.spotify.com/album/6DZdcuevJOYVFc0B0jVYRs,Yumi Matsutoya,58,1993-11-26,https://open.spotify.com/track/4CV3yauEfKZObKt1Zp2hgy,304173,False
+365,"Hello, my friend",THE DANCING SUN,https://open.spotify.com/album/4TEBvuxfzOhHYE1rY0iJXX,Yumi Matsutoya,59,1994-11-25,https://open.spotify.com/track/41NIQxcwqfE4M4iJ6UQHFX,273989,False
+366,キュートアグレッション - Leaks From His Laptop,キュートアグレッション (Leaks From His Laptop),https://open.spotify.com/album/4xAGZZWjw4vtwgyIoD47l6,Tatsuya Kitani,65,2021-12-15,https://open.spotify.com/track/0BxmdoTgGqbBdgAYFAGvvg,52664,False
+367,Starting Over,Starting Over,https://open.spotify.com/album/3d4K0E7Jisj18spw1y7rEF,sumika,59,2023-04-22,https://open.spotify.com/track/2kuTXMJcOuIgZGc73kP5Is,190133,False
+368,忘れ物,忘れ物,https://open.spotify.com/album/35aqJb4W2aqYwcjBuvgSVl,Vaundy,58,2022-11-14,https://open.spotify.com/track/27dTB2lvWsqFeTdtPYtVT3,198527,False
+369,OH MY LITTLE GIRL,愛すべきものすべてに -YUTAKA OZAKI BEST,https://open.spotify.com/album/5KYFjInulb9juOaJSDJtme,Yutaka Ozaki,58,1983,https://open.spotify.com/track/4w8BWDyfDxlNLWKQaiUhmd,275866,False
+370,if...,if...,https://open.spotify.com/album/1KwFfjS6VzlollGPr84mAm,DA PUMP,59,2000-09-27,https://open.spotify.com/track/78LQTUp1f8APWgFNZNOD5y,218800,False
+371,眩光,あの日、あの場所/眩光,https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c,WANIMA,57,2022-04-14,https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp,214245,False
+372,勿忘,勿忘,https://open.spotify.com/album/7xOaqsEeN02fMgQYivgrgY,Awesome City Club,58,2021-01-27,https://open.spotify.com/track/6IwQAPovmEz5ft8bDUKLrj,251533,False
+373,2:23 AM,2:23 AM,https://open.spotify.com/album/7q8Ty4YtLICIAyxdooKkdi,しゃろう,57,2021-02-19,https://open.spotify.com/track/7altakU1CXsGIwqrO0hkQl,196000,False
+374,ミズキリ-piano ver.-,ミズキリ-piano ver.-,https://open.spotify.com/album/3kwHF3p6LG8V4kZBMWKITu,Yuuri,58,2022-02-14,https://open.spotify.com/track/2WmVfZ9ey3Y0PpPHAj9rYE,204416,False
+375,さすらい,股旅,https://open.spotify.com/album/5n2ac7clcRsqzyczLtHwQd,Tamio Okuda,58,1998,https://open.spotify.com/track/6AyErTw94FC8ZF339m24Vm,203160,False
+376,やさしさで溢れるように,What's Love?,https://open.spotify.com/album/4TeDxsreOzfWw3sEQL6e1z,JUJU,57,2009-03-04,https://open.spotify.com/track/1OiKgvbwehchswoMFmBBlb,290773,False
+377,ファンファーレ,ファンファーレ / 春夏秋冬,https://open.spotify.com/album/5YJeRjxQyw17GaE06OQzNG,sumika,58,2018-08-29,https://open.spotify.com/track/08sjU4Uck88xYCQA3ncPS5,187480,False
+378,はしりがき,ハッピーエンドへの期待は,https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz,Macaroni Empitsu,57,2022-01-12,https://open.spotify.com/track/2utvOHQWieYjUZKQSqwQmh,193056,False
+379,ミスター・ブルースカイ,CHOSYOKU,https://open.spotify.com/album/4oal4axj41REAu9bIHvsXF,Macaroni Empitsu,56,2017-12-07,https://open.spotify.com/track/6glcoO077gTGhgdVI9X5wA,233890,False
+380,アリス,アリス,https://open.spotify.com/album/5HdL4m1j8kM5wTUSTC67WC,Local Campione,57,2021-12-25,https://open.spotify.com/track/1zz3SznRrDWIEOzK6QoPpx,183092,False
+381,身売り,身売り,https://open.spotify.com/album/33zS8ciHQVXEKWjxoQJ3wp,ロス,60,2022-03-23,https://open.spotify.com/track/5TjzcoYxpITHx2Uq5gaot6,155433,False
+382,Let Me Let You Go,Luxury Disease,https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO,ONE OK ROCK,57,2022-09-09,https://open.spotify.com/track/6PM8wi7Z9LnM426pJT47kY,180211,False
+383,Red:birthmark,Red:birthmark,https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj,AiNA THE END,63,2023-04-10,https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe,216826,False
+384,ヒーローの居ない街,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,57,2023-03-29,https://open.spotify.com/track/1UyXobBFQBAckYnT4qZp0g,194826,False
+385,海のリビング,海のリビング,https://open.spotify.com/album/6DVkH0UdUTke1mEPZSsf80,鈴木鈴木,57,2021-08-05,https://open.spotify.com/track/0CZB07xMxIGRfCZT93ynFj,223600,False
+386,江ノ島エスカー (2023 ver.),サーフ ブンガク カマクラ (完全版),https://open.spotify.com/album/3RJRauD27BwXHYI19CqwHu,ASIAN KUNG-FU GENERATION,58,2023-07-05,https://open.spotify.com/track/12WtyFfw4w7BAbbWcTeiE4,160906,False
+387,風になる,恋恋風歌,https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7,Tsuji Ayano,60,2003-05-21,https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD,276600,False
+388,好きだから。,好きだから。,https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS,『ユイカ』,68,2021-06-27,https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3,298663,False
+389,Myra,Myra,https://open.spotify.com/album/5RnitWpsREQdooKLu9tSI0,Tani Yuuki,57,2020-07-01,https://open.spotify.com/track/5wc4f6crkCzAvwNhoEeMhh,255000,False
+390,“青春病”,LOVE ALL SERVE ALL,https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH,Fujii Kaze,57,2022-03-23,https://open.spotify.com/track/6bioW1LHzS92xtmWT6NeWl,324146,False
+391,One More Time,One More Time,https://open.spotify.com/album/5B3yi85Zy9xmYLGrmimLP1,虎韻,57,2022-11-09,https://open.spotify.com/track/3ZVlbQ4rjvT65JyV7xrM1r,211200,False
+392,Automatic,Automatic / time will tell,https://open.spotify.com/album/77IZm2RDfoYwokzSA5yqTA,Hikaru Utada,59,1998-12-08,https://open.spotify.com/track/3PDuPLArSTzKH2W2hKYjh0,312066,False
+393,snow jam,snow jam,https://open.spotify.com/album/4Y4AzIh3Djk3PgrFqDwz2C,Rin音,58,2020-02-19,https://open.spotify.com/track/1SbEt51pN80q1cphFOqIPL,184184,False
+394,常緑,常緑,https://open.spotify.com/album/36Wwao113URCTIu6PoR9sH,Chippoke Ohashi,57,2021-09-01,https://open.spotify.com/track/42dM8WcW6SUxueqABK1LmQ,171546,False
+395,TOMORROW,RISEⅠ,https://open.spotify.com/album/5QkBhB9QIE2F1f2WWiwikx,Mayo Okamoto,56,2000-05-31,https://open.spotify.com/track/1KZUhS8ADGo3DZHzuhKaQD,287160,False
+396,ラブ・ストーリーは突然に,自己ベスト,https://open.spotify.com/album/3TcENjReGKNVrQR4LM1hG4,Kazumasa Oda,57,2002,https://open.spotify.com/track/3A6uq9eWVRYnRWNakGJn5B,295080,False
+397,Save Yourself,Luxury Disease,https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO,ONE OK ROCK,57,2022-09-09,https://open.spotify.com/track/1xeikRZtZYOymGJAxOm1dr,197995,False
+398,恋,POP VIRUS,https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86,Gen Hoshino,57,2018-12-19,https://open.spotify.com/track/1flvuaMS27JxpEBL0u2cWc,251266,False
+399,ダーリン,ダーリン,https://open.spotify.com/album/3nxQoSo8OVyL1wvdiW9Vva,須田景凪,60,2023-01-18,https://open.spotify.com/track/3mkRGh8v7AOH31yQ38SVdt,148521,False
+400,Get Back - Double Clapperz Remix,Get Back (Double Clapperz Remix),https://open.spotify.com/album/4Q5YzD8AYjiKbtoJHi5x47,Ralph,56,2023-07-01,https://open.spotify.com/track/7xe7vVOA02Y7bdhhUw4sX2,222321,False
+401,Model,Model,https://open.spotify.com/album/7leynMxMBCjuqyHs3EsxpR,YRD Leo,57,2020-01-06,https://open.spotify.com/track/001IcdVGUsstxtgbbb4jJE,120111,True
+402,いいんですか?,RADWIMPS 4 ~おかずのごはん~,https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP,RADWIMPS,59,2006-12-06,https://open.spotify.com/track/7BBhAZPkDnJ6mYVua3O1F4,248133,False
+403,Anniversary,HOPE / WISH,https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ,HIRAIDAI,56,2022-05-09,https://open.spotify.com/track/79Jzx5hxCQf7TysqfGJNfT,168982,False
+404,ギラギラ,狂言,https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P,Ado,58,2022-01-26,https://open.spotify.com/track/2mSRPQsUDIXJFfo3CpKJBA,276080,False
+405,帰る場所,'00,https://open.spotify.com/album/6LqWbHbBHUXBZymw5AhScd,SOUTH BLUE,56,2021-09-27,https://open.spotify.com/track/4UtbXaE4EpN7POzpPKTGrL,197973,False
+406,心という名の不可解,狂言,https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P,Ado,57,2022-01-26,https://open.spotify.com/track/5dwkmgutIFdurpXlzEyCtB,269893,False
+407,minority,Suddenly,https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM,sloppy dim,57,2020-03-27,https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE,147370,False
+408,ギラギラ,ギラギラ,https://open.spotify.com/album/6PWrAq4x3xn2Y2HahVhiQF,Ado,60,2021-02-14,https://open.spotify.com/track/7D7GCO3CtDT1WDcj2W5VDV,276213,False
+409,that place is burning,that place is burning,https://open.spotify.com/album/4f6Ex2xbmAJLAxkp8d39ea,KID FRESINO,57,2023-06-28,https://open.spotify.com/track/79pgNxvDw79toohZTCOgOR,335187,False
+410,恋におちたら,LOVE SONG BEST,https://open.spotify.com/album/7jZwjKoQm2NYEXGoCN5lDb,Crystal Kay,57,2003,https://open.spotify.com/track/5DbmxTOAedNgCI1demnPkR,270186,False
+411,守ってあげたい,昨晩お会いしましょう,https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4,Yumi Matsutoya,58,1981-11-01,https://open.spotify.com/track/0aRPz0c89bqxTA5spi8iZ7,267179,False
+412,Wrecked,Wrecked,https://open.spotify.com/album/1pPxVO9m5EhZqlHpi36Haa,HARU NEMURI,56,2023-06-28,https://open.spotify.com/track/0ehS06b4aXxq6MLCHM8j7S,128710,False
+413,燃えよ,LOVE ALL SERVE ALL,https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH,Fujii Kaze,57,2022-03-23,https://open.spotify.com/track/3nPRJP6hLZx32covZfpB6p,277426,False
+414,Romeo+Juliet -Love goes on-,Life Goes On,https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe,HIRAIDAI,56,2021-02-10,https://open.spotify.com/track/3wYzd4dzWknPdgwNaPGQvg,191474,False
+415,星が泳ぐ,星が泳ぐ,https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738,Macaroni Empitsu,58,2022-04-15,https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX,239078,False
+416,異世界混合大舞踏会 (feat. おばけ),異世界混合大舞踏会 (feat. おばけ),https://open.spotify.com/album/48aHoa0UvjChDUllkQZoaX,Gen Hoshino,57,2022-07-18,https://open.spotify.com/track/2YaWdN5tieE4Ntorawbbvq,225533,False
+417,アイオライト,アイオライト,https://open.spotify.com/album/1uqDGvEIpM1otI3kXw3XJS,Awesome City Club,58,2023-04-19,https://open.spotify.com/track/0xFhmji4aKZzuVqWbA7vqH,253100,False
+418,エジソン,招き猫 / エジソン,https://open.spotify.com/album/5R4QHlcpCdAX1CxV8tHWaa,WEDNESDAY CAMPANELLA,55,2022-02-25,https://open.spotify.com/track/223e30Nk8UY0HKezFtakUS,193510,False
+419,ラズベリー,ラズベリー,https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR,マルシィ,57,2023-06-28,https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo,215853,False
+420,シーグラス,テイクミー,https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh,Saucy Dog,57,2020-09-02,https://open.spotify.com/track/5RbE09Y7msV2YXoAO201Gl,301706,False
+421,オレンジ,S,https://open.spotify.com/album/7Kl8YgPC8fI3RIDApfUB7T,SOUTH BLUE,56,2022-02-14,https://open.spotify.com/track/1xD3E8IQSlenCKd1QDM9Vx,201849,False
+422,"Tokyo Drift (Fast & Furious) - From ""The Fast And The Furious: Tokyo Drift"" Soundtrack",Tokyo Drift (Fast & Furious),https://open.spotify.com/album/5SXTscj33KnBUpDyIsZTEf,Teriyaki Boyz,76,2006-01-01,https://open.spotify.com/track/0upFohXrGxIIAjyaJmCkMU,255946,False
+423,纏,纏,https://open.spotify.com/album/2oq4WV8pvFRGkDpHkZk7kD,TENSONG,56,2021-07-24,https://open.spotify.com/track/71zhpYc8YzaP13laIrEevc,320689,False
+424,中央フリーウェイ,14番目の月,https://open.spotify.com/album/28VkIuu7LxHzMtfxkx4URs,Yumi Arai,56,1976-11-20,https://open.spotify.com/track/0zqwz1o4l4ltQUxgjyU4oa,219466,False
+425,悪魔の子,悪魔の子,https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg,Higuchi Ai,56,2022-01-10,https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp,227679,False
+426,STAY TUNE,THE KIDS,https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF,Suchmos,58,2017-01-25,https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7,298746,False
+427,糸,COLLAGE,https://open.spotify.com/album/6wxmZtLnco0Ett7Hz4TS19,SUDA MASAKI,58,2022-03-09,https://open.spotify.com/track/0FsdMLyUsseGCjZQAnsIK7,204586,False
+428,新宝島,834.194,https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB,sakanaction,60,2019-06-19,https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj,305000,False
+429,へでもねーよ - LASA edit,LOVE ALL SERVE ALL,https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH,Fujii Kaze,56,2022-03-23,https://open.spotify.com/track/7LI2pQoE3fWfOQuds2paXs,188946,False
+430,Stellar Stellar,Still Still Stellar,https://open.spotify.com/album/2HmlBFz06FldsdzwY1FHg4,Hoshimachi Suisei,61,2021-09-29,https://open.spotify.com/track/6OC9BOO9qGXQARZGWb8rqy,301453,False
+431,世界に一つだけの花,EXPLORER,https://open.spotify.com/album/7HhfLLRLSwwwFVSD9eK9RM,Noriyuki Makihara,57,2004-08-11,https://open.spotify.com/track/3KZbMr4Q1D7fqqNXbcqmDz,277400,False
+432,少年時代 - Remastered 2018,ハンサムボーイ,https://open.spotify.com/album/4fKrmPOvNGERio51LCsrWz,Yosui Inoue,57,1990,https://open.spotify.com/track/66YLc8VbZSm4FH9uauxlrs,201222,False
+433,永遠に続く日々の階段を,永遠に続く日々の階段を,https://open.spotify.com/album/4oJIvNK2JtvlkO3mybZdiV,HIRAIDAI,56,2023-01-22,https://open.spotify.com/track/50Pkgagprn8o30YCbpDkl8,194535,False
+434,夢の中へ - 2017 Remaster,夢の中へ,https://open.spotify.com/album/6b18Ztx6B8CM0mDE4ZUGwf,Yosui Inoue,57,2017-02-15,https://open.spotify.com/track/2YgyW0CWOD7vMrgbB68LQk,156413,False
+435,夏の終りのハーモニー,ALL TIME BEST,https://open.spotify.com/album/1ao4wGSdB5eFu4J53AUDDK,Anzen Chitai,57,2017-05-31,https://open.spotify.com/track/3H0gw1zbyZm8vXB0rMqI57,266573,False
+436,Cheers,Cheers,https://open.spotify.com/album/2o9dAH1dNC3UD1gbIr8RN5,MAISONdes,59,2022-04-25,https://open.spotify.com/track/1BjNUu608nOEvEtMETFnlB,232866,False
+437,シル・ヴ・プレジデント,Sunny!!,https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU,P丸様｡,57,2021-03-17,https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m,190493,False
+438,Promise,ALOOOOHANA!!,https://open.spotify.com/album/39btj4wWYf5OFNbJ1604Am,HIRAIDAI,55,2014-07-02,https://open.spotify.com/track/3gHafa1e1SYNX5GFS7Mlnb,272400,False
+439,Have a nice day,Have a nice day,https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l,imase,57,2021-12-19,https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW,175693,False
+440,すずめ,すずめの戸締まり,https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp,RADWIMPS,57,2022-11-11,https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR,238560,False
+441,ぎゅっと。,ぎゅっと。,https://open.spotify.com/album/5zddFkF5K4O5oqBebo6OZj,もさを。,60,2020-07-27,https://open.spotify.com/track/6nqfKM9JvQIiuAuzWZFvGW,269746,False
+442,明日はきっといい日になる,高橋優 BEST 2009-2015『笑う約束』,https://open.spotify.com/album/4c1fP6B78X1tN4YOCMld0v,Yu Takahashi,57,2015-07-22,https://open.spotify.com/track/0FxlEdRB0G35XXn8gXU2qA,292000,False
+443,裸の勇者,裸の勇者,https://open.spotify.com/album/1tLmGtOgNhMFgPR5bQpigb,Vaundy,57,2022-02-21,https://open.spotify.com/track/0KmWLURMOpAqYwetgdScXk,201973,False
+444,方向音痴,方向音痴,https://open.spotify.com/album/2lmSDOG87aSfts1RGr8j7a,まつむら かなう,56,2022-10-26,https://open.spotify.com/track/6z9t4O8gd8CwdbT7gXNZq9,193870,False
+445,月光,インソムニア,https://open.spotify.com/album/2XNPQucLsJJ8vghxHo7j4s,Chihiro Onitsuka,57,2001-03-07,https://open.spotify.com/track/7HG0j0jOmoXKmD5UvrQbGj,300200,False
+446,スパークル,人間開花,https://open.spotify.com/album/4DzbZVGpyQ4zyqyAsQqDur,RADWIMPS,56,2016-11-23,https://open.spotify.com/track/1HdqMIGjLm8wkL4vWDcFPm,408200,False
+447,バンザイ ~好きでよかった~,バンザイ,https://open.spotify.com/album/0nzxrM2RsVrZfD90UP8wg6,Ulfuls,57,1996-01-24,https://open.spotify.com/track/6Rx8pboFNZs2stlRlCO3iI,277600,False
+448,セイカツ,セイカツ,https://open.spotify.com/album/6ia6eMSRU0FxAZe5F3HOVX,おさるのうた,56,2020-10-08,https://open.spotify.com/track/4GMmJVKPN99XBuWGrW47e7,175497,False
+449,狂乱 Hey Kids!!,FIXION,https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9,THE ORAL CIGARETTES,57,2016-01-05,https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk,250973,False
+450,やば。,LOVE ALL SERVE ALL,https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH,Fujii Kaze,56,2022-03-23,https://open.spotify.com/track/1FDCEz8kY256zhDO2GjWuW,251880,False
+451,麻痺,the meaning of life,https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD,yama,62,2021-08-30,https://open.spotify.com/track/5v1dhqe9vgvp87eyd27hkb,198040,False
+452,ワンダーランド,多面態,https://open.spotify.com/album/44sqGyvaG8h5xtTSsFtGgk,Tani Yuuki,56,2023-03-29,https://open.spotify.com/track/0yaVWcaMcuqS7cQeOFWxjE,199823,False
+453,青春と一瞬,青春と一瞬,https://open.spotify.com/album/4NYlrwd3LtrrKQfmuJu0P7,Macaroni Empitsu,55,2019-03-06,https://open.spotify.com/track/5hP00tcT87uyrdnei9g1Sw,278536,False
+454,Pop Corn,BLOOM iSLAND,https://open.spotify.com/album/7dHsWvzd5ZRThgTrKLLAo9,BLOOM VASE,56,2020-07-21,https://open.spotify.com/track/068mSQQX2IiGGQdh1QDYUK,157714,True
+455,二人話,裸の勇者,https://open.spotify.com/album/1tLmGtOgNhMFgPR5bQpigb,Vaundy,57,2022-02-21,https://open.spotify.com/track/2OtLY8mm6sHy3u85zzZg1c,204893,False
+456,そばにいるね,そばにいるね,https://open.spotify.com/album/69vgvtuEzB2P38An5eRSqu,Thelma Aoyama,59,2008-01-23,https://open.spotify.com/track/1Rvh5RimhF3ndpclBmIdeJ,302906,False
+457,Blue (feat. Jin Dogg),COSMOS,https://open.spotify.com/album/4O6cOGaxXEf9QPKcrxx6Fc,PETZ,56,2019-09-25,https://open.spotify.com/track/6hbHNlBB2XLrMcnHZKYFKa,190387,False
+458,KIMAGURE,Coordinate,https://open.spotify.com/album/522nUBcoiUR6SLuJUi816E,sloppy dim,56,2021-06-25,https://open.spotify.com/track/5PYmvXGEdYPA4qT4LD3uDk,169720,False
+459,U,U,https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7,millennium parade,63,2021-07-12,https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6,187266,False
+460,Sign,Sign,https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP,YRD Leo,56,2022-11-28,https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0,175871,False
+461,忘れられないの,834.194,https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB,sakanaction,59,2019-06-19,https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN,238000,False
+462,血流,the meaning of life,https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD,yama,62,2021-08-30,https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV,208093,False
+463,HOPE,HOPE / WISH,https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ,HIRAIDAI,56,2022-05-09,https://open.spotify.com/track/4xfYAFR8CCXdFr9mxPmHXL,185991,False
+464,卒業写真,COBALT HOUR,https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu,Yumi Arai,55,1975-06-20,https://open.spotify.com/track/1v9YGbg2p7Q9Xjs2nr9QMH,251597,False
+465,GONG,COMINATCHA!!,https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au,WANIMA,57,2019-10-23,https://open.spotify.com/track/4TFUsim1NVJGvQjE2Ppeno,268456,False
+466,a.m.3:21,a.m.3:21,https://open.spotify.com/album/5On6HjEIrUWLJhvsWQ7Xpv,yama,56,2020-08-12,https://open.spotify.com/track/7Mfgvi0WG4y7YDxknVOIS9,208409,False
+467,freestyle,Episode.0,https://open.spotify.com/album/0nWfmWEGWAlzxZreffDS81,Linobu,55,2021-12-11,https://open.spotify.com/track/3len2OQZSR7RDH4U7KWSed,94500,False
+468,雲の上,PURPLE,https://open.spotify.com/album/6S1DUHLwLKmc0W9cckCPpT,心之助,55,2021-08-30,https://open.spotify.com/track/2fMulWj1t8Sg10z2DPDQDm,215306,False
+469,3:03 PM,3:03 PM,https://open.spotify.com/album/16Wf6QiOpofxPm5Qr4L8YU,しゃろう,55,2022-02-24,https://open.spotify.com/track/0QYUu4QgTy34j0LZ2Ei3ZK,140000,False
+470,Renegades,Luxury Disease,https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO,ONE OK ROCK,56,2022-09-09,https://open.spotify.com/track/51jNm9g0nRKfYUXx0CQcae,244538,False
+471,Last Dance,20,https://open.spotify.com/album/7qFzQrlkfor5rkJKEfJ7O8,Linobu,55,2020-06-18,https://open.spotify.com/track/3t8bV5Y1XX0hIUmvdt8qBr,165011,False
+472,赤いスイートピー,BIBLE,https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL,Seiko Matsuda,57,1980,https://open.spotify.com/track/0b5iSriqvDLmd6QSWkalr3,218533,False
+473,Karenai,Karenai,https://open.spotify.com/album/6Bt8BdRX24Ge8biqElQJXK,Bonbero,55,2022-11-02,https://open.spotify.com/track/23k6zaZh0p1dq3y0Yib8Ey,141500,False
+474,First Love feat.natsumi,First Love feat.natsumi,https://open.spotify.com/album/2agcpsXOnEyGDkRgqPEAHo,VILLSHANA,56,2022-01-19,https://open.spotify.com/track/0UP2LfMahz2upMadwoqGfu,145108,False
+475,走馬灯,走馬灯,https://open.spotify.com/album/756FPVG1SoGlxEm08ktMMC,Vaundy,57,2022-07-11,https://open.spotify.com/track/4jVHvArqYm2nDCUNq2OOAK,297066,False
+476,"WAVEBODY (Remix) feat. OZworld, LEX & ¥ellow Bucks",WAVY TAPE 2(Deluxe),https://open.spotify.com/album/75kZW5cinyEdTy8rkkBO3w,JP THE WAVY,56,2021-09-22,https://open.spotify.com/track/5t9aACNhF1IWKID3rkWPQM,223266,False
+477,みんな空の下,みんな空の下,https://open.spotify.com/album/3kiwCBJrjDX9LUi9jlfayK,ayaka,56,2009-07-01,https://open.spotify.com/track/5jc5WQlrri3B5MkLByPsuv,296213,False
+478,The Blessing,E-SIDE 2,https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO,YOASOBI,61,2022-11-18,https://open.spotify.com/track/4KFvsGchCp4c7zphBlPxz3,192840,False
+479,怪獣の花唄,怪獣の花唄,https://open.spotify.com/album/2QLCcAIXdu3wQDbfLnBvwx,Vaundy,56,2020-05-11,https://open.spotify.com/track/3GtvQ0cNCR6koB8Od7laEU,224806,False
+480,楽園ベイベー,グッジョブ!,https://open.spotify.com/album/6cs7Vijg2dNWEJcMxaMivR,RIP SLYME,57,2005-08-31,https://open.spotify.com/track/1E529ug6zRzAs8lk6DAXMs,284826,False
+481,ロンリーラプソディ,LOVE ALL SERVE ALL,https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH,Fujii Kaze,56,2022-03-23,https://open.spotify.com/track/2T2PRhaEQLPoo78E8zyVgw,286640,False
+482,ユートピア,ユートピア,https://open.spotify.com/album/0hU4MK4reaUnoCVb86ip7Z,YOAKE,55,2021-08-27,https://open.spotify.com/track/7k7GgFFBIsm7v5giB57VrR,191111,False
+483,みちづれ,Specter,https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh,Hoshimachi Suisei,60,2023-01-25,https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO,193960,False
+484,雀ノ欠伸,ブルーピリオド,https://open.spotify.com/album/7i6wJ5vdFpJboMaeWcpevr,Saucy Dog,56,2019-10-02,https://open.spotify.com/track/6rQxJNjhgteG6Zd9hKF2b2,210746,False
+485,阿修羅ちゃん,阿修羅ちゃん,https://open.spotify.com/album/1VROw3eYJslM2bVEkR5Lnm,Ado,59,2021-10-28,https://open.spotify.com/track/4lEk6fyJu7LLPenqL0Raj5,196285,False
+486,ドラえもん,ドラえもん,https://open.spotify.com/album/1LdrgeXgpJkelkirMtgFxq,Gen Hoshino,56,2018-02-28,https://open.spotify.com/track/6rEReeuYDZdggaSMF1sybO,239933,False
+487,C.h.a.o.s.m.y.t.h.,残響リファレンス,https://open.spotify.com/album/46tySm112BCkEkfssfPODv,ONE OK ROCK,56,2011-10-05,https://open.spotify.com/track/24BG2nboedaLDaTZ7WmY2R,318426,False
+488,First Love - 2022 Mix,First Love (2022 Mix),https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID,Hikaru Utada,61,2022-12-09,https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70,261122,False
+489,結,結,https://open.spotify.com/album/48XvSrmCPI9TYyuySswd94,Saucy Dog,56,2020-03-13,https://open.spotify.com/track/4Js8mAXoDvL4GiUJGYCRw7,265043,False
+490,ラベンダー,SINCE,https://open.spotify.com/album/3YPahjiE9utuU6hKeIcATU,the shes gone,55,2021-10-20,https://open.spotify.com/track/5w5ajnulcqLSooV37j7oMT,310480,False
+491,夏風に溶ける,夏風に溶ける,https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG,MAISONdes,57,2021-09-08,https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9,224633,False
+492,金剛力士像,RABBIT STAR ★,https://open.spotify.com/album/0eK9iO9xQ5lcTGcXAggJzT,WEDNESDAY CAMPANELLA,54,2023-04-26,https://open.spotify.com/track/3y9ImuUtxOU6ZlAkbB5SRc,208796,False
+493,縋った恋に、サヨナラを。,縋った恋に、サヨナラを。,https://open.spotify.com/album/2CEsJNlHDC84JsmCeYBKcS,Matsuri,55,2022-06-01,https://open.spotify.com/track/4geHozLnnTOypnL9wIK4Yv,204750,False
+494,化け猫,化け猫,https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7,Tatsuya Kitani,60,2022-12-09,https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9,167733,False
+495,Hug feat. kojikoji (Fantasy club ver.),Fantasy club,https://open.spotify.com/album/3Lm2lLW0qQRofNamEyniZ2,空音,56,2019-12-18,https://open.spotify.com/track/5035nfb8l177pkVOPgxhc0,185333,False
+496,スピカ,スピカ,https://open.spotify.com/album/70X9ZQHqkK4e6uIpo6GXeo,ロクデナシ,55,2023-06-07,https://open.spotify.com/track/7cuJwEyGX0hhLa3achTuJQ,165042,False
+497,Be yourself,サニーボトル,https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew,Saucy Dog,56,2022-07-06,https://open.spotify.com/track/7mprfZcaF0C2KJYmCqw6hy,160532,False
+498,Prisoner Of Love,HEART STATION,https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L,Hikaru Utada,59,2008-03-19,https://open.spotify.com/track/4a9xOJC6kgknv7cU4D99Ha,286613,False
+499,Secret of my heart,倉木麻衣×名探偵コナン COLLABORATION BEST 21 -真実はいつも歌にある!-,https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q,Mai Kuraki,57,2021-03-06,https://open.spotify.com/track/1KvU7iXcyRMden0n9krc4k,265033,False
+500,18,18,https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7,imase,58,2023-04-21,https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7,215866,False
+501,愛を解く,色彩,https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9,yama,60,2022-11-09,https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V,181266,False
+502,スカー,スカー,https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd,Tatsuya Kitani,64,2022-10-18,https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE,259191,False
+503,ええねん,ええねん,https://open.spotify.com/album/0VglMYkh4LD8NvRjgswNSx,Ulfuls,57,2003-12-10,https://open.spotify.com/track/0W0eSUC4AnLlD5VrD5i3ut,207840,False
+504,ハナミズキ,ヒトトウタ,https://open.spotify.com/album/2NKeR5wsXSNKIxqyNwwJBS,Yo Hitoto,56,2015-07-22,https://open.spotify.com/track/4PqDkR6YM80Sy590Qsy6mm,330293,False
+505,LOOP,SIRUP EP2,https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8,SIRUP,55,2018-08-01,https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs,305986,False
+506,世界を終わらせて,永遠の花,https://open.spotify.com/album/1i7AHRWpDPl56hKoWcnMdq,ハルカミライ,55,2019-01-16,https://open.spotify.com/track/2FZXuCw75FYVfiNHtFQON9,233680,False
+507,罪の香り,HELP EVER HURT NEVER,https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG,Fujii Kaze,55,2020-05-20,https://open.spotify.com/track/0tJmd8OMwEBesfTsvuGayw,214200,False
+508,トレモロ,RADWIMPS 3 ~無人島に持っていき忘れた一枚~,https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f,RADWIMPS,57,2006-02-15,https://open.spotify.com/track/1v7bzIjGsqshSjRG3Fe2CB,200013,False
+509,タイミング ~Timing~,タイミング ~Timing~,https://open.spotify.com/album/0YOg76eFZKe0HHzV8xTcnC,Klang Ruler,55,2021-12-24,https://open.spotify.com/track/5Y0JbLOPLfWdWTQHJPJtEx,200822,False
+510,MIRROR MIRROR,MIRROR MIRROR,https://open.spotify.com/album/2k7OBW6v5cDfu7TTUlch9t,HIRAIDAI,55,2021-07-25,https://open.spotify.com/track/0Sp31BXc9dedQnfKYCiojE,186650,False
+511,benefits,benefits,https://open.spotify.com/album/7ejXcts4hXMahPhVswcDd4,Vaundy,56,2021-06-12,https://open.spotify.com/track/5RJBsAPvJKmZBVzDEEUu5w,246000,False
+512,ワインレッドの心,安全地帯Ⅱ,https://open.spotify.com/album/6GukIPzko4iMypRlXwrZD5,Anzen Chitai,57,1984,https://open.spotify.com/track/10nE6yd1TUUtjpuLeapZmN,250506,False
+513,remember,remember,https://open.spotify.com/album/6LEUN2BTXQBHx5O8DcHtPu,Uru,58,2018-09-26,https://open.spotify.com/track/37L7Zjb22r6sRPjwDKNJtG,349413,False
+514,film,テイクミー,https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh,Saucy Dog,56,2020-09-02,https://open.spotify.com/track/3WQCn30unh98hNO8NPSRDi,231293,False
+515,Cheers,多面態,https://open.spotify.com/album/44sqGyvaG8h5xtTSsFtGgk,Tani Yuuki,55,2023-03-29,https://open.spotify.com/track/7BukPy8McZBtInTnLFjKe8,229978,False
+516,LONGINESS REMIX - From THE FIRST TAKE,LONGINESS REMIX - From THE FIRST TAKE,https://open.spotify.com/album/5h1Urv78LZRxWO9vB67rbL,SugLawd Familiar,55,2023-02-08,https://open.spotify.com/track/6dJt6BuMBTwuF9VaMDvHyL,189500,False
+517,会いたいわ,life ep,https://open.spotify.com/album/2bJPkcW3Zi3tWizPcKiOkp,iri,55,2017-11-22,https://open.spotify.com/track/5g1SvaEtzlKEqre9FbPQEc,268320,False
+518,HERO,裸の勇者,https://open.spotify.com/album/1tLmGtOgNhMFgPR5bQpigb,Vaundy,56,2022-02-21,https://open.spotify.com/track/7C4pZa37R3hTIA4NWzbj9W,200413,False
+519,道,Fantome,https://open.spotify.com/album/3OsjveYa3ODxbAHuoZp7MS,Hikaru Utada,57,2016-09-28,https://open.spotify.com/track/4nYtqZDscX8TLvR4p0ON1s,216013,False
+520,インフィニティ,インフィニティ,https://open.spotify.com/album/5A7mNWIOtdsmE3TiDiAQvm,Yuuri,57,2021-01-23,https://open.spotify.com/track/3Gj9gaVfc3HHyqcIFaSa70,245853,False
+521,キリがないから,HELP EVER HURT NEVER,https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG,Fujii Kaze,55,2020-05-20,https://open.spotify.com/track/0puZUrjhNhWl98RdE7YfNM,217613,False
+522,SKI MASK,PROMISE,https://open.spotify.com/album/4j1HWbEcDnqWQufJgneCdT,XAN,55,2022-10-08,https://open.spotify.com/track/2MlrS3XpBYMmgFXZ0RAkRT,138856,True
+523,STRANGER,COSMO WORLD,https://open.spotify.com/album/6qL6l1XFVsT1jORl3PrpL5,LEX,55,2021-07-21,https://open.spotify.com/track/5T6U7udvNbgFDTkYwsI186,218666,True
+524,彩り,「ハッピーな暮らし」,https://open.spotify.com/album/3rWy6oy1PRLoXQDxWscw6u,neguse.,55,2021-04-17,https://open.spotify.com/track/0zMNSyexFNsMPBRPYpeugR,268413,False
+525,reoccurring dream,reoccurring dream,https://open.spotify.com/album/0UzhTzhwpqb9G41ueUMIGD,Watson,55,2022-05-10,https://open.spotify.com/track/7BauZet0nlcPS2AeWqZuPY,166828,True
+526,君に夢中,BADモード,https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij,Hikaru Utada,59,2022-01-19,https://open.spotify.com/track/0oxWaHk4e669g5VHbQCflA,257953,False
+527,LOST IN PARADISE,LOST IN PARADISE,https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J,ALI,69,2020-10-10,https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX,327966,False
+528,AM2:00drive,AM2:00drive,https://open.spotify.com/album/4DhhbXUz98IqCNx49dv38x,KeeP,55,2021-04-17,https://open.spotify.com/track/2qF1egtNOSgL0Wd6dpEEsC,162000,False
+529,会心の一撃,×と○と罪と,https://open.spotify.com/album/5ikhX6zaLZZS3gVLTlYxED,RADWIMPS,56,2013-12-11,https://open.spotify.com/track/4vwgmckZIomF2jVK066hUy,276506,False
+530,スターフィッシュ,Pepperoni Quattro,https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq,ELLEGARDEN,54,2004-05-26,https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ,220720,False
+531,FXXKED UP,HEROES,https://open.spotify.com/album/1mR0IL5SQbQSQXNrB2JYbQ,Gucci Prince,54,2021-10-08,https://open.spotify.com/track/3apu9ryBwWjocWvlThHjEl,190592,True
+532,レディメイド,狂言,https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P,Ado,56,2022-01-26,https://open.spotify.com/track/3hkGr1uZjTdiAPZrk2NTiP,243186,False
+533,愛おかし,愛おかし,https://open.spotify.com/album/5EP00Xf7QLSwFUOoIQ9i4r,YOAKE,55,2021-07-30,https://open.spotify.com/track/2uYZ1DrkV0rwJfjWQHauTh,185031,False
+534,snow jam,swipe sheep,https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do,Rin音,55,2020-06-10,https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG,185378,False
+535,不可逆リプレイス,ANTITHESE,https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK,MY FIRST STORY,59,2016-06-29,https://open.spotify.com/track/7lFzS8uBjpXckGjQQcpJrW,231000,False
+536,Halzion,E-SIDE 2,https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO,YOASOBI,59,2022-11-18,https://open.spotify.com/track/6YgWUfKPwZJigKBbSDwu7e,198243,False
+537,タッチ,half time,https://open.spotify.com/album/75zFDfWZKFbsUavUjUInUY,Yoshimi Iwasaki,55,1985-09-05,https://open.spotify.com/track/1EvVwqTga8655SrGAS6Zba,192893,False
+538,絵空,Drama / 絵空,https://open.spotify.com/album/5aVCO9MfZOgNcOpMYMlR2X,マルシィ,55,2020-05-31,https://open.spotify.com/track/4xsUkiKSjfbJkgEenWV4EU,289819,False
+539,クロノスタシス,フェイクワールドワンダーランド,https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR,Kinokoteikoku,56,2014-10-29,https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG,227813,False
+540,片っぽ,LOVE/LIKE/HATE,https://open.spotify.com/album/6S8ZfCFqAdu3qHdCldwM3M,eill,56,2020-11-04,https://open.spotify.com/track/2kvUkB3p3HdKwjNLWZk4bK,222473,False
+541,知らないままで,知らないままで,https://open.spotify.com/album/5A0437E0mWQ7RJFYovBBvC,ロクデナシ,65,2022-06-17,https://open.spotify.com/track/0kEXWokTVYKFxRnNH1xvlg,134221,False
+542,Blue Spring (Sky Filter),Blue Spring,https://open.spotify.com/album/6abos6kUAnA8IOTdpqC6d5,心之助,55,2021-03-13,https://open.spotify.com/track/7w40ZhnQZKfD0Mikcvhkcj,207033,False
+543,とんぼ,とんぼ,https://open.spotify.com/album/4yPkvtIGQdtsMzaEE8rxiH,Tsuyoshi Nagabuchi,55,1988-10-26,https://open.spotify.com/track/0ZoTz6KpGZuCRiZqeC4HnO,369893,False
+544,CANDY B,M.B.S,https://open.spotify.com/album/26PWoJlOiTwj4r6krA351g,Merry Delo,54,2022-01-07,https://open.spotify.com/track/1QTmmg0ZKC0qTWlTYcoMEC,151920,True
+545,ココロノナカ,ココロノナカ,https://open.spotify.com/album/3j26JTvbis8kcv83LqgI8t,RADWIMPS,56,2020-06-03,https://open.spotify.com/track/3gBzYFtF0BATGZFUKKOP1b,72026,False
+546,大空と大地の中で,松山千春ベスト32,https://open.spotify.com/album/0mYwkSOLI3YHc5YT88I9W3,Chiharu Matsuyama,54,2003,https://open.spotify.com/track/5Kxt2UYC2JIlcAQwMPgYpB,241727,False
+547,東京ミッドナイト,東京ミッドナイト,https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr,MY FIRST STORY,58,2023-05-31,https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc,226253,False
+548,レンズ,Sketch,https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy,Lilas Ikuta,57,2023-03-08,https://open.spotify.com/track/6RiJ001BNFvjcOvt8r6VNG,233460,False
+549,Peter Son,OZWORLD,https://open.spotify.com/album/36eFAkbCd4RZw4P2Qy3Vmo,OZworld,55,2019-06-09,https://open.spotify.com/track/0JsevMNlsPLe1J4rnAHUBh,345241,False
+550,金木犀,寝れない夜にカーテンをあけて,https://open.spotify.com/album/4b7w62nMDJVeJs9AgffFgB,whaledontsleep,54,2020-10-15,https://open.spotify.com/track/3kmg9EPgCaJCu3GiOovdCy,140487,False
+551,Vandalize,Luxury Disease,https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO,ONE OK ROCK,55,2022-09-09,https://open.spotify.com/track/1zPsa7aCICVvxBpPuzA9JJ,194695,True
+552,ビンクスの酒,ウタの歌 ONE PIECE FILM RED,https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA,Ado,55,2022-08-09,https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf,206053,False
+553,笑えれば,ウルフルズ,https://open.spotify.com/album/4ZBv31Efj9BzFyPSVFQB1D,Ulfuls,56,2002-03-27,https://open.spotify.com/track/4RqUGqOxX5oOw8lo0RvKT2,301533,False
+554,旅路,旅路,https://open.spotify.com/album/2SefMSCTkNiWFHHgs0uGz4,Fujii Kaze,55,2021-03-01,https://open.spotify.com/track/1EM9pvygHqQm03as6sxLg9,277333,False
+555,Heaven's Drive,CHAOS TAPE,https://open.spotify.com/album/1Se6OCFwXtxkZGo7iQIWEo,(sic)boy,55,2020-10-28,https://open.spotify.com/track/4vUvtcTa96RiDyCqyG7wrf,214200,False
+556,GIRL,will,https://open.spotify.com/album/5RKnUAWf2rYxZCxLLNXCjm,SOUTH BLUE,54,2022-07-09,https://open.spotify.com/track/2uN3A2MijItadTU0pJrYEy,204416,False
+557,愛のままに,切愛,https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf,BASI,55,2019-06-26,https://open.spotify.com/track/3Z3ldilmAxJccTZv0GeUfq,266333,False
+558,You and Me,You and Me,https://open.spotify.com/album/1Gy2Rd9A1q8DwCtRUtckgI,しゃろう,54,2021-02-21,https://open.spotify.com/track/31vUYdc0NfUGzgthmCFkrC,125250,False
+559,18k,thin gold chain,https://open.spotify.com/album/5sFjtMh6wuNgPsBwhrqzLV,Watson,55,2021-11-24,https://open.spotify.com/track/2cgjr2kDIe597ycQHgq0XB,221160,True
+560,Beautiful World,HEART STATION,https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L,Hikaru Utada,59,2008-03-19,https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L,317946,False
+561,Love Forever,THE BEST,https://open.spotify.com/album/5XYsHRrNdsFGr9FTKvyrMK,Miliyah,55,2014-04-02,https://open.spotify.com/track/6AegMZl7Bu0FFvd0HXgPd5,311000,False
+562,Oz.,Versus the night,https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq,yama,60,2022-08-31,https://open.spotify.com/track/1Aq9S5teUzfZucr7rVRpSj,195866,False
+563,虹,虹/ひまわり/それがすべてさ,https://open.spotify.com/album/5MeDuYgJK9DYM1cO8zSAGs,Masaharu Fukuyama,56,2003-08-27,https://open.spotify.com/track/5zxOkA6L5DJpS0Ajb0Qx2t,248546,False
+564,イージュー★ライダー,CAR SONGS OF THE YEARS,https://open.spotify.com/album/5kpZrqmsW4GGbCCr7qMToa,Tamio Okuda,56,2001,https://open.spotify.com/track/16TRYuLeXnh4hRTjQ1pYpR,236493,False
+565,95 Project (Reprise),95 Project (Reprise),https://open.spotify.com/album/6V8BnI070YFCoWX0T8A60r,LEX,50,2023-07-12,https://open.spotify.com/track/6XY6EHw2syj0We0U0GxCf7,150924,False
+566,Pop Virus,POP VIRUS,https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86,Gen Hoshino,55,2018-12-19,https://open.spotify.com/track/4hQ5tBCwPRkzhFB424U63U,182000,False
+567,WAVEBODY (feat. OZworld & LEX),WAVY TAPE 2,https://open.spotify.com/album/3fKoyG8UntFiwSDWcrRswK,JP THE WAVY,55,2021-03-31,https://open.spotify.com/track/4KDuAbtpteWI4a3flG5gMM,184506,False
+568,切っ先,切っ先,https://open.spotify.com/album/7MlPZv478QHj9031suX1qm,Reol,59,2023-07-07,https://open.spotify.com/track/771DJyi2gzuWI8ocuxldzQ,211277,False
+569,風よ,HELP EVER HURT NEVER,https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG,Fujii Kaze,54,2020-05-20,https://open.spotify.com/track/77NDAeUdOg9ODtEhbZjAb4,284520,False
+570,棒人間,人間開花,https://open.spotify.com/album/4DzbZVGpyQ4zyqyAsQqDur,RADWIMPS,55,2016-11-23,https://open.spotify.com/track/2wsyebeX4ptSxKIpJtWE6B,283653,False
+571,栄光の扉,LOVE+PEACE,https://open.spotify.com/album/4nlLn9bbCipFARu5OcRyti,HIRAIDAI,54,2023-05-07,https://open.spotify.com/track/4Q0cwmEsjcP0tuYJ20FqU6,207898,False
+572,愛してた(feat.れん),愛してた(feat.れん),https://open.spotify.com/album/0oeFfl5KVoC0EdDQisDLlt,Naoto Inti Raymi,55,2023-05-17,https://open.spotify.com/track/2A9EvUkIWDDKWV6rcsM72a,263662,False
+573,家族になろうよ,家族になろうよ/fighting pose,https://open.spotify.com/album/6eOsDrzZilG8Knem5v8LNE,Masaharu Fukuyama,56,2011-08-31,https://open.spotify.com/track/64awLoKSPoQ5M6YulMsyCe,307813,False
+574,One Last Kiss,One Last Kiss,https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S,Hikaru Utada,64,2021-03-09,https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M,252026,False
+575,正論さん,正論さん,https://open.spotify.com/album/0p8hciFFok7dzHLV0LukjH,れん,54,2023-07-12,https://open.spotify.com/track/3guBJ3pWlpOKxS6aGJH3OD,219121,False
+576,遠く遠く,君は僕の宝物,https://open.spotify.com/album/3a5aKQqcG1rTAUcs3qYFda,Noriyuki Makihara,55,1992-06-25,https://open.spotify.com/track/6jljTubNfEw3OWdhItKGDG,275306,False
+577,10℃,10℃,https://open.spotify.com/album/4TMALyHtB5200YUYyFsR6c,しゃろう,54,2021-02-18,https://open.spotify.com/track/7xP8ksb7BlOtPUDB76tdhz,217500,False
+578,Re:make,残響リファレンス,https://open.spotify.com/album/46tySm112BCkEkfssfPODv,ONE OK ROCK,55,2011-10-05,https://open.spotify.com/track/4jcSJrDnKSmOLqMkGJmFL6,204493,False
+579,飛行船,壱,https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd,Yuuri,55,2022-01-12,https://open.spotify.com/track/1neHDts6Noky9uuR8Uv9oS,195720,False
+580,福笑い,リアルタイム・シンガーソングライター,https://open.spotify.com/album/40pjWIbFFCc5HOy42lon6O,Yu Takahashi,55,2011-04-20,https://open.spotify.com/track/255lnJnboHgDJw2aDGsT9u,328546,False
+581,キンモクセイ,キンモクセイ,https://open.spotify.com/album/2cF3FboitdxvaADTCzWWmQ,もさを。,56,2023-02-22,https://open.spotify.com/track/4Dc7HhgTf3lvnOEk8kaSCU,187721,False
+582,『存在』,『存在』,https://open.spotify.com/album/36xJLQtEyEiPBeBCqufjqm,TENSONG,54,2020-12-31,https://open.spotify.com/track/2nzteZ9E7H8r31cS9lM5IS,243409,False
+583,LA・LA・LA LOVE SONG,LA・LA・LA LOVE SONG,https://open.spotify.com/album/5dDhL47qf8l91GaW5BNajP,Toshinobu Kubota,55,1996-05-13,https://open.spotify.com/track/5dEojWGT3junlaa989hzGL,289000,False
+584,未来図,未来図,https://open.spotify.com/album/6xgqi8qVneYK5zAehfnRNF,マルシィ,55,2022-04-27,https://open.spotify.com/track/7DbgLTaylbqko3vR6k4adw,229586,False
+585,PAKU,PAKU,https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy,asmi,56,2022-03-30,https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV,125771,False
+586,桜坂,f,https://open.spotify.com/album/1acVgibawJjPtuRAXpVc1A,Masaharu Fukuyama,55,2001-04-25,https://open.spotify.com/track/7gpVG8fQjh5YLViIWy3HHh,296680,False
+587,アダムとイブ,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,55,2023-03-29,https://open.spotify.com/track/1gbs1Rra4EbSIWPZJFwBkI,238800,False
+588,For The Future,OHANA,https://open.spotify.com/album/0Br601f2qsGaLxQy8BeYrX,HIRAIDAI,53,2011-05-11,https://open.spotify.com/track/28HKCfJdgf1sBn5SiLdcCz,272786,False
+589,眠くない街,CHAOS TAPE,https://open.spotify.com/album/1Se6OCFwXtxkZGo7iQIWEo,(sic)boy,54,2020-10-28,https://open.spotify.com/track/5BS9XIFRevtZHiox82yQRa,100735,False
+590,ホワイトキス,ホワイトキス,https://open.spotify.com/album/6cHRZiDktZjUR4LUT0q3jf,鈴木鈴木,54,2021-11-18,https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo,274860,False
+591,Missing,RIOT ON THE GRILL,https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD,ELLEGARDEN,54,2005-04-20,https://open.spotify.com/track/6QN8meSeS0ERgEXdGMfOdQ,206533,False
+592,特にない,HELP EVER HURT NEVER,https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG,Fujii Kaze,54,2020-05-20,https://open.spotify.com/track/5UiZWCqMerAvmiHtQwTKSj,205253,False
+593,琥珀色の街、上海蟹の朝,琥珀色の街、上海蟹の朝,https://open.spotify.com/album/5YQJ6lpTgJQI77JfnqEWSK,Quruli,55,2016-07-06,https://open.spotify.com/track/2A0zCiphI5e6Vxat20qyEv,317066,False
+594,永遠に続く日々の階段を,LOVE+PEACE,https://open.spotify.com/album/4nlLn9bbCipFARu5OcRyti,HIRAIDAI,54,2023-05-07,https://open.spotify.com/track/3vWnh6AUr7DJTPBG0ryMSI,194535,False
+595,幸せ,幸せ,https://open.spotify.com/album/5YGS9k8ai8uymJklq9mR0o,音田 雅則,54,2021-11-09,https://open.spotify.com/track/2j2UcUqQtQU4egBQtlb9Ku,313018,False
+596,ドキメキダイアリー,ドキメキダイアリー,https://open.spotify.com/album/3wrzViTziNyAqM2on7hM8q,asmi,54,2023-04-14,https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2,199453,False
+597,Suicide - Remix,BAD HOP WORLD DELUXE,https://open.spotify.com/album/4Q3ceZcM2sYgIoijWDHlEf,BAD HOP,54,2021-02-22,https://open.spotify.com/track/3ytaOVXrXlF3Vf9fMrD3kQ,243601,True
+598,チーズケーキ・ファクトリー,The End of Yesterday,https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9,ELLEGARDEN,54,2022-12-21,https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO,214213,False
+599,愛が灯る,愛が灯る,https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr,ロクデナシ,54,2023-02-15,https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR,199117,False
+600,Make A Move,Make A Move,https://open.spotify.com/album/2wyItp4YIkkGJa3NqL0hoh,EMMA WAHLIN,56,2019-02-06,https://open.spotify.com/track/4D9QMZ3n8OupOPdxU0MMBS,189146,False
+601,look at the sea,indoor,https://open.spotify.com/album/5HoK18T7qszfXyuemaltY7,Oisicle Melonpan,56,2017-09-27,https://open.spotify.com/track/3NL9vhW3losGqQw6O2n08Y,207520,False
+602,ラベンダー,ラベンダー / ガールフレンド,https://open.spotify.com/album/53mXz0SCu3gNvtwcVS74ti,the shes gone,54,2021-05-26,https://open.spotify.com/track/0e7VdEYqUYUJ3MlJBnwKR8,310066,False
+603,調子のっちゃって,HELP EVER HURT NEVER,https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG,Fujii Kaze,54,2020-05-20,https://open.spotify.com/track/2fxqcSRl5dUiMAcSigsmkh,282240,False
+604,きらきら,こいのうた,https://open.spotify.com/album/4015DFzdg5NzUaR1yT5rcz,もさを。,56,2022-12-07,https://open.spotify.com/track/7bpYMYc6CyaMY2IK804gnu,180560,False
+605,NO GAME,will,https://open.spotify.com/album/5RKnUAWf2rYxZCxLLNXCjm,SOUTH BLUE,53,2022-07-09,https://open.spotify.com/track/0hVVQVHFKEoLvmGeAsP8I0,128226,False
+606,グランドエスケープ,天気の子 (complete version),https://open.spotify.com/album/3qpJ0Rir3jGJVJ12LSsExo,RADWIMPS,55,2019-11-27,https://open.spotify.com/track/5bUWFHUTbXQcmqI6vWL62j,339160,False
+607,LONELY NIGHTS,FANTASY CLUB,https://open.spotify.com/album/4J0ksIXuqCi3gdFh9qqOII,tofubeats,53,2017-05-23,https://open.spotify.com/track/40It4gOs70ssV0IFMRuul1,236483,False
+608,レイニー ブルー,Girl,https://open.spotify.com/album/3b0GUlwxBLzVvKz6gkaPgG,Hideaki Tokunaga,55,1986,https://open.spotify.com/track/5kAVO1ze23GNRjVr0paoxy,261640,False
+609,GASSHOW,UBU,https://open.spotify.com/album/6UEO7OK57KzYUK30SpXxw9,illion,0,2013-02-25,https://open.spotify.com/track/2AY7a2Dw6hB70O5eIzHFju,184346,False
+610,Neo Gal Wop,LIFE IS WAVY,https://open.spotify.com/album/1k9xsl6ERasBsfFDK7UJbQ,JP THE WAVY,55,2020-04-08,https://open.spotify.com/track/4NcTyBmgDNwwVctpBTXsaq,120093,False
+611,君は天然色,A LONG VACATION,https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H,大滝詠一,55,2021-03-21,https://open.spotify.com/track/0LyR8MZT3A2tp58dgHeNhB,306946,False
+612,渡月橋 ~君 想ふ~,倉木麻衣×名探偵コナン COLLABORATION BEST 21 -真実はいつも歌にある!-,https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q,Mai Kuraki,56,2021-03-06,https://open.spotify.com/track/1060Rq2jA1jKckSZV67y7H,245533,False
+613,怪物さん,あなたになりたかった,https://open.spotify.com/album/7JAM66YWBWKjYiqDU4oczq,Ken Hirai,55,2021-05-12,https://open.spotify.com/track/1FRfGXTq1KdElX9jWDBPsM,246960,False
+614,キラキラ,自己ベスト,https://open.spotify.com/album/3TcENjReGKNVrQR4LM1hG4,Kazumasa Oda,54,2002,https://open.spotify.com/track/7xh2EM5vePOLsrfDiXDTZa,283413,False
+615,I knew,I knew,https://open.spotify.com/album/2h744OhmRWGvyBqhRxcKMa,LOZAREENA,54,2023-04-19,https://open.spotify.com/track/22fzmCpT5dx66zMfbrsOEL,289960,False
+616,貴方の恋人になりたいのです,ポっぷ(通常盤),https://open.spotify.com/album/0hivuqm8aBKNGpVMOToItC,Mao Abe,54,2010-01-27,https://open.spotify.com/track/6sCClcK3Q3RWzBLNSKuD1F,306613,False
+617,願い,AMUSIC,https://open.spotify.com/album/77S1EmlVIWKiXrtwt21sZ1,sumika,55,2021-03-03,https://open.spotify.com/track/7dODNcz1h6UFj8GHlvRyqP,315866,False
+618,STARS,STARS,https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x,w.o.d.,62,2023-07-09,https://open.spotify.com/track/0mMikRupn84z6woeMHccz1,213400,False
+619,Orange Days,Orange Days,https://open.spotify.com/album/6atQ8dmI3YfyZM6v90sSTw,HIRAIDAI,53,2023-03-08,https://open.spotify.com/track/3DiUeAXtGIivmWjTMimKwm,226085,False
+620,リフレインが叫んでる,Delight Slight Light KISS,https://open.spotify.com/album/0K5b7l8qqIzNNohYqKTFnZ,Yumi Matsutoya,55,1988-11-26,https://open.spotify.com/track/0GlBch8nzT4GqrAkgVZCbI,262620,False
+621,REVIVER,S・S・S,https://open.spotify.com/album/0fIXE9BDAKai3jMx2IWoiC,MY FIRST STORY,59,2018-10-17,https://open.spotify.com/track/1p6WtbNY4bDjiFBmSZolJY,290400,False
+622,Mad World,Luxury Disease,https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO,ONE OK ROCK,54,2022-09-09,https://open.spotify.com/track/7uPqCPyYOZV9OqRfGCKhoP,182370,False
+623,NIGHT DANCER - BIG Naughty Remix,NIGHT DANCER (BIG Naughty Remix),https://open.spotify.com/album/2UoG0NEAur16GFwAY1kZGu,imase,63,2023-05-15,https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U,210451,False
+624,行方知れず,行方知れず,https://open.spotify.com/album/6VqJt1oGF2UvWBiKJNW97J,Ado,55,2022-10-09,https://open.spotify.com/track/5eCSuo6fXYTzm6WyWkeOxV,189565,False
+625,あの夏へ,千と千尋の神隠し サウンドトラック,https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY,Joe Hisaishi,53,2001-07-18,https://open.spotify.com/track/6RxsExIM2y163Iy1Qst36S,189800,False
+626,夢の途中,夢の途中,https://open.spotify.com/album/5KOVevKPku5DjlwYWadXcO,Takao Kisugi,54,1981,https://open.spotify.com/track/2RfYBF00LlyL7g6Nlrtou3,286000,False
+627,ただそれだけのことがさ,ただそれだけのことがさ,https://open.spotify.com/album/2xO7qPcley2aBcIy0Lf6mK,マルシィ,54,2023-04-19,https://open.spotify.com/track/3B6vc2GvuGBmoNESYzpkze,253640,False
+628,ツバメ (feat. ミドリーズ),THE BOOK 2,https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY,YOASOBI,55,2021-12-01,https://open.spotify.com/track/058M95ZRgEcXb4sQzTaEHh,216280,False
+629,ロマンスの約束,Sketch,https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy,Lilas Ikuta,56,2023-03-08,https://open.spotify.com/track/1tevypbWcDiPoUSlxKkaUu,222066,False
+630,島人ぬ宝,ビギンの島唄 ~オモトタケオ2,https://open.spotify.com/album/4yDaqEIrlkAqKb03iRecrx,BEGIN,55,2002-07-03,https://open.spotify.com/track/41nBBliSNmH1Qv9HSjHF9l,320333,False
+631,新宝島,魚図鑑,https://open.spotify.com/album/6TsUHehT6vEvGGPKCiqXyk,sakanaction,55,2018-03-28,https://open.spotify.com/track/6ODZT1FGTE2q4two05giS1,302493,False
+632,クリスマスイブ,クリスマスイブ,https://open.spotify.com/album/4PNo67FkFcvATpEhXEvYLT,Yuuri,54,2022-11-27,https://open.spotify.com/track/1g6Elo93E6SecrU4iVJXpA,233973,False
+633,SUMMER TRIANGLE,SUMMER TRIANGLE,https://open.spotify.com/album/0tfkLk0b3nY91ffZIEKDUY,しゃろう,53,2021-02-18,https://open.spotify.com/track/1jrQcPLhcRWI6LUWojOOp0,128228,False
+634,青い春のエチュード - feat. 長屋晴子 (緑黄色社会),JUNK or GEM,https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw,Tokyo Ska Paradise Orchestra,54,2023-03-15,https://open.spotify.com/track/3bAobLtFa0QXOlo9KWYJpD,273766,False
+635,春よ、来い,THE DANCING SUN,https://open.spotify.com/album/4TEBvuxfzOhHYE1rY0iJXX,Yumi Matsutoya,56,1994-11-25,https://open.spotify.com/track/7BgNhufmVuEQjRo86YrsJR,288567,False
+636,"Lovely Day, Lovely Place.",SURF & TURF,https://open.spotify.com/album/3JQPj1uNk62oTh8oB1qsNQ,HIRAIDAI,53,2023-06-25,https://open.spotify.com/track/53PNdyacMlicwrlb3JCcJd,233576,False
+637,デイドリーム,my,https://open.spotify.com/album/2ScDaY2kCiHLd0li7FQf37,reGretGirl,54,2017-12-13,https://open.spotify.com/track/7bULwkgRO7FHaXHHJbvzI8,268586,False
+638,ガリレオは恋をする,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,54,2023-03-29,https://open.spotify.com/track/6PuQit7NxJpOaTDdPF39wb,258186,False
+639,Rusty Nail,DAHLIA,https://open.spotify.com/album/33pMdb6OyR4VFQzOcrycvg,X JAPAN,53,1996-11-04,https://open.spotify.com/track/4lk80WJ6yye6CkHp5d99PX,328000,False
+640,PEACH,LOVE PiECE,https://open.spotify.com/album/4IUrlbB0RG3OLrWloP9ZE3,Ai Otsuka,54,2007-09-26,https://open.spotify.com/track/3L4Z5i8oVS0srXX5t6OBGr,248322,False
+641,Week End,YELLOW DANCER,https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax,Gen Hoshino,54,2015-12-02,https://open.spotify.com/track/4yBciZ52BnlfqsbwmRKKKp,270466,False
+642,HELLO,HELLO,https://open.spotify.com/album/1qht7nM7kDFMN1Sh6T1hTv,Masaharu Fukuyama,55,2010,https://open.spotify.com/track/5O1VtFNxDZe7fgJozYlhyw,238373,False
+643,One Way Ticket,Ambitions,https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b,ONE OK ROCK,54,2017-01-11,https://open.spotify.com/track/62i2LI6iDmAHbE9H9wa99z,216970,False
+644,努努-ゆめゆめ-,ゼイタクビョウ,https://open.spotify.com/album/46tj8YcIiWYdrkS8QcDNrP,ONE OK ROCK,54,2007-11-21,https://open.spotify.com/track/3DgBxV8oklNgwhnkfQNIdi,195666,False
+645,まつり,まつり,https://open.spotify.com/album/3Pwex5PyfxbrNTAwl6FGo5,Fujii Kaze,61,2022-03-20,https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem,225924,False
+646,りんどう,COMINATCHA!!,https://open.spotify.com/album/1R6DH3ahYHOQxqQUBFl3au,WANIMA,54,2019-10-23,https://open.spotify.com/track/3jAjSQXOTgQDHjRtlvW6P6,329442,False
+647,海の見える街,魔女の宅急便 サントラ音楽集,https://open.spotify.com/album/4lbEQJMTPRqABuBCDkhetC,Joe Hisaishi,53,2004-09-29,https://open.spotify.com/track/15X1ksqhe8cY1NlEZMl7X8,180333,False
+648,なにやってもうまくいかない,なにやってもうまくいかない,https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv,meiyo,62,2021-09-26,https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt,146588,False
+649,Family Song,Family Song,https://open.spotify.com/album/6xgolNn3qUk3c2fvkBKuwN,Gen Hoshino,54,2017-08-16,https://open.spotify.com/track/6XzDz5r1bGMkcOKeXQwTqM,324000,False
+650,全糖の少女,全糖の少女,https://open.spotify.com/album/6OVOGBg3nRXPaJlVtRrKxf,L1VET..,54,2020-04-20,https://open.spotify.com/track/0pDTcAK8vIAQ8elNoHdrxC,230217,False
+651,全糖の少女,全糖の少女,https://open.spotify.com/album/6OVOGBg3nRXPaJlVtRrKxf,L1VET..,54,2020-04-20,https://open.spotify.com/track/0pDTcAK8vIAQ8elNoHdrxC,230217,False
+652,Change,Eye of the Storm,https://open.spotify.com/album/6JjOyVA7Ph4Ufowxgz1ezk,ONE OK ROCK,54,2019-02-13,https://open.spotify.com/track/14DNw6R24Vcm4lzaSFn3oz,176946,False
+653,ウタカタララバイ,ウタカタララバイ,https://open.spotify.com/album/4vWfsyx7AkuLNuXwa075co,Ado,56,2022-08-05,https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3,173373,False
+654,"Asian Doll (feat. T-Pablow, Vingo & Yellow Pato)",Mobb Life,https://open.spotify.com/album/6ZO5dF8r127LoIWjS75fnO,BAD HOP,54,2017-09-06,https://open.spotify.com/track/7BpEkVp70r8pASyClRYFBw,286879,False
+655,セロリ,HOME,https://open.spotify.com/album/2Y2mJbrCdXDdJC8eBlqvdV,Masayoshi Yamazaki,53,1997,https://open.spotify.com/track/4f9xOpHXnE4VxXItU3bJAS,251506,False
+656,One Last Kiss,BADモード,https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij,Hikaru Utada,60,2022-01-19,https://open.spotify.com/track/6DaKMsQDmHMJbKYyU7AUFA,249904,False
+657,星を仰ぐ,星を仰ぐ,https://open.spotify.com/album/17v5xV5TeED7ax2M9C2Xbv,SUDA MASAKI,55,2021-02-01,https://open.spotify.com/track/1xIytdeA5bfj2ONu4x9Mj3,293000,False
+658,好きにさせた癖に,好きにさせた癖に,https://open.spotify.com/album/1vrVWKWx5fJvhmvbVVpHJo,あれくん,55,2020-09-04,https://open.spotify.com/track/0gLLZfnNSaFn1QejC86sS4,263333,False
+659,META EDEN,META EDEN,https://open.spotify.com/album/7DReHVcjfU5lUJbyC7bmYb,OZworld,42,2023-07-14,https://open.spotify.com/track/2XEPuUL3gtUG9hUuvgDOnO,254516,False
+660,青い珊瑚礁,BIBLE,https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL,Seiko Matsuda,55,1980,https://open.spotify.com/track/0UELBkb2esbSdwcVYfsRIm,219973,False
+661,Under the Sea,Disney Island Music,https://open.spotify.com/album/3zjUteQaBYY4wIMDQ5tn6L,HIRAIDAI,53,2014-06-04,https://open.spotify.com/track/1taeiZkUeq3DdQhFgACWBL,194013,False
+662,風の日,ELLEGARDEN BEST 1999-2008,https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK,ELLEGARDEN,53,2008-07-02,https://open.spotify.com/track/0ui9eFDmG2V9vW794v8CEp,252453,False
+663,tonight,Life is Beautiful,https://open.spotify.com/album/6PxZeOD80KsZbI7hB7zGrP,HIRAIDAI,53,2016-06-15,https://open.spotify.com/track/5o5gR6R356cbWbz2mVGiZN,249706,False
+664,交差点 DUB,LIGHT -ALL JAPANESE DUB MIX- DISC 1,https://open.spotify.com/album/7tOvfROrlbON387alYwhCy,LIFE STYLE,54,2020-09-02,https://open.spotify.com/track/5YByDgof8dMTcihxMYa68G,99828,True
+665,寄り酔い,寄り酔い,https://open.spotify.com/album/1gIajde1Q5nywlwqPNZ68i,和ぬか,58,2021-02-15,https://open.spotify.com/track/154Jycdld9dX9rBLE6L3v4,216959,False
+666,ふぁなれない,ふぁなれない,https://open.spotify.com/album/5XYx6QMJQ36KlAqvjh3Dzr,YOAKE,53,2021-03-19,https://open.spotify.com/track/3lXxYvcjY5MwMP9s0nvKCy,216583,False
+667,Life is Beautiful,Life is Beautiful,https://open.spotify.com/album/6PxZeOD80KsZbI7hB7zGrP,HIRAIDAI,53,2016-06-15,https://open.spotify.com/track/022a9bG2NNI1i7SVjX4Xq4,319440,False
+668,Prologue,THE BOOK,https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv,YOASOBI,59,2021-01-06,https://open.spotify.com/track/1lfK0hVEKdq0k4fFCZvQge,35706,False
+669,愛にできることはまだあるかい,天気の子,https://open.spotify.com/album/6IScXwjWgXRIwD5S2MsJNk,RADWIMPS,54,2019-07-19,https://open.spotify.com/track/0PUoNLjLtrSCNwIvvbERS2,414466,False
+670,告白直前酸欠状態,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,54,2023-03-29,https://open.spotify.com/track/2Bov530xcE7aEN6XCZZQsE,187586,False
+671,カゲロウ,ゼイタクビョウ,https://open.spotify.com/album/46tj8YcIiWYdrkS8QcDNrP,ONE OK ROCK,54,2007-11-21,https://open.spotify.com/track/4v5JwgpMOAYGevASour7Fd,248000,False
+672,ナイトクロージング,カントリーロード,https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y,Saucy Dog,54,2017-05-24,https://open.spotify.com/track/0pFP70lxk3CPNcpWMhJBaK,228545,False
+673,生きる,生きる,https://open.spotify.com/album/0zUKeApZDP3H07SJWPghRZ,水野あつ,53,2021-07-22,https://open.spotify.com/track/4B6rDxockZoeeIw8Vx02T6,136073,False
+674,おにごっこ,おにごっこ,https://open.spotify.com/album/0hz5oOLvoRKEIF0J00Pz8v,Yuuri,54,2022-09-12,https://open.spotify.com/track/6AEEo4hAPdoeoIRS9TSmG5,230040,False
+675,未完成交響曲,Nicheシンドローム,https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa,ONE OK ROCK,54,2010-06-09,https://open.spotify.com/track/5dcY3tnR5Id4R9hvM3Fpvp,208053,False
+676,Do u remember me,Mall Tape 2,https://open.spotify.com/album/1iLEyfPZUxESIN0stdz0Ak,Mall Boyz,54,2023-07-05,https://open.spotify.com/track/3oMNrj9cG8BmcbsqTGkmvE,208336,False
+677,ハッピーエンドへの期待は,ハッピーエンドへの期待は,https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz,Macaroni Empitsu,53,2022-01-12,https://open.spotify.com/track/10y76UPiv2GXaAAuGASHLf,212569,False
+678,to You,S,https://open.spotify.com/album/7Kl8YgPC8fI3RIDApfUB7T,SOUTH BLUE,53,2022-02-14,https://open.spotify.com/track/5JGTfKmxX5d6izVeKolZjg,207939,False
+679,僕が僕であるために,十七歳の地図,https://open.spotify.com/album/2fRDpy1CPpglszHleEHITW,Yutaka Ozaki,54,1983,https://open.spotify.com/track/7isOa0YWmngqAq7h3RcZj1,292066,False
+680,think of you,think of you,https://open.spotify.com/album/2o6GVtFwDCRBIT06ckkZYH,YRD Leo,53,2023-02-10,https://open.spotify.com/track/5F7GLIOJwMfIYnr2jpHfPh,123028,False
+681,Clock Strikes,人生×僕=,https://open.spotify.com/album/2bvVzDllEs2oc73rZW7wnU,ONE OK ROCK,54,2013-03-06,https://open.spotify.com/track/1XPzVq4TS2D38MUb9uu0hi,235346,False
+682,PRAY.,wheel of life,https://open.spotify.com/album/23V4MjO0LO5wMfDg0Al29s,Macaroni Empitsu,53,2023-03-08,https://open.spotify.com/track/13wvSdNG2gmOXLpKyaqr3X,211936,False
+683,Gravity (feat. Satoshi Fujihara) [OFFICIAL HIGE DANDISM],Luxury Disease,https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO,ONE OK ROCK,54,2022-09-09,https://open.spotify.com/track/2sjFLSGUKxYT8qSuuLHAdx,191959,False
+684,BUDDY feat. PUNPEE,The Beam,https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh,BIM,53,2018-07-25,https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq,216015,True
+685,ダーリン,Ghost Pop,https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB,須田景凪,58,2023-05-24,https://open.spotify.com/track/1dRZX4cj6zGKKylcAydIG1,148521,False
+686,Jupiter,Odyssey,https://open.spotify.com/album/7c2avNmlnMehoWD77vy3Dn,Ayaka Hirahara,54,2005-09-21,https://open.spotify.com/track/5IwRgi599tbwNi9wqPYyIX,361000,False
+687,優しさ,優しさ,https://open.spotify.com/album/3GQZmfknolba58pfe6uSUO,Fujii Kaze,54,2020-04-17,https://open.spotify.com/track/38oLPJMvxkUflwj1Si2Fks,238600,False
+688,ヘビースモーク,ヘビースモーク,https://open.spotify.com/album/3vviZ2ljJiDqTAHm7OCTCd,にしな,53,2021-03-31,https://open.spotify.com/track/6SZxiOImowwY2pcYjnrf8n,302142,False
+689,ライラ,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,54,2023-03-29,https://open.spotify.com/track/7KfRmw1LmnvHxgTxH7YNqZ,185933,False
+690,あの日にかえりたい,YUMING BRAND,https://open.spotify.com/album/2ssR7s5s9VjCoXzNkr0IiF,Yumi Arai,53,1976-06-20,https://open.spotify.com/track/01N5MWGnmI0Zjd0D0vXciF,220626,False
+691,現在を生きるのだ。,現在を生きるのだ。,https://open.spotify.com/album/48ANWYUx5BfTaEuTgiFpBP,Saucy Dog,54,2022-12-09,https://open.spotify.com/track/63V6CgRiFhyxaNWpreSryC,274714,False
+692,大丈夫,天気の子 (complete version),https://open.spotify.com/album/3qpJ0Rir3jGJVJ12LSsExo,RADWIMPS,54,2019-11-27,https://open.spotify.com/track/3TkNG3lYmJHk2Ftj4zy0I5,335146,False
+693,The Rumbling,The Rumbling,https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8,SiM,52,2022-02-07,https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR,220799,False
+694,FEELINGS,FEELINGS,https://open.spotify.com/album/4RP3uvoBsWzgGMAjZrj6MA,3House,53,2021-08-25,https://open.spotify.com/track/2zZ3M9KjUwDm2tgWrTN36G,110424,False
+695,いぶき,いぶき,https://open.spotify.com/album/0wf3C30gLk0n3gaMo4CAiW,yama,56,2023-04-14,https://open.spotify.com/track/6Bt9IlFTlLrEn8ZoDGQ60p,197333,False
+696,15の夜,愛すべきものすべてに -YUTAKA OZAKI BEST,https://open.spotify.com/album/5KYFjInulb9juOaJSDJtme,Yutaka Ozaki,54,1983,https://open.spotify.com/track/0iryIyCPuc1TMZJ5mFB7qD,330773,False
+697,Dried Flowers(English ver.),Dried Flowers(English ver.),https://open.spotify.com/album/6yQZ7vFWS1fWkDtI2QZaC2,Yuuri,57,2022-02-01,https://open.spotify.com/track/1FiHLrlIkIyZLf5CyHITqN,285680,False
+698,初恋,七夕夜想曲〜村下孝蔵最高選曲集 其の壱,https://open.spotify.com/album/0mSArU5DtMhrICuIxA5TAW,Kozo Murashita,54,1980,https://open.spotify.com/track/3An5wzyMgTbXYfBHHiv3wG,221160,False
+699,ファイナルボーイフレンド,純異性交遊,https://open.spotify.com/album/5RRIY9T0OriPLPweISEIF3,Humbreaders,53,2018-01-17,https://open.spotify.com/track/0VNPAfMasBmlJjeOllhvxt,304573,False
+700,Kawasaki Drift,BAD HOP HOUSE,https://open.spotify.com/album/7H4uMwNDrQRF4I3NjGtAiw,BAD HOP,53,2018-06-15,https://open.spotify.com/track/651z4p0RWGLrleAdBhd2os,277307,True
+701,ノンフィクション,Ken Hirai Singles Best Collection 歌バカ 2,https://open.spotify.com/album/3ASSooPnI9plzYao2EyIZi,Ken Hirai,54,2017-07-12,https://open.spotify.com/track/14P8XlYV4woGZf2SgXav8q,272280,False
+702,swim,CAVU,https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8,04 Limited Sazabys,54,2015-04-01,https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI,207000,False
+703,"GOOD VIBES ONLY feat. JP THE WAVY, EXILE SHOKICHI",GIFTED,https://open.spotify.com/album/0ig4YernLbajUn2OBeNeeZ,SALU,54,2019-12-04,https://open.spotify.com/track/02qDk0sngobDvg3LUdt9Y0,201080,False
+704,DRAMA,PRIVATE,https://open.spotify.com/album/4iEtXGDpfraVH7Srme6iqD,iri,52,2023-05-10,https://open.spotify.com/track/1PIZfCbPbv4bQZkM9x81ET,205493,False
+705,恋の中,エイチビー,https://open.spotify.com/album/6SaQSjWqlsxwhuIhijDROn,Macaroni Empitsu,53,2019-04-29,https://open.spotify.com/track/3YDRpWSQoF5QKwVruL6IND,187240,False
+706,星にのせて,Slow & Easy,https://open.spotify.com/album/0LLMweYMQL9FSdHortnpx8,HIRAIDAI,52,2015-05-06,https://open.spotify.com/track/5SdZWiJLe7xcSOZztJvtKN,238026,False
+707,The Autumn Song,Missing,https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY,ELLEGARDEN,53,2004-11-03,https://open.spotify.com/track/6UzbqphdFT8m90bUJVtJHY,181773,False
+708,Miss u,Notice Me,https://open.spotify.com/album/1dgx7afjOgyOVZTwDWMA1a,Linobu,53,2020-10-27,https://open.spotify.com/track/6n7KHhRIZzgCDrJcCG3Zc3,123428,False
+709,Balls Out,Jungle,https://open.spotify.com/album/5qr3R4M52bfZ3PrgRiDjmM,¥ellow Bucks,53,2020-08-21,https://open.spotify.com/track/3nFWm52E8AVfxXNJFROSSk,179968,True
+710,My jewel,S,https://open.spotify.com/album/7Kl8YgPC8fI3RIDApfUB7T,SOUTH BLUE,52,2022-02-14,https://open.spotify.com/track/0N6q0RpDRpUVNnbPWZjTwd,252633,False
+711,you are my curse,you are my curse,https://open.spotify.com/album/4fLBuCRtLLne1DsqpqTNlP,nyamura,53,2023-06-03,https://open.spotify.com/track/1Tggp0YqRl3YAh0neL7KlN,140085,True
+712,Hold You Down,T.A.T.O.,https://open.spotify.com/album/1UvAGMeRf2rVGIAnF55mM7,KEIJU,53,2020-07-29,https://open.spotify.com/track/0vBezvQgxX7mEZzth57cXE,259866,False
+713,Instagram,Instagram,https://open.spotify.com/album/1rdoOnODziHr8YL9I3qeeg,SG,53,2021-11-24,https://open.spotify.com/track/2tdNiGG0KWAbCB1YqNXc3q,195000,False
+714,怪物たちよ,怪物たちよ,https://open.spotify.com/album/1ZrTplBiIjywcJJ0xQ2o3D,Saucy Dog,54,2023-02-01,https://open.spotify.com/track/5krBK1TJTetrfDGzVcyq6f,320040,False
+715,In Your Life,In Your Life,https://open.spotify.com/album/62QURXULvXlv2swtJXLLq4,Quruli,53,2023-06-28,https://open.spotify.com/track/0wCLmoOwQPtJTSkqel7A8W,235500,False
+716,関係のない人,関係のない人,https://open.spotify.com/album/6gcvBSWLvo4zpdPYQDiZPS,Kaneyorimasaru,53,2022-04-13,https://open.spotify.com/track/3WlAqL1Vaei9e84PDNh5FH,213466,False
+717,君に夢中,君に夢中,https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA,Hikaru Utada,55,2021-11-26,https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF,257953,False
+718,アリカ,アリカ,https://open.spotify.com/album/1a2AEzKmpELfwRWEH28VxN,マルシィ,54,2023-01-18,https://open.spotify.com/track/282sZh3ndUMHpwpoKZUCl1,291333,False
+719,メロディー,CAFE JAPAN,https://open.spotify.com/album/2HSrcUXXNh5ib1T2oXxM08,Koji Tamaki,53,1996,https://open.spotify.com/track/3QppEXrAGuSrs8pmlxBDou,280280,False
+720,Automatic,First Love,https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6,Hikaru Utada,58,1999-03-10,https://open.spotify.com/track/6DJ3dfsY7fOU161ZMjzWIH,328600,False
+721,PINK,BIPOLAR,https://open.spotify.com/album/4vnB6AiGOaZWl6u7xIsyG9,Tatsuya Kitani,59,2022-05-25,https://open.spotify.com/track/3KhODlXNFUONL8CdqEmd1d,176853,False
+722,レンズ,レンズ,https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2,Lilas Ikuta,56,2022-06-14,https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s,238536,False
+723,遥か彼方,BEST HIT AKG,https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA,ASIAN KUNG-FU GENERATION,69,2012-01-18,https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL,243346,False
+724,ASH feat. Vaundy,ASH feat. Vaundy,https://open.spotify.com/album/3HXFZKcgK3kvQISiCQ3QCx,Nulbarich,52,2020-10-28,https://open.spotify.com/track/6DqmRsI9FxY5OR6yFo3QR1,228224,False
+725,Deeper Deeper,人生×僕=,https://open.spotify.com/album/2bvVzDllEs2oc73rZW7wnU,ONE OK ROCK,53,2013-03-06,https://open.spotify.com/track/3qmZlJRJjliV3a9LKRiIMT,216453,False
+726,エマ,Magic Number,https://open.spotify.com/album/2PrTH628OvzyS42j9yMMUy,go!go!vanillas,53,2014-11-05,https://open.spotify.com/track/3BcpM90O0BWj13cg439m5P,207213,False
+727,曖昧,曖昧,https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY,WANIMA,53,2021-12-15,https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH,221167,False
+728,サークル,Sketch,https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy,Lilas Ikuta,55,2023-03-08,https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe,195760,False
+729,煙,カントリーロード,https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y,Saucy Dog,53,2017-05-24,https://open.spotify.com/track/5k81p59tAYN1V1CmKSMM75,246063,False
+730,I’m now here,I’m now here,https://open.spotify.com/album/5WFymuEv6kvcj0PaT0kKwQ,HIRAIDAI,52,2023-03-26,https://open.spotify.com/track/44eBoxkBWlUUQH2uiVCbYp,191198,False
+731,あーあ。,ReNBRANDT,https://open.spotify.com/album/6TmFqcRuU8NB6ScPSelQ4t,ReN,56,2021-09-08,https://open.spotify.com/track/3m1gZuWH9qdkUa4BBGH53e,168762,False
+732,手紙 〜拝啓 十五の君へ〜,ANSWER,https://open.spotify.com/album/1OKIJZzyZbkASmuKeEu9j2,Angela Aki,55,2009-02-25,https://open.spotify.com/track/2HOOXeBHjWrz12PVNtrSO3,315040,False
+733,スキ,スキ,https://open.spotify.com/album/05g4o9ussnbfEksPXfL4am,eill,53,2022-07-27,https://open.spotify.com/track/0ZhxVhQ3EMRIFxczoTfkn0,172959,False
+734,永遠のあくる日,永遠のあくる日,https://open.spotify.com/album/4jFVggky7sWAA2JVf34gXf,Ado,58,2022-03-14,https://open.spotify.com/track/5WaSJKCZhmRZ8Pxn1oTjA5,246333,False
+735,Tokyo Flash - TEMPLIME Remix,Tokyo Flash - TEMPLIME Remix,https://open.spotify.com/album/4BbA2piHwk4nTF0gSFjnKZ,Vaundy,53,2020-11-03,https://open.spotify.com/track/4TiHHP3QSFOPKC9sQpexnm,258950,False
+736,あなただけ見つめてる (2019 Remastered),永遠の夢に向かって (2019 Remastered),https://open.spotify.com/album/3YGoWByuaEmGwimfgOmjHh,Maki Ohguro,58,1994-11-09,https://open.spotify.com/track/1I6dkQgP31XzdcHFnBgPt7,283233,False
+737,Neon,Luxury Disease,https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO,ONE OK ROCK,53,2022-09-09,https://open.spotify.com/track/0g3TpQFLDLUwjj56BCxsou,184543,True
+738,おしゃかしゃま,アルトコロニーの定理,https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg,RADWIMPS,54,2009-03-11,https://open.spotify.com/track/39oAp7sfaU9PDaraVLD31O,226613,False
+739,永遠のブルー,永遠のブルー,https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo,Hitsujibungaku,53,2023-03-01,https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH,228573,False
+740,明日があるさ - ジョージアで行きましょう編,ベストだぜ!!,https://open.spotify.com/album/25Dj8JmJAxDRevr9vuFUCP,Ulfuls,54,2001-04-28,https://open.spotify.com/track/3QHKzZUAyLzb7GuyUiFLI2,224933,False
+741,やさしさに包まれたなら - 2022 mix,ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜,https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO,Yumi Matsutoya,52,2022-10-04,https://open.spotify.com/track/5Y71skNKd3cj4JC2A8nLlb,192466,False
+742,悲しみにさよなら,安全地帯Ⅳ,https://open.spotify.com/album/6SuEx95rYhf377HP8APMs0,Anzen Chitai,55,1985,https://open.spotify.com/track/5eCloFta7KUnm9sCBqvJOB,267506,False
+743,FFNM,Who ride wit us,https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8,Bank.Somsaart,52,2019-07-31,https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF,164986,True
+744,Be You,WCMTW,https://open.spotify.com/album/6YSj649WeeJ06qyop6QrmD,Novel Core,52,2020-04-01,https://open.spotify.com/track/0u689cua3viCUxYRukRbtm,233893,False
+745,金木犀の夜,タイム・ラプス,https://open.spotify.com/album/3g010J7Tee9KgJEjzBb2TX,Kinokoteikoku,55,2018-09-12,https://open.spotify.com/track/27udJcfu06TvbbOpgfxIlw,245080,False
+746,桜晴,桜晴,https://open.spotify.com/album/4HfWVQd0AaNI1z4oFCpgPE,Yuuri,52,2021-02-19,https://open.spotify.com/track/6zp11UWyqX164jctHntN49,236000,False
+747,いいから,Are You Coming?,https://open.spotify.com/album/2hu5xxqSKR84UpYkAblyGp,WANIMA,52,2015-11-04,https://open.spotify.com/track/4iE30hFCCZYSuTySUQksVT,196573,False
+748,1210 - I Need You -,19's MAP,https://open.spotify.com/album/0uWaoWeiBMBDqTB0LsC7QC,EINSHTEIN,52,2017-04-21,https://open.spotify.com/track/6krk7z1Ez5KZdy4iwjVyzz,286961,False
+749,Greatest Journey,Greatest Journey,https://open.spotify.com/album/0QbN68y6D0WCViH0iiDlQ5,HIRAIDAI,52,2022-08-08,https://open.spotify.com/track/7FaArVLHS3aEqfhAishhk7,178864,False
+750,タイムマシン,タイムマシン,https://open.spotify.com/album/5suK3hqIM3p9iogpM0buCz,Yuuri,53,2022-07-12,https://open.spotify.com/track/0C7VgMgDuyOEku3sslCbyC,201133,False
+751,MEMORY,PSYCHOPATH,https://open.spotify.com/album/5XNV1gmhnTnwvQ1bpMmYhj,BOØWY,52,1987-09-05,https://open.spotify.com/track/6dHbMqHLpGk7riGCFra1y6,265213,False
+752,traveling,DEEP RIVER,https://open.spotify.com/album/5xcIRLlQWJBqN8fpmlskGr,Hikaru Utada,55,2002-06-19,https://open.spotify.com/track/6OxxzC0HsX7zK3ZO3q79H6,313546,False
+753,LOVE ROCKETS,LOVE ROCKETS,https://open.spotify.com/album/0wN4mrkQyl961vNqhchf7N,The Birthday,55,2022-12-03,https://open.spotify.com/track/6stn0schvLBMoRHsDeYiIi,261385,False
+754,Flavor Of Life - Ballad Version,HEART STATION,https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L,Hikaru Utada,56,2008-03-19,https://open.spotify.com/track/4NnxwvoD3dboEG0MdYBEbB,325360,False
+755,FAKE LAND,FAKE LAND,https://open.spotify.com/album/3iL9jfv2InREl50BalzZcS,FAKE TYPE.,52,2021-02-17,https://open.spotify.com/track/5sAfloSZAFK0sUhmz6GfHH,208139,False
+756,これからのこと,デイズ オブ ユース,https://open.spotify.com/album/3gZlKfJOoQDjMvbUR9w5rE,ケプラ,52,2021-07-21,https://open.spotify.com/track/2pD1Smkp93TSJy3nwsv6gn,238832,False
+757,君の太陽,あいことば7,https://open.spotify.com/album/18tX0I8hgrtI6GEpisJvex,Yamazaru,53,2020-03-10,https://open.spotify.com/track/4ODOotLaRU7a8auMCwZsQC,233441,False
+758,タカラモノ~この声がなくなるまで~,Shall we travel ??,https://open.spotify.com/album/4JNqi2eL5mOR6d2y2zChvo,Naoto Inti Raymi,53,2010-01-01,https://open.spotify.com/track/7FSUSqI5Ea1z9XmcMoMGSu,260906,False
+759,ロマンスの約束,ロマンスの約束,https://open.spotify.com/album/5kbdEOR238BDJV5jpgR3NA,Lilas Ikuta,54,2021-08-14,https://open.spotify.com/track/4IRYZdr8MA1z2yq87NtYeP,223870,False
+760,STAY GOLD,MAKING THE ROAD,https://open.spotify.com/album/1H6Eao8ABFgkMvkwu12BNa,Hi-STANDARD,53,1999-06-30,https://open.spotify.com/track/76wUTWBAXGl6t7ZhKJMPCc,120200,False
+761,DREAMIN',BOφWY,https://open.spotify.com/album/6sn3r2yUmxWx0eHjUTHYLi,BOØWY,52,1985-06-21,https://open.spotify.com/track/6myuthjsDanIS22oWkB4wm,245693,False
+762,運命,運命,https://open.spotify.com/album/0fRyvrNCnXne5OeEJQ0WUs,Tani Yuuki,53,2023-03-15,https://open.spotify.com/track/1XbrJj5214IFkqaVGejUD1,253116,False
+763,Fruits,Fruits,https://open.spotify.com/album/0foXZgprQhLjto9I2y3zjv,Rin音,53,2023-06-22,https://open.spotify.com/track/1szzidAkwhwlANs3dG4uXI,203225,False
+764,願いごと,HOPE / WISH,https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ,HIRAIDAI,52,2022-05-09,https://open.spotify.com/track/3sgL5jQOlQP5BufvF6rWj2,177497,False
+765,ONE LOVE -Pacific Harmony- - 2023 Ver.,LOVE+PEACE,https://open.spotify.com/album/4nlLn9bbCipFARu5OcRyti,HIRAIDAI,52,2023-05-07,https://open.spotify.com/track/519EyJm5Ezy4JQZzbZXxvM,238871,False
+766,赤ずきん,赤ずきん,https://open.spotify.com/album/3KPeXKwDGaWZz6Ue3ovPdK,WEDNESDAY CAMPANELLA,51,2023-01-25,https://open.spotify.com/track/1vone5YS9zGooFsnUml2LI,195059,False
+767,"One more time, One more chance",HOME,https://open.spotify.com/album/2Y2mJbrCdXDdJC8eBlqvdV,Masayoshi Yamazaki,55,1997,https://open.spotify.com/track/5YRDGgdOshUPA17m7yzY7p,330200,False
+768,CLOUDY HEART - Single Version,SINGLES,https://open.spotify.com/album/6KbDQc1jYv60JEJr4gjVJz,BOØWY,52,1988,https://open.spotify.com/track/7GuWI1nteny7vZOv0dkSDq,268066,False
+769,カムフラージュ,Expressions,https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU,Mariya Takeuchi,53,2008-05-21,https://open.spotify.com/track/0X4jJ9FgGykuDw0N80aRl7,328546,False
+770,創造,創造,https://open.spotify.com/album/0K9ynR8vZZocGNMi9bvlUM,Gen Hoshino,53,2021-02-17,https://open.spotify.com/track/359Yw4Ng9TcH667Ct2Dj6D,234166,False
+771,三時のキス,三時のキス,https://open.spotify.com/album/3rwhsHWivhsmD8Sk6qtETb,ロクデナシ,56,2021-06-28,https://open.spotify.com/track/4161xaeGpZ12moAzWyTjXR,280906,False
+772,memory,memory,https://open.spotify.com/album/4uxY9Gts6tBoAyTJfKqXgB,asmi,53,2020-12-02,https://open.spotify.com/track/7bcuvejc4rDM84mQnSwJhM,182110,False
+773,あーあ。,あーあ。,https://open.spotify.com/album/4XsXop0J1hE1Cmjm0upUfe,ReN,55,2021-04-09,https://open.spotify.com/track/5sNFmrc2sbS3LZ4WNxHFej,168762,False
+774,素晴らしき人生,HOPE / WISH,https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ,HIRAIDAI,52,2022-05-09,https://open.spotify.com/track/5hKioOXal5ncw6ScShinpX,215046,False
+775,見たこともない景色,PLAY(Special Edition),https://open.spotify.com/album/5JP5NDPvio5ZhkXXjcHVov,SUDA MASAKI,54,2018-03-21,https://open.spotify.com/track/7r2BkaNy5vNFgfU39W5AkZ,221693,False
+776,甘えちゃってSorry,甘えちゃってSorry,https://open.spotify.com/album/3aI7w6GXWhhuRR1Hn3lfub,AYA A.K.A PANDA,53,2017-11-01,https://open.spotify.com/track/3wJObP1chwFzb2kTGnNrP8,182668,False
+777,GIOTF (feat. JP THE WAVY),Ride 4 Life,https://open.spotify.com/album/4RRLnWdWFvryr13x2Htj8x,¥ellow Bucks,53,2022-07-06,https://open.spotify.com/track/6mAil1difH6zpR6M0CJEtK,163189,True
+778,偽物勇者,偽物勇者,https://open.spotify.com/album/7LNFKYAgsQOvkdewE13nO8,703goushitsu,52,2019-08-15,https://open.spotify.com/track/5ynILPpLvLjqaasmqICWor,228914,False
+779,人間ごっこ,人間ごっこ,https://open.spotify.com/album/5DXwoxFKb3HqP1oPlrgem5,RADWIMPS,53,2022-07-22,https://open.spotify.com/track/1x8BxQZ7JpGLPfqiP0H6WC,257371,False
+780,田園,安全地帯XIII JUNK,https://open.spotify.com/album/6dZZHxztAnHCeGffVaAVJA,Anzen Chitai,53,2011-01-01,https://open.spotify.com/track/2SrfH3HpaI8WUXSGKW8C0N,220173,False
+781,サクラウサギ,サクラウサギ,https://open.spotify.com/album/2HRbWnpSrZGra8lSzyvdNY,Takaya Kawasaki,53,2021-01-15,https://open.spotify.com/track/2Abb7PyD7qd4L0fgiZ5c6l,318571,False
+782,僕が君に出来ること,Life Goes On,https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe,HIRAIDAI,52,2021-02-10,https://open.spotify.com/track/3URqepysnbgyVe8Gq8TZom,207546,False
+783,奇蹟,モノクローム (Special Edition),https://open.spotify.com/album/34WU69Qz3FlIhr3f3jQFqO,Uru,53,2017-12-20,https://open.spotify.com/track/6gjblFEncsCma9E7IeViW7,285040,False
+784,灼熱にて純情(wii-wii-woo),Specter,https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh,Hoshimachi Suisei,57,2023-01-25,https://open.spotify.com/track/6JZ2uj3mIdsxL1gyqtCNE7,228240,False
+785,Kick Up,Kick Up,https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT,JUMADIBA,51,2022-04-13,https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc,187696,True
+786,有心論,RADWIMPS 4 ~おかずのごはん~,https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP,RADWIMPS,54,2006-12-06,https://open.spotify.com/track/7gFOVCXR5mrSkv1O3n7GXu,250840,False
+787,やんぐわーるど,LOVE: AMPLIFIED,https://open.spotify.com/album/45NbVBQW1OYgYXUC8K9Ejh,Tatsuya Kitani,54,2023-06-14,https://open.spotify.com/track/4R0l4GCbg0tTt4pMK9OyRC,252382,False
+788,Make-up Shadow - Remastered 2018,UNDER THE SUN,https://open.spotify.com/album/5i1G5usuyOMsusLo9O7xsp,Yosui Inoue,53,1993,https://open.spotify.com/track/0PsLOhg92g0S9wGWT2qZyo,248914,False
+789,高架線,ELEVEN FIRE CRACKERS,https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB,ELLEGARDEN,52,2006-11-08,https://open.spotify.com/track/7KMov1mncb3LophjkriiWY,145053,False
+790,スタンド・バイ・ミー,ブルーピリオド,https://open.spotify.com/album/7i6wJ5vdFpJboMaeWcpevr,Saucy Dog,53,2019-10-02,https://open.spotify.com/track/0nfKxpU9h1c2GxoLr6Cj4k,295786,False
+791,恋仲花火,恋仲花火,https://open.spotify.com/album/6aDTZGJq3P8pGDeRXqFo3J,Matsuri,52,2022-08-31,https://open.spotify.com/track/7Ahpx7TIL1Mqa2L2QyyM7n,192000,False
+792,Nobody's Home,Nicheシンドローム,https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa,ONE OK ROCK,53,2010-06-09,https://open.spotify.com/track/2ZcOr5lHz4qY7b177BINul,257426,False
+793,F&F (Family & Friends) (feat. Awich),F&F (Family & Friends),https://open.spotify.com/album/5w5rYff2MAJGfF4pBio8oc,JP THE WAVY,53,2023-05-03,https://open.spotify.com/track/2ZaJAWkFb6E2SmraXeytGp,206280,False
+794,やさしい気持ち,Sugar Hunter 〜THE BEST LOVE SONGS OF CHARA〜,https://open.spotify.com/album/46VdHfDyLpGlYRxCufjbCC,Chara,52,2007,https://open.spotify.com/track/2lITrvCs089mNjhZNx9uQ1,212000,False
+795,Story of Our Life,ON THE ROAD,https://open.spotify.com/album/276RYTQKgIDJ7WU3yyM3Qj,HIRAIDAI,52,2017-07-05,https://open.spotify.com/track/7FyHSAzfTFu88aDOpOIVtH,258519,False
+796,ワライカタ,ワライカタ,https://open.spotify.com/album/2BKdphviWfCYzqB2ck5DcR,Yoru no Hitowarai,52,2021-11-10,https://open.spotify.com/track/1E0Cy5d2qcXTs8xVGwEEFO,216000,False
+797,Palm Up,M.B.S,https://open.spotify.com/album/26PWoJlOiTwj4r6krA351g,Merry Delo,51,2022-01-07,https://open.spotify.com/track/22t29ZFLyyIJ1VRNSnwFOH,89882,True
+798,Kirari - Daul Remix,Kirari Remixes (Asia Edition),https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT,Fujii Kaze,55,2022-01-14,https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt,245330,False
+799,アナログライフ,POP CUBE,https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX,imase,56,2022-11-09,https://open.spotify.com/track/6iYr7CUH6RckGSB3yGOm81,193200,False
+800,DESTINY,悲しいほどお天気,https://open.spotify.com/album/4vw5asIQkxqk9ctov9R55e,Yumi Matsutoya,53,1979-12-01,https://open.spotify.com/track/3ZVYdNLUCdifmbZoBvrALD,281004,False
+801,しゅわしゅわハニーレモン350ml,しゅわしゅわハニーレモン350ml,https://open.spotify.com/album/2CGYCH0iXKlODhi6sdM3rs,しゃろう,52,2021-06-10,https://open.spotify.com/track/2KqRO3dW7ERhyG16FuLI0n,96960,False
+802,Into The Night,Into the Night,https://open.spotify.com/album/6MZSQuewUgYmyFGvN5S0rz,YOASOBI,63,2021-07-02,https://open.spotify.com/track/0JyJVPi4IBCgj2wTRKb0yN,262153,False
+803,燦々たるや,多面態,https://open.spotify.com/album/44sqGyvaG8h5xtTSsFtGgk,Tani Yuuki,52,2023-03-29,https://open.spotify.com/track/2LGQCEPqYAOesjMuVsBNi8,222543,False
+804,チョット (2019 Remastered),DA DA DA (2019 Remastered),https://open.spotify.com/album/0UNfTswuHv7Kv5j2dSGwBm,Maki Ohguro,53,1994-02-02,https://open.spotify.com/track/6OjoF2jP1asoqgABbAUIJF,217282,False
+805,僕らだ,僕らだ,https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV,imase,58,2023-02-24,https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb,198173,False
+806,会いたいわ,2016-2020,https://open.spotify.com/album/72PtcfQ3lKg1ztP4e6qYii,iri,51,2021-10-27,https://open.spotify.com/track/7nLAfMQtlDHII3wczJH9C2,271880,False
+807,好きだから。,好きだから。,https://open.spotify.com/album/7J3ut50EyHiP6Rl92spPIu,『ユイカ』,60,2021-10-24,https://open.spotify.com/track/0F6nGXMCUbtk8FiXvKi6HK,298663,False
+808,THE GIFT,THE GIFT,https://open.spotify.com/album/423LWA7PU0o0Lke9vTFLxk,HIRAIDAI,52,2019-07-30,https://open.spotify.com/track/5qTwnr6WbWeeUDS9dcl5g6,303096,False
+809,Seaside Flow,Seaside Flow,https://open.spotify.com/album/4cr1wgnikln8PbnXQr2CmQ,03- Performance,52,2023-05-08,https://open.spotify.com/track/5MbXBVs0XmY8f3aunWSXnE,187118,True
+810,アンサイズニア,残響リファレンス,https://open.spotify.com/album/46tySm112BCkEkfssfPODv,ONE OK ROCK,53,2011-10-05,https://open.spotify.com/track/7IOHcSwKskrAFMA1gZwD1d,219826,False
+811,Higher,Mall Tape,https://open.spotify.com/album/7JPArTLoLxAWkxwQVcfiR7,Mall Boyz,52,2018-12-26,https://open.spotify.com/track/5HkpiHbmgH87yJwIGlS6ye,184225,True
+812,今夜はブギー・バック,TRUE LOVERS,https://open.spotify.com/album/2UkvQzL9bQme06iLQNGmRM,Miliyah,52,2012-11-21,https://open.spotify.com/track/4TGzCsKiTpD1sTBnpYNf8n,355533,False
+813,Re:Re:,ソルファ,https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04,ASIAN KUNG-FU GENERATION,63,2004-10-20,https://open.spotify.com/track/0WaaPFt4Qy8sVfxKz43bCD,228760,False
+814,千本桜,千本桜,https://open.spotify.com/album/6tmjlRjA0nsZma10dnAPRX,Ado,57,2021-12-29,https://open.spotify.com/track/6pUBZKUGia5EN2uQ2mLKeT,241558,False
+815,MONEY LOVE RESPECT,20,https://open.spotify.com/album/5uyDXuVw32NxDflf5mwdlu,Yvng Patra,52,2023-02-25,https://open.spotify.com/track/1JUwMkOESeSBEhceyyLnJT,164885,True
+816,ミュージック,sakanaction,https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr,sakanaction,54,2013-03-13,https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9,322986,False
+817,Compflex,Compflex,https://open.spotify.com/album/7y7d2g5PfCMFLvpXgIg33P,OZworld,52,2022-10-28,https://open.spotify.com/track/0r8QobZ7rXIyFb234kVKjt,166583,False
+818,MUSIC,CHOSYOKU,https://open.spotify.com/album/4oal4axj41REAu9bIHvsXF,Macaroni Empitsu,52,2017-12-07,https://open.spotify.com/track/3TV3iTDwfFiH64BBbhVNpg,236051,False
+819,けーたいみしてよ,けーたいみしてよ,https://open.spotify.com/album/4DHNe9ihe9Lnc9i5RkbgX7,MAISONdes,56,2023-06-28,https://open.spotify.com/track/2lM1Qox6qq2bU7zKJyVt9p,132666,False
+820,Dream,Dream,https://open.spotify.com/album/5oJvu0ZNt2qwJZIhzHbGfH,HIRAIDAI,51,2013-07-24,https://open.spotify.com/track/0eupkCm7mqENWKclI460WA,197600,False
+821,蒲公英,Sketch,https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy,Lilas Ikuta,54,2023-03-08,https://open.spotify.com/track/7D4jDmHtDGiUSdf6BBb29C,191486,False
+822,瞳を閉じて,MISSLIM,https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO,Yumi Arai,52,1974-10-05,https://open.spotify.com/track/1HiOICPNU6rcfa5xeKMdwL,190066,False
+823,Remember The Days~君との足跡~,OHANA,https://open.spotify.com/album/0Br601f2qsGaLxQy8BeYrX,HIRAIDAI,51,2011-05-11,https://open.spotify.com/track/1R3hr5aobsZNsFdwleCUaU,239080,False
+824,ハナミズキ,ハナミズキ,https://open.spotify.com/album/0UBY5EtPAqispWByfiYzWW,Yo Hitoto,53,2004-02-11,https://open.spotify.com/track/28NV7pexaSrgQqxize1rav,323493,False
+825,虹,RIOT ON THE GRILL,https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD,ELLEGARDEN,51,2005-04-20,https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op,206933,False
+826,Purpose,Green Light,https://open.spotify.com/album/1C58yPdGxhkoCiXL0yuDXF,Furui Riho,51,2022-03-09,https://open.spotify.com/track/7kBOpI7vAn3GodI52bauxV,229998,False
+827,きらきら,きらきら,https://open.spotify.com/album/7iovwLM9C1WD0gUrbdaBTU,もさを。,54,2020-09-07,https://open.spotify.com/track/5eXXJJuejAUkggSgIINU1V,180000,False
+828,夏が来る (2019 Remastered),永遠の夢に向かって (2019 Remastered),https://open.spotify.com/album/3YGoWByuaEmGwimfgOmjHh,Maki Ohguro,53,1994-11-09,https://open.spotify.com/track/17j8kBwL3fby1Pen5ooRX4,284966,False
+829,Don't like summer,Don't like summer,https://open.spotify.com/album/0dzztDUyfCbkfr4CmSu3F5,C.O.S.A.,52,2023-06-28,https://open.spotify.com/track/34vHURGmJyKnRcKxnMQDSe,153382,False
+830,すずめの涙,すずめの戸締まり,https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp,RADWIMPS,52,2022-11-11,https://open.spotify.com/track/5xr0Wd8PuitRRb9DVp48vp,275653,False
+831,月光,月光,https://open.spotify.com/album/3Fh89Q1fJ3hU2cpace10Js,Tatsuya Kitani,55,2022-06-01,https://open.spotify.com/track/2Oq8Z7bvZ65dSspYlfexTv,234559,False
+832,駅,Expressions,https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU,Mariya Takeuchi,53,2008-05-21,https://open.spotify.com/track/4Nh9yqG8rcVx3A0RIGOoxs,290506,False
+833,青春病,青春病,https://open.spotify.com/album/4L6znWirdFX9BDIsaSi9Fb,Fujii Kaze,54,2020-10-30,https://open.spotify.com/track/4EwKtJQT2ZHKzECGH3EjLx,321112,False
+834,1999,1999,https://open.spotify.com/album/1wj9CGnWoclmhiXlxjPwrW,Hitsujibungaku,52,2018-12-05,https://open.spotify.com/track/5664npiyyvli6veD4VINZ1,289060,False
+835,ファーストラヴ,ファーストラヴ,https://open.spotify.com/album/6LGv58TCpB0Yl1zqkz4o93,Uru,53,2021-02-08,https://open.spotify.com/track/1aNlV4Nl3sxYwvBBupcSmu,302253,False
+836,No title,No title-,https://open.spotify.com/album/5qPZrSLh2oecfujdUZqgmy,Reol,59,2016-03-18,https://open.spotify.com/track/5pZVsZ8TOGly1KnYFmZ61B,243903,False
+837,superstar,superstar,https://open.spotify.com/album/1GMvv3qACXrv01MElEyMdq,しゃろう,52,2023-03-05,https://open.spotify.com/track/3s9YYeG8obplw7WPgSdiiN,147750,False
+838,ボーイズ ドント クライ,ボーイズ ドント クライ,https://open.spotify.com/album/2ukBR6yPc7n60KjGcXxy0V,YOAKE,22,2023-07-21,https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp,181853,False
+839,Strawberry Margarita,The End of Yesterday,https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9,ELLEGARDEN,52,2022-12-21,https://open.spotify.com/track/5pLseWpjQdASnyYuwOKlb9,189893,False
+840,これだけで十分なのに - (BASI REMIX),切愛,https://open.spotify.com/album/7pvhBUlAVqaq40IiMJ5Szf,BASI,52,2019-06-26,https://open.spotify.com/track/6zQH04kpeG68psOniDOuyd,223346,False
+841,元気を出して,REQUEST (30th Anniversary Edition),https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5,Mariya Takeuchi,54,1987-08-12,https://open.spotify.com/track/3igzzZE41AOz8aHFMGRsqi,287200,False
+842,サイハテアイニ,ANTI ANTI GENERATION,https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF,RADWIMPS,53,2018-12-12,https://open.spotify.com/track/7F8R5b46d1dNmG8khHTcJP,221160,False
+843,Friends,BAD HOP WORLD DELUXE,https://open.spotify.com/album/4Q3ceZcM2sYgIoijWDHlEf,BAD HOP,52,2021-02-22,https://open.spotify.com/track/39KxiwUbmxqqdO2YyJ7Xn7,180042,False
+844,ふたりなら,ふたりなら,https://open.spotify.com/album/6CKsFBFSrLgsHWVN3arnfj,Sui,52,2020-10-12,https://open.spotify.com/track/1SfHLej6q3Wtb4k9NrDKAa,158134,False
+845,ソラニン,マジックディスク,https://open.spotify.com/album/1Pz6ADZaTvqTSUBC2ux7oI,ASIAN KUNG-FU GENERATION,54,2010-06-23,https://open.spotify.com/track/2H9YjQghPZ74vt0U4xHcKq,272760,False
+846,ワヤにやる DUB,LIGHT -ALL JAPANESE DUB MIX- DISC 1,https://open.spotify.com/album/7tOvfROrlbON387alYwhCy,LIFE STYLE,52,2020-09-02,https://open.spotify.com/track/41o0XiwEQMGGLDKEft324s,135174,True
+847,僕の生きがい,僕の生きがい,https://open.spotify.com/album/2v2olk2wsK2w95TC1t0LMa,ヘッドフォンの中の世界,52,2021-12-08,https://open.spotify.com/track/4l0i8JqUrbJqVTHZj37dLe,251729,False
+848,なごり雪 (シングルバージョン),イルカ ベスト,https://open.spotify.com/album/4V2qAp8xRIN6uZL64jhgOX,Iruka,52,2020-05-01,https://open.spotify.com/track/0viNHqrS9gdIY0Qh0VJGJY,214493,False
+849,空っぽ,空っぽ,https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4,れん,53,2022-12-07,https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK,293479,False
+850,"Ocean View (feat. YZERR, Yellow Pato, Bark & T-Pablow)",Mobb Life,https://open.spotify.com/album/6ZO5dF8r127LoIWjS75fnO,BAD HOP,52,2017-09-06,https://open.spotify.com/track/3YZJwxPoSvKW81xxLNpxQk,256435,False
+851,翼の折れたエンジェル,Be True,https://open.spotify.com/album/1wl4cCT1j3Z8NPxw8k3szn,Ayumi Nakamura,52,1985,https://open.spotify.com/track/3dxqlSS46EJCq6btUtRdmI,272240,False
+852,交差点,everyday is a NEW DAY,https://open.spotify.com/album/2JZTQM879m5F3lfbeHW8PM,Banty Foot,52,2018-05-16,https://open.spotify.com/track/4f3aYqK0jPQdEWzRDudfBI,251978,False
+853,Life goes on,Life Goes On,https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe,HIRAIDAI,51,2021-02-10,https://open.spotify.com/track/5FE8w2BFzViMsr83s9KVRI,231299,False
+854,私じゃなかったんだね。,私じゃなかったんだね。,https://open.spotify.com/album/7sdCUuk3nslFeMvO9cBveO,Riria.,52,2021-10-04,https://open.spotify.com/track/5ghtOeu2kh8ZhpjZGVLsO0,244484,False
+855,ありったけのLove Song,ADVENTURE,https://open.spotify.com/album/3ouam5kEUhXt2OoJDnKjO7,Naoto Inti Raymi,52,2011-01-01,https://open.spotify.com/track/46AAGbHgQsjRdfte19OEtL,292173,False
+856,東京cruisin',東京cruisin',https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne,tonun,54,2021-08-04,https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399,188569,False
+857,名前の無い歌,名前の無い歌,https://open.spotify.com/album/7kAfR8Yig6L4DEhskrDHxs,Yamazaru,52,2020-06-08,https://open.spotify.com/track/43fEF597yI17Hh9ikhqED2,211292,False
+858,OKKAKE,レモンパイ,https://open.spotify.com/album/2Ck7mxMTYnWmtgZmJ5tgMd,Macaroni Empitsu,51,2018-10-03,https://open.spotify.com/track/3LEwnHOPM7i68r9skorrYG,202589,False
+859,Soup,PLAY,https://open.spotify.com/album/4olkw87r0L1TGTET9o3min,SAKURA FUJIWARA,52,2017-05-10,https://open.spotify.com/track/6TMRe5uN622SzHfrLx78S3,249000,False
+860,ふっかつのじゅもん,I co Y,https://open.spotify.com/album/6sio5xiq8Filbk9wwY5DBR,sumika,53,2014-11-12,https://open.spotify.com/track/5oG8Ewk6dqsroYdmNFO7nu,253240,False
+861,I’m Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。,I’m Your Treasure Box *あなたは マリンせんちょうを たからばこからみつけた。,https://open.spotify.com/album/1k95Xc22cEKZCLB0hY3Pu5,宝鐘マリン,60,2022-07-31,https://open.spotify.com/track/74u8iRIPvoru5klTgQLLwB,260303,False
+862,レモンパイ,レモンパイ,https://open.spotify.com/album/2Ck7mxMTYnWmtgZmJ5tgMd,Macaroni Empitsu,51,2018-10-03,https://open.spotify.com/track/49PikvvglqURtw3AKDSasx,219889,False
+863,Mellow Melo,Mellow Melo,https://open.spotify.com/album/3QFAxZVZFzr9aokxdy88Xa,Hawk,51,2021-11-04,https://open.spotify.com/track/1DkgHsUM4vJ5qlAEtZnJxx,156839,False
+864,With My Way,Excuse Me,https://open.spotify.com/album/13cIFqREaI3VxX8b2oFAMx,¥ellow Bucks,52,2019-10-31,https://open.spotify.com/track/5TdR96yjl5clCyFOpZ4nZ3,143150,False
+865,君の好きなとこ,FAKIN' POP,https://open.spotify.com/album/2wxOuOxyWdPvxYBocXNlCQ,Ken Hirai,52,2008-03-12,https://open.spotify.com/track/25tusr8rbOV9K1fXF4rLSE,327693,False
+866,A Perfect Sky,Every Single Day-Complete BONNIE PINK(1995-2006)-,https://open.spotify.com/album/5lJkNIn50myKnbuwOk8TSG,BONNIE PINK,52,2006-05-10,https://open.spotify.com/track/0afmCHp3P3zaGOvcwZBIB3,247666,False
+867,強く儚い者たち,クムイウタ,https://open.spotify.com/album/1l8oBk3x6WEB0v2QbsH2xu,Cocco,53,1998-05-13,https://open.spotify.com/track/1vUsWxkJB3FDyCk5TJse7W,321513,False
+868,If I Could Draw Life,E-SIDE 2,https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO,YOASOBI,57,2022-11-18,https://open.spotify.com/track/5ASNsnnOvreLu9FtvA3jpR,202080,False
+869,じぶんROCK,Nicheシンドローム,https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa,ONE OK ROCK,52,2010-06-09,https://open.spotify.com/track/6SkHCwuXmDgOUW4kANhvk6,227040,False
+870,わがままジュリエット,JUST A HERO,https://open.spotify.com/album/5RRPu2iwR77Ov6fq8c8D03,BOØWY,51,1986-03-01,https://open.spotify.com/track/7GEXd4JUGjLER7Yk4xVHJf,274933,False
+871,Aitai,M BEST,https://open.spotify.com/album/0GQro52e9oM1Xv0wqDpBdk,Miliyah,52,2004,https://open.spotify.com/track/5U26l6aMfJ7zNWRWl5sPHH,270373,False
+872,リンジュー・ラヴ,wheel of life,https://open.spotify.com/album/23V4MjO0LO5wMfDg0Al29s,Macaroni Empitsu,51,2023-03-08,https://open.spotify.com/track/4InoeTKoMnvrcKOAuvbUeT,186628,False
+873,ばらの花,TEAM ROCK,https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB,Quruli,52,2001-02-21,https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS,301106,False
+874,So Far Gone,Luxury Disease,https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO,ONE OK ROCK,52,2022-09-09,https://open.spotify.com/track/1KGDfQnjkz98Ht1fG6MayU,215465,False
+875,ラブシック,Ghost Pop,https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB,須田景凪,54,2023-05-24,https://open.spotify.com/track/2WL59zsWjW7VhGS6WVakZr,192397,False
+876,気になるあの娘,シンクロニシティーン,https://open.spotify.com/album/6Dy2Y3i9niEMu62qNE4EWr,Soutaiseiriron,52,2010-04-10,https://open.spotify.com/track/2kNN6WLD4SiWAtQNznYzAV,182480,False
+877,最低最悪,Memory,https://open.spotify.com/album/1lemAJOLEhD9JWaWbQnUAf,マルシィ,52,2022-06-01,https://open.spotify.com/track/1WgCzohHpBOEPWq7gJB8P4,176066,False
+878,Anniversary,Anniversary,https://open.spotify.com/album/5ane8jEYvJlYwLjhEWWK7c,HIRAIDAI,51,2021-10-03,https://open.spotify.com/track/118KEprYqS3XNWdBoKzkEH,168982,False
+879,ひらりとパーキー,かけがえなくなりたい,https://open.spotify.com/album/3CXoNGReKnWAudiXJwKALd,Kaneyorimasaru,51,2019-10-23,https://open.spotify.com/track/5qz2T8QVgHyYOAyWnTfSJb,243466,False
+880,Falling Down,Falling Down,https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ,(sic)boy,52,2023-06-20,https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe,160642,False
+881,ロングホープ・フィリア,LOVE,https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B,SUDA MASAKI,54,2019-07-10,https://open.spotify.com/track/2tPQxzloliTGZHSnuoblD8,295800,False
+882,恋,コントラスト(Special Edition),https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1,Uru,52,2023-01-30,https://open.spotify.com/track/0t5tYzZgiDOIkEXMab7gHm,260720,False
+883,ベイベイベイビー!,ベイベイベイビー!,https://open.spotify.com/album/7hbWgY6Kh23kLNWVVaTZ5S,neguse.,51,2022-06-08,https://open.spotify.com/track/63kCyN93zJZ7AuDD4h4gUS,129293,False
+884,Cry out,35xxxv,https://open.spotify.com/album/7KtMmS3E9mm8MeB9JUx0v2,ONE OK ROCK,52,2015-02-11,https://open.spotify.com/track/1yDQHmQ4uxcC3qrYpd702l,227640,False
+885,Merry Christmas Mr. Lawrence,1996,https://open.spotify.com/album/2GVHciB5rx3gCQgIqHdJ4G,Ryuichi Sakamoto,50,1996,https://open.spotify.com/track/6WY4wvlmgccWapnIg14Vy0,286626,False
+886,うぉ,うぉ,https://open.spotify.com/album/30dhEed1r9KoxwZGhz0xIG,Yuuri,52,2022-05-13,https://open.spotify.com/track/5cjjWH34eymyinmFKaAEEC,168026,False
+887,平成ペイン,FOOLs,https://open.spotify.com/album/7sUJFlz84jJ2vbLFDePctW,go!go!vanillas,52,2017-07-26,https://open.spotify.com/track/65mHu2GHtlQ8Fy3akl6hgX,236666,False
+888,ナイトルーティーン,LOVE: AMPLIFIED,https://open.spotify.com/album/45NbVBQW1OYgYXUC8K9Ejh,Tatsuya Kitani,53,2023-06-14,https://open.spotify.com/track/79jVzExbOBTdWhbMR2yjMV,222123,False
+889,熱くなれ,BACK BEATs #30th Anniversary 〜SPARKLE〜,https://open.spotify.com/album/1T6GaVpy7CMjS4hVgsfFyZ,Maki Ohguro,52,2022-12-14,https://open.spotify.com/track/1LNlp5Y7UJ9v6eZf77yP47,223257,False
+890,NANIMONO (feat. 米津玄師),NANIMONO EP,https://open.spotify.com/album/0LER3HsCsaTndOTcsTzAu4,Yasutaka Nakata,51,2016-10-05,https://open.spotify.com/track/21YjXHKo8hc5fOK7sYtixB,246133,False
+891,運命,Break myself,https://open.spotify.com/album/5gJelvHNTQmD1yon7na7m3,KeeP,51,2021-09-18,https://open.spotify.com/track/4ao47aChjLpJC6zqUNlhWD,204246,False
+892,小さな丘の木の下で,小さな丘の木の下で,https://open.spotify.com/album/11NQEVKz3pIb5VtHUq20wB,HIRAIDAI,53,2021-07-11,https://open.spotify.com/track/0NcKo2eMGsFWinUHR2gUuG,185486,False
+893,Tracing A Dream,E-SIDE,https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R,YOASOBI,57,2021-11-12,https://open.spotify.com/track/4L9Iuupn2JTSCHSn8uVdD6,241333,False
+894,Monster,Monster,https://open.spotify.com/album/3GUW4WpvJPXgzsOW1hVifv,YOASOBI,58,2021-07-30,https://open.spotify.com/track/7M9lc2hHXKQobbHQ31Yg2v,205000,False
+895,BADモード,BADモード,https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij,Hikaru Utada,57,2022-01-19,https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn,303218,True
+896,どうせ、愛だ feat. クリープハイプ,TREASURE BOX,https://open.spotify.com/album/7mPijRTHJciQAWiQ6Q6djp,空音,51,2020-12-16,https://open.spotify.com/track/5CRQuINnKZ5ElgKpgwETCX,234800,False
+897,そばにいるよ,そばにいるよ,https://open.spotify.com/album/7lsz8Hv97ew87nz5wsPgHB,Uru,52,2022-11-04,https://open.spotify.com/track/3ToOLGmjcYxZ7SA9u9IU7K,249134,False
+898,I wanna see you,ポっぷ(通常盤),https://open.spotify.com/album/0hivuqm8aBKNGpVMOToItC,Mao Abe,51,2010-01-27,https://open.spotify.com/track/2qwOwSLV44hh0xqjZ2E490,213093,False
+899,The Swallow (feat. Midories),E-SIDE 2,https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO,YOASOBI,56,2022-11-18,https://open.spotify.com/track/6oexafIxFkZaEEcfJCsx4y,217428,False
+900,告白,人間開花,https://open.spotify.com/album/4DzbZVGpyQ4zyqyAsQqDur,RADWIMPS,52,2016-11-23,https://open.spotify.com/track/5vRrsna6LudhScpZiIvhiT,401706,False
+901,Home,ANTITHESE,https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK,MY FIRST STORY,54,2016-06-29,https://open.spotify.com/track/1YhaeT8EygMA6OaUVwrow4,241066,False
+902,Blue,Blue,https://open.spotify.com/album/142pAHbasPxFPBKbS5wsb3,YOASOBI,56,2021-10-29,https://open.spotify.com/track/3eGKvQ0eYpyl28lMo8ZT93,248444,False
+903,DESIRE -情熱- - 30th anniversary mix,ベスト・コレクション 〜ラブ・ソングス&ポップ・ソングス〜,https://open.spotify.com/album/6omKm2a8Vc6KDPqVr06LZT,Akina Nakamori,53,2012-08-01,https://open.spotify.com/track/7mGrHfdQmP4ChPzrpCUF5B,264253,False
+904,A Good Day,Life is Beautiful,https://open.spotify.com/album/6PxZeOD80KsZbI7hB7zGrP,HIRAIDAI,51,2016-06-15,https://open.spotify.com/track/4odp8OXT2XRZnnqLw6jKkC,184120,False
+905,life hack,life hack,https://open.spotify.com/album/6ifq4rODhw2Mezlru7YMHj,Vaundy,52,2020-03-23,https://open.spotify.com/track/0jjvN2gRVQsr9yu7mOxRQq,226443,False
+906,万歳千唱,ANTI ANTI GENERATION,https://open.spotify.com/album/0a69ul4zJx8c6ZBy2carWF,RADWIMPS,52,2018-12-12,https://open.spotify.com/track/4ZTmCmlgeYG2DWCCN03Bgt,262773,False
+907,名神Drive,TALENT,https://open.spotify.com/album/5tGF31xYJyhe1hmd6Y0Ry3,Lo-keyBoi,51,2021-06-22,https://open.spotify.com/track/79QzqTeakxmKrzLy3FkETg,160032,False
+908,What's up,What's up,https://open.spotify.com/album/0oOTQm1tIux02oMc9xcdox,Rin音,51,2022-07-27,https://open.spotify.com/track/6pBLBPnfColV4UhAPnocWK,213980,False
+909,FREEDOM,狂言,https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P,Ado,52,2022-01-26,https://open.spotify.com/track/3GHjTZkgHUwE8INRTcJ9jh,186106,False
+910,吉祥寺,Sketch,https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy,Lilas Ikuta,53,2023-03-08,https://open.spotify.com/track/4tRQTvViZw91Xk2Z03jnYB,169123,False
+911,ブルー・サマータイム・ブルーズ,ブルー・サマータイム・ブルーズ,https://open.spotify.com/album/37JOjpqIGj7BJM4Gd4XtmD,ZOOKARADERU,51,2023-07-12,https://open.spotify.com/track/3Sswf6NDuRdz4EvGRpDdjT,230792,False
+912,陽キャJKに憧れる陰キャJKの歌,陽キャJKに憧れる陰キャJKの歌,https://open.spotify.com/album/4k7R74iYAcs97tLU5AP5ha,音莉飴,51,2021-11-26,https://open.spotify.com/track/7ABfyynRwOeKPNGRs3VXtR,179240,False
+913,まんげつの夜,The Best -10th Anniversary-,https://open.spotify.com/album/3gFE33wMsD2zRF4BIs0zxY,Naoto Inti Raymi,52,2021-09-29,https://open.spotify.com/track/7pYpxMiJxygzZ4DovJsMfm,254520,False
+914,The Light 〜青い空〜,The Light,https://open.spotify.com/album/3AuK5f8i5cl3EXETeXcL7W,HIRAIDAI,50,2014-01-29,https://open.spotify.com/track/2g8qnMdhdkTufCd6gzJe2w,238826,False
+915,SUNSET,AQUA,https://open.spotify.com/album/15kFXzYhN3UFMdpU5umEB4,Gottz,51,2021-07-07,https://open.spotify.com/track/5XAasKwKOjFVG7BUkOagLc,161774,False
+916,絶頂讃歌,絶頂讃歌,https://open.spotify.com/album/5d0BouPAuu6SLpxljAxeCE,和ぬか,57,2022-09-07,https://open.spotify.com/track/4cwO2KkiUe6iTfebjmSx6y,183054,False
+917,il vento d'oro,ジョジョの奇妙な冒険 黄金の風 O.S.T (vol.1 Overture),https://open.spotify.com/album/3F39P75zBe3YTwWCGmxUNL,Yugo Kanno,51,2018-12-19,https://open.spotify.com/track/4eFjE882anJTh5j0lGeek5,295575,False
+918,RASPBERRY DREAM,REBECCA SINGLES,https://open.spotify.com/album/0WdjB3rM7JFfHo3iNoABZw,REBECCA,52,1984,https://open.spotify.com/track/5gNlCtBy2ajx69QRJPE0qG,283333,False
+919,Haruka,E-SIDE 2,https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO,YOASOBI,56,2022-11-18,https://open.spotify.com/track/0jFon5RVg19KlwNVnXVX0s,242001,False
+920,Love Letter,E-SIDE 2,https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO,YOASOBI,56,2022-11-18,https://open.spotify.com/track/325iR7dCw6hNekr48puGdG,210667,False
+921,サイハテアイニ,サイハテアイニ / 洗脳,https://open.spotify.com/album/6ggp7Q6mV9JbWKeycV3lG9,RADWIMPS,52,2017-05-10,https://open.spotify.com/track/699ku1Ebqi9pwi0IwnRPET,221920,False
+922,Garden,Garden,https://open.spotify.com/album/0NXWhgRs5MvmI3HpWkZ3j7,Sugar Soul,50,1999-09-08,https://open.spotify.com/track/3Kd05sR04BY9jggm3fGMKV,346333,False
+923,おかえり - Home and Dry ver.,おかえり,https://open.spotify.com/album/2aCwIAomRdk6o5NygZT0i8,Tani Yuuki,51,2022-11-09,https://open.spotify.com/track/06YN5tCfdQ8WSsTQNeAtfM,220000,False
+924,Wait & See ~リスク~,Distance,https://open.spotify.com/album/4A2UQhhGtYlsD6pMpuW4XR,Hikaru Utada,53,2001-03-28,https://open.spotify.com/track/4JR5kgASeP9FnetbS19sjN,288880,False
+925,センス・オブ・ワンダー,AMUSIC,https://open.spotify.com/album/77S1EmlVIWKiXrtwt21sZ1,sumika,52,2021-03-03,https://open.spotify.com/track/6kx6GDwi4aai3JY9xNeFAy,252666,False
+926,メンタルチェンソー,Sunny!!,https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU,P丸様｡,52,2021-03-17,https://open.spotify.com/track/0j7wnGjk7u6rZ4yOlfDdhK,175480,False
+927,金木犀,金木犀,https://open.spotify.com/album/32vMtHrbxUGHwVp6R9Gone,whaledontsleep,50,2019-12-23,https://open.spotify.com/track/32rQeDchWPe6lPev389JrO,140487,False
+928,アイデンティティ,DocumentaLy,https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb,sakanaction,53,2011-09-28,https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL,246759,False
+929,Take what you want (featuring 5 Seconds of Summer),Ambitions,https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b,ONE OK ROCK,51,2017-01-11,https://open.spotify.com/track/1P3cdB5wydoRlTFRz0bNLO,244150,False
+930,WON'T BE LONG,GOLDEN☆BEST バブルガム・ブラザーズ,https://open.spotify.com/album/3qVrImt9PGKQkMF4UczGD9,Da Bubble Gum Brothers,51,1987,https://open.spotify.com/track/745Y2xbeGh56xF97j4Fz1N,411733,False
+931,Prove,Luxury Disease,https://open.spotify.com/album/6mDmC69i1FO1uF1MMqa9DO,ONE OK ROCK,51,2022-09-09,https://open.spotify.com/track/52ag4tcZZ9ZSRZJPELSUzV,226769,False
+932,RIVER,REALIFE,https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA,10-FEET,50,2005-07-01,https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t,261360,False
+933,Comet,E-SIDE,https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R,YOASOBI,56,2021-11-12,https://open.spotify.com/track/7LrT6Lpn0hOQ58pbBP6D2M,213692,False
+934,Hello Song,POP VIRUS,https://open.spotify.com/album/2GP1RmB0LvvuXOwOmrtG86,Gen Hoshino,52,2018-12-19,https://open.spotify.com/track/7IV7n5PxCPwDqOnVQGPwnU,254133,False
+935,夏の扉,BIBLE,https://open.spotify.com/album/0dgfL1KfvwumtF2RH4gNZL,Seiko Matsuda,52,1980,https://open.spotify.com/track/2vtv8YU7UcV1KclUJzeUps,209306,False
+936,π,絶体絶命,https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm,RADWIMPS,52,2011-03-09,https://open.spotify.com/track/0WItsh39vijTBLCKOpbBuu,200106,False
+937,初恋,初恋,https://open.spotify.com/album/0vYCN1SXivJ5dS1dasLZug,Hikaru Utada,56,2018-06-27,https://open.spotify.com/track/52qPkNO9QwgIpvBZTHnuDq,280880,False
+938,Knock Out,Knock Out,https://open.spotify.com/album/3pHuTLk66QGfAd4KRq4ErX,Okazaki Taiiku,60,2023-04-08,https://open.spotify.com/track/5ktgImJ7uP5gR2Pv85R9Qy,225666,False
+939,宝石の日々,宝石の日々,https://open.spotify.com/album/7wgUbItIynxcEMvpWvPZNQ,AiNA THE END,55,2023-07-03,https://open.spotify.com/track/0N4AHb6WKIBr4LWH127Lm0,308230,False
+940,Too Bad Day But... - Remix,Too Bad Day But... (Remix),https://open.spotify.com/album/0IdSAhL8u4QAGMd8h4GSQi,Kvi Baba,51,2021-10-06,https://open.spotify.com/track/6yvUos4nGm0sdAMOaAlWoC,207315,False
+941,卒業,愛すべきものすべてに -YUTAKA OZAKI BEST,https://open.spotify.com/album/5KYFjInulb9juOaJSDJtme,Yutaka Ozaki,51,1983,https://open.spotify.com/track/06EZBn2rEK8YdS6Tjyz0h9,400400,False
+942,Beautiful Journey,THE GIFT,https://open.spotify.com/album/423LWA7PU0o0Lke9vTFLxk,HIRAIDAI,51,2019-07-30,https://open.spotify.com/track/3LPLfXuotB7yfXxK25YC7T,257776,False
+943,夏音,夏音,https://open.spotify.com/album/4psiGEqjjfBVn9jBQZDotU,Yuuri,52,2021-09-19,https://open.spotify.com/track/3k6o8UMc7aVgpKqm9epIrU,237880,False
+944,Renegades,Renegades,https://open.spotify.com/album/0uNPIYCX5XTqLPinM9hVE2,ONE OK ROCK,51,2021-04-16,https://open.spotify.com/track/3RpFwqdROrxJvHywpT1pJ4,244538,False
+945,Fuck you but I love you,GOOD LOVE BAD LOVE,https://open.spotify.com/album/1mX8qTMRkfcCIE4ec7PiMb,CIMBA,51,2022-05-25,https://open.spotify.com/track/3DDVE8HDtvRxh3eCjGhBRP,199622,True
+946,See You Again (Prod. KM),BLUE BLUR,https://open.spotify.com/album/1jwZEeaa1iIiiZBu4wnApv,SIRUP,50,2023-04-26,https://open.spotify.com/track/698Y00BNeD65ob6VdKadNE,187920,False
+947,Tears,Tears,https://open.spotify.com/album/6B31xqx1vye6sI6tR8dHNr,KEIJU,51,2020-12-25,https://open.spotify.com/track/7o9B18E24LjqvtcPVPsKJe,174798,True
+948,こころ,自己ベスト-2,https://open.spotify.com/album/752cNONYQjNvqscNUdY076,Kazumasa Oda,51,2007,https://open.spotify.com/track/1ghHYRNXEd0jbmN20rgQib,273746,False
+949,月の椀,アダプト,https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG,sakanaction,52,2022-03-30,https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v,250000,False
+950,頬杖,頬杖,https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X,Bialystocks,50,2023-04-07,https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG,220236,False
+951,Taking Off,Ambitions,https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b,ONE OK ROCK,51,2017-01-11,https://open.spotify.com/track/7bmdV1IiqeCIK1Lb3klDVV,219084,False
+952,A Song for You,Slow & Easy,https://open.spotify.com/album/0LLMweYMQL9FSdHortnpx8,HIRAIDAI,50,2015-05-06,https://open.spotify.com/track/4egBYbYEJSg7vXYNEzqjf6,263106,False
+953,ソワレ,Specter,https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh,Hoshimachi Suisei,55,2023-01-25,https://open.spotify.com/track/6eBiZCdAjVkcuW4h3F94iV,227306,False
+954,恋の予感,安全地帯III~抱きしめたい,https://open.spotify.com/album/76toeRfdh5uJVg9673S4zq,Anzen Chitai,53,1984,https://open.spotify.com/track/2qSVC0gIr19tIPUddnDEwG,280400,False
+955,Young Rich Drama,Young Rich Drama,https://open.spotify.com/album/06AE0nfA2hOuKAlVbqkdsn,YRD Leo,51,2020-03-19,https://open.spotify.com/track/75R8HM5GbFcELdrvv8Z5ia,136931,False
+956,通り恋,濡れゆく私小説,https://open.spotify.com/album/7fWU9HyW6Ukh8ajJNJAuOI,indigo la End,53,2019-10-09,https://open.spotify.com/track/72lrebaqFNOZt8GMS32gvZ,235449,False
+957,HACK,WONDER HACK,https://open.spotify.com/album/661ZDp52CvN6lXdzwMLQJ6,Shuta Sueyoshi,53,2019-01-16,https://open.spotify.com/track/6sUsZUvJ1RxXK80EG3DQM2,192000,False
+958,アフターダーク,ワールド ワールド ワールド,https://open.spotify.com/album/6ZcU0MGlWn9oc4dEhY1TEI,ASIAN KUNG-FU GENERATION,61,2008-03-05,https://open.spotify.com/track/6XsJTpZwPKMcG8QK8k14Z6,192026,False
+959,D(evil) feat. yama,25,https://open.spotify.com/album/302JQzVHeD8JeKrbDNCp3B,haruno,50,2022-02-02,https://open.spotify.com/track/6hmsSDaSJwLDlZHPOyEkiH,161470,False
+960,特別じゃなくても君を想ってる,特別じゃなくても君を想ってる,https://open.spotify.com/album/6v8elj2G4Fsfa8UutZWdVn,手がクリームパン,51,2021-08-18,https://open.spotify.com/track/0DcDiBRNQ4cHu13astwT4z,218028,False
+961,さくら - 独唱,傑作撰 2001~2005,https://open.spotify.com/album/3ummsJlE64a2gB9cTqrspf,Naotaro Moriyama,52,2006-01-11,https://open.spotify.com/track/7x0ZuC7zKDiAzGfVVJYf83,255160,False
+962,可愛い君が愛おしい!,可愛い君が愛おしい!,https://open.spotify.com/album/3bnjRwpFcQ6M6NtV7fyDNs,Sui,51,2020-08-24,https://open.spotify.com/track/6JmTrd6VvMOWZFBk439e28,152440,False
+963,Miree,THE BAY,https://open.spotify.com/album/114nBwycDpuNZsYZyIySqh,Suchmos,52,2015-07-08,https://open.spotify.com/track/5L6U3jC9BRjre7Q4Np4usF,242600,False
+964,YES MY LOVE - Remastered 2022,P.M.9 (50th Anniversary Remastered),https://open.spotify.com/album/7pTQ0NSEAfVErmdbB2qspz,Eikichi Yazawa,51,1982-07-10,https://open.spotify.com/track/4ht7olV8uxTN5LS6s8ahzd,240826,False
+965,I GOTTA SAY,OO,https://open.spotify.com/album/7JvNL2DtE0usKKIBcVR7XF,竹内唯人,51,2022-05-25,https://open.spotify.com/track/1UU4fsSzk6D03Jsz4dBZAj,174545,False
+966,夢喰,多面態,https://open.spotify.com/album/44sqGyvaG8h5xtTSsFtGgk,Tani Yuuki,51,2023-03-29,https://open.spotify.com/track/3QrZDfBERTJu2h2j7vyVjc,185922,False
+967,緋寒桜,緋寒桜,https://open.spotify.com/album/5eM2SDlq56qbYfuPTrgqsp,れん,52,2023-02-01,https://open.spotify.com/track/5sULK6Cv3JPYLNPhqvgtVh,193319,False
+968,O&O,人間開花,https://open.spotify.com/album/4DzbZVGpyQ4zyqyAsQqDur,RADWIMPS,51,2016-11-23,https://open.spotify.com/track/3ZNA1cHS4kdG3u51x7tbzB,273880,False
+969,Be the light,人生×僕=,https://open.spotify.com/album/2bvVzDllEs2oc73rZW7wnU,ONE OK ROCK,51,2013-03-06,https://open.spotify.com/track/378EsxeP43WTpveXLfj4hh,338920,False
+970,あなたへ贈る歌,erica Core Selection,https://open.spotify.com/album/4i7TuuO1JZfLgwp12wtoq8,erica,51,2016-12-15,https://open.spotify.com/track/3rvbtx2bjs4AoWAtckgTLT,331000,False
+971,Haven't,E-SIDE,https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R,YOASOBI,56,2021-11-12,https://open.spotify.com/track/33ALvsldNGJduk3Bqr7VjS,256483,False
+972,情熱,Illuminate~the very best songs~,https://open.spotify.com/album/6IZB1TIO4uGrQfXNzOblGn,UA,51,2003-09-17,https://open.spotify.com/track/2TwrieAjsEMIwTGVI6pjrp,276347,False
+973,Romance,E-SIDE 2,https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO,YOASOBI,56,2022-11-18,https://open.spotify.com/track/6Kh3obD8LG4yeXxQDhr6Vr,166761,False
+974,好きだった (はずだった),ハッピーエンドへの期待は,https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz,Macaroni Empitsu,50,2022-01-12,https://open.spotify.com/track/2ZwuYASDCCauXmgs1xpho2,215485,False
+975,魔法って言っていいかな?,THE STILL LIFE,https://open.spotify.com/album/23ZVCN3yrbjhZFIS9pQhDs,Ken Hirai,52,2016-07-06,https://open.spotify.com/track/5wFEw8rdKXoi88HaXkAUm8,240266,False
+976,フロントライン feat BAK&YO_CO,弐,https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY,Yuuri,52,2023-03-29,https://open.spotify.com/track/1F8qSM985UzY1t8qQbDWmu,181653,False
+977,大丈夫,大丈夫,https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa,マルシィ,51,2023-03-01,https://open.spotify.com/track/4kQ3rrJ54f1Hf8nCNxCUyl,238080,False
+978,WINDING ROAD,Seasons Selection ~Spring~,https://open.spotify.com/album/7ynRjIJInnnqgXKbsAEOAH,KOBUKURO,51,2023-02-24,https://open.spotify.com/track/4JThXKJQV4h4wvriLKXXvd,299906,False
+979,ミザリー,壱,https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd,Yuuri,52,2022-01-12,https://open.spotify.com/track/5PY2P5TLtZTEW8bZyfzOoY,242066,False
+980,悪魔の踊り方,I DO (NOT) LOVE YOU.,https://open.spotify.com/album/2hXykcsL0BiG6PaJq3BixE,Tatsuya Kitani,50,2018-09-26,https://open.spotify.com/track/4I1L92UCPlYMdHYJ7r8Jhl,236064,False
+981,聖者の行進,BIPOLAR,https://open.spotify.com/album/4vnB6AiGOaZWl6u7xIsyG9,Tatsuya Kitani,58,2022-05-25,https://open.spotify.com/track/7iz3zy3v6aDiB68zUiJn0U,177760,False
+982,変わらないもの,TIME NOTE,https://open.spotify.com/album/4rH7HudckC8o6haxdCDk9m,Hanako Oku,51,2007-09-19,https://open.spotify.com/track/6i8mvhA9dAHil8tMzuMdMw,283040,False
+983,ピンクの髪,ピンクの髪,https://open.spotify.com/album/2aBOY6hwasvx0aUj1OI28b,Furui Riho,49,2023-02-15,https://open.spotify.com/track/56V7casJFyKngwOksqwWD0,177357,False
+984,季節が君だけを変える - Single Version,SINGLES,https://open.spotify.com/album/6KbDQc1jYv60JEJr4gjVJz,BOØWY,50,1988,https://open.spotify.com/track/2LYyHhQ2PjCUw904WBR8Mf,249426,False
+985,Starry Night - 星空に願いを,Starry Night (星空に願いを),https://open.spotify.com/album/4gM8eGJsXU1nk4UNSTlORE,HIRAIDAI,50,2022-10-17,https://open.spotify.com/track/3GL4PaLX0ZARhXC445O8wV,178657,False
+986,紋白蝶 - feat. 石原慎也 (Saucy Dog),JUNK or GEM,https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw,Tokyo Ska Paradise Orchestra,51,2023-03-15,https://open.spotify.com/track/3j2CfJCPzrFQG41169wP2Q,284300,False
+987,明日がくるなら original duet version,JUJU (Special Edition),https://open.spotify.com/album/1bZCRrWdeHl049J1DpGd30,JUJU,51,2010,https://open.spotify.com/track/56B70JCzlQZb38kWoXtpYs,264480,False
+988,Bye by me,Bye by me,https://open.spotify.com/album/6LV9PPw2sweYC5ott2TcAL,Vaundy,51,2020-04-18,https://open.spotify.com/track/6f2Rhl795x6jsNfv2Zu9zA,242415,False
+989,タイムマシーンにのって/家族の風景,タイムマシーンにのって/家族の風景,https://open.spotify.com/album/4H9q6q3mKitY81NFKFf03b,PUNPEE,51,2023-03-24,https://open.spotify.com/track/1RogcNGrZlyEL7f7YopOOx,217191,False
+990,そばにいるよ,コントラスト(Special Edition),https://open.spotify.com/album/5M8td2xvD7Vg9FNAhEFJj1,Uru,52,2023-01-30,https://open.spotify.com/track/1NPqRhO6gmbikWs4uixD7L,251226,False
+991,あなたに逢いたくて～Missing You～,Vanity Fair,https://open.spotify.com/album/0HuRDPvoVZYWajrmzkSDOe,Seiko Matsuda,53,1996,https://open.spotify.com/track/5XRyz5xa6nl5g5FzOCd6WV,330973,False
+992,壊れかけのRadio,JUSTICE,https://open.spotify.com/album/0Puft16437sjMiZVZIDqlX,Hideaki Tokunaga,52,1990,https://open.spotify.com/track/6ddbslC9nFUFgscup9R2j3,310173,False
+993,フィナーレ。,プレロマンス / フィナーレ。,https://open.spotify.com/album/6qDviOzqffV998821vlnWL,eill,50,2022-09-07,https://open.spotify.com/track/2hL8ESlWIwfXPHgPaTYTWk,242367,False
+994,SOMEDAY,THE SINGLES EPIC YEARS 1980-2004,https://open.spotify.com/album/4HWmardTHa76pSNDWMAS9b,Motoharu Sano,51,1980,https://open.spotify.com/track/2z5f1pYr0w6Me5g1vL9uYG,324653,False
+995,瞳のアドリブ,瞳のアドリブ,https://open.spotify.com/album/3zslr1zoqUTOoWmLuDCEXn,indigo la End,53,2023-04-19,https://open.spotify.com/track/1CJExog5HYIry2UNzwM9ez,252000,False
+996,海のリビング,313,https://open.spotify.com/album/0uUONww7AKKBhR5croB5Zb,鈴木鈴木,51,2022-12-21,https://open.spotify.com/track/0I1D4fOSlNL2L7tfPHBpuh,221920,False
+997,I was King,Ambitions,https://open.spotify.com/album/6R01MdFYUhoIjxqdq6NV8b,ONE OK ROCK,51,2017-01-11,https://open.spotify.com/track/0LwktKzh7qjyrWpcrUsqhn,238826,False
+998,西方コーストストーリー,サーフ ブンガク カマクラ (半カートン),https://open.spotify.com/album/6O5gIlE93Ym8DeAlyJI4P3,ASIAN KUNG-FU GENERATION,52,2023-06-14,https://open.spotify.com/track/1YH7Rv0BpvNyjtno88MxXY,221080,False
+999,#あくあ色ぱれっと,#あくあ色ぱれっと,https://open.spotify.com/album/0yBm2Tr36F20tCpUHDLhA7,湊あくあ,54,2020-08-29,https://open.spotify.com/track/1xFQ5lKWILBjqnyX4RgI8d,272307,False
+1000,VOiCE,VOiCE,https://open.spotify.com/album/1RadCiFdzOyDGzgJJhiP5N,OZworld,51,2023-05-26,https://open.spotify.com/track/3VhP1xjzQbyqh6mzjznDI8,181124,True
