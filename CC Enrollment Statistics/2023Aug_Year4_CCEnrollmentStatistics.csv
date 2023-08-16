@@ -1,0 +1,197 @@
+,course_code,course_name,subclass,quota,vacancies,waiting_applicants,semester,AoI,seats
+0,CCST5002,"Quantitative Literacy in Science, Technology and Society (Online) (SCCE)",A,100,100,5,First Semester,ST,95
+1,CCST5037,Mathematics: A Cultural Heritage (Online) (SCCE),A,100,100,7,First Semester,ST,93
+2,CCST5078,Health Literacy: Things to Know Before Consulting Dr. Google (Online) (HL),A,100,100,5,First Semester,ST,95
+3,CCST9003,Everyday Computing and the Internet (SCCE),A,64,64,1,First Semester,ST,63
+4,CCST9006,"Chasing Biomedical Miracles: Promises and Perils (SCCE, HL)",A,64,64,0,First Semester,ST,64
+5,CCST9009,"Living with Stem Cells (SCCE, HL)",A,64,64,0,First Semester,ST,64
+6,CCST9013,Our Living Environment (SCCE),A,64,64,6,First Semester,ST,58
+7,CCST9016,Energy: Its Evolution and Environmental Impacts (SCCE),A,64,64,10,First Semester,ST,54
+8,CCST9017,Hidden Order in Daily Life: A Mathematical Perspective (SCCE),A,64,64,3,First Semester,ST,61
+9,CCST9017,Hidden Order in Daily Life: A Mathematical Perspective (SCCE),B,64,64,4,First Semester,ST,60
+10,CCST9019,Understanding Climate Change (SCCE),A,64,64,5,First Semester,ST,59
+11,CCST9020,Sustainable Development of the Built Environment (SCCE),A,64,64,1,First Semester,ST,63
+12,CCST9022,"How the Mass Media Depicts Science, Technology and the Natural World (SCCE)",A,64,64,1,First Semester,ST,63
+13,CCST9023,The Oceans: Science and Society (SCCE),A,64,64,2,First Semester,ST,62
+14,CCST9025,"Genetics and Human Nature (SCCE, HL)",A,64,64,18,First Semester,ST,46
+15,CCST9026,"Scientific Revolutions: Their Continuing Impact on Our World and Society (SCCE, UQM, UQM)",A,64,64,2,First Semester,ST,62
+16,CCST9030,"Forensic Science: Unmasking Evidence, Mysteries and Crimes (SCCE)",A,64,64,8,First Semester,ST,56
+17,CCST9032,"""Intelligent"" Architecture and Sustainability (SCCE, HL)",A,64,64,8,First Semester,ST,56
+18,CCST9033,"Left Brain, Right Brain: Science and Myth (SCCE)",A,64,64,1,First Semester,ST,63
+19,CCST9034,Living in a Hazardous World (SCCE),A,64,64,10,First Semester,ST,54
+20,CCST9042,The World of Waves (SCCE),A,150,150,12,First Semester,ST,138
+21,CCST9050,"Robot: Flesh, Machines, Intelligence (HL)",A,64,64,4,First Semester,ST,60
+22,CCST9051,"What are We Made of – the Fundamental Nature of Matter (UQM, UQM)",A,64,64,0,First Semester,ST,64
+23,CCST9056,The Force is with You: How Things Work (SCCE),A,64,64,7,First Semester,ST,57
+24,CCST9062,Sports: For You and Hong Kong (HL),A,64,64,11,First Semester,ST,53
+25,CCST9064,The World Changed by DNA,A,64,64,2,First Semester,ST,62
+26,CCST9070,Nature-inspired Innovations,A,64,64,1,First Semester,ST,63
+27,CCST9077,"The Quantum Revolution: From Secret Codes to Black Holes (UQM, UQM)",A,64,64,6,First Semester,ST,58
+28,CCST9081,"All You've Ever wanted to Know About Humans (SCCE, UQM, HL, UQM, GSD)",A,64,64,6,First Semester,ST,58
+29,CCST9083,Earth as Seen by Satellite (SCCE),A,64,64,1,First Semester,ST,63
+30,CCST9084,"From Ancient Remedies to Modern Medicine: A Historical Perspective on Health Technology (UQM, UQM)",A,64,64,3,First Semester,ST,61
+31,CCHU5065,"A Life Worth Living (Online) (SCCE, UQM, HL, UQM)",A,100,100,13,First Semester,HU,87
+32,CCHU9001,"Designs on the Future (SCCE, HL)",A,64,64,5,First Semester,HU,59
+33,CCHU9007,"Sexuality and Gender: Diversity and Society (SCCE, GSD)",A,64,64,9,First Semester,HU,55
+34,CCHU9011,"Social Divisions in Contemporary Societies (SCCE, GSD)",A,64,64,1,First Semester,HU,63
+35,CCHU9012,"Body, Beauty and Fashion (SCCE, GSD)",A,64,64,6,First Semester,HU,58
+36,CCHU9013,Cultural Heritage in the Contemporary World,A,64,64,7,First Semester,HU,57
+37,CCHU9018,Art and Ideas: East and West (CA),A,64,64,5,First Semester,HU,59
+38,CCHU9022,Journey into Madness: Conceptions of Mental Health and Mental Illness (SCCE),A,64,64,4,First Semester,HU,60
+39,CCHU9032,"Language, Institution and Power (SCCE, GSD)",A,64,64,1,First Semester,HU,63
+40,CCHU9039,"Sexuality and Culture (SCCE, GSD)",A,64,64,20,First Semester,HU,44
+41,CCHU9049,"Reinventing Classical Music (SCCE, CA)",A,64,64,2,First Semester,HU,62
+42,CCHU9051,"Mysteries of the Human Mind (UQM, HL, UQM)",A,64,64,5,First Semester,HU,59
+43,CCHU9052,"The Best Things in Life: A Philosophical Exploration (SCCE, UQM, HL, UQM)",A,64,64,3,First Semester,HU,61
+44,CCHU9053,"Contested Words, Disputed Symbols (SCCE, GSD)",A,64,64,3,First Semester,HU,61
+45,CCHU9056,"Virtual Worlds, Real Bodies (SCCE, CA)",A,64,64,4,First Semester,HU,60
+46,CCHU9060,"Games: Play, Learning and Society (SCCE)",A,64,64,14,First Semester,HU,50
+47,CCHU9062,"Buddhist Visions in World Cinema (SCCE, UQM, CA, UQM)",A,64,64,5,First Semester,HU,59
+48,CCHU9068,"Shaping our World: Liberalism, Socialism and Nationalism",A,64,64,5,First Semester,HU,59
+49,CCHU9070,Making Movies: Creative Expression on Screen (CA),A,40,40,2,First Semester,HU,38
+50,CCHU9071,Man Up: Masculinities in the Making (GSD),A,64,64,3,First Semester,HU,61
+51,CCHU9075,Buddhist Architecture: Monasteries in Cross-Cultural Developments,A,64,64,7,First Semester,HU,57
+52,CCHU9078,"Contemplative Practices: From Personal Awareness to Social Well-being (UQM, HL, UQM)",A,64,64,1,First Semester,HU,63
+53,CCHU9081,"Urban Legend: Fact, Myth and Reinterpretation",A,64,64,6,First Semester,HU,58
+54,CCHU9082,24 Frames: Communicating Ideas through Film (CA),A,64,64,2,First Semester,HU,62
+55,CCHU9083,"Spiritual, not Religious: Technologies of the Soul (UQM, UQM)",A,64,64,0,First Semester,HU,64
+56,CCHU9085,When Animals Talk Back,A,64,64,2,First Semester,HU,62
+57,CCHU9086,"Understanding Religious Worlds (UQM, UQM)",A,64,64,3,First Semester,HU,61
+58,CCGL5005,"Poverty, Development, and the Next Generation: Challenges for a Global World (Online) (HL, GSD)",A,100,100,22,First Semester,GL,78
+59,CCGL5062,"Shaping our Health Across Cultures (Online) (SCCE, HL)",A,100,100,10,First Semester,GL,90
+60,CCGL6002,Material Ecologies: Local Practices and Global Impacts (SCCE),A,60,60,0,First Semester,GL,60
+61,CCGL9001,Hong Kong Cinema through a Global Lens (CA),A,64,64,27,First Semester,GL,37
+62,CCGL9002,Hong Kong Culture in the Context of Globalization (SCCE),A,64,64,4,First Semester,GL,60
+63,CCGL9007,"Youth in a Global World (SCCE, GSD)",A,64,64,10,First Semester,GL,54
+64,CCGL9010,Sports Culture under Global Capitalism,A,64,64,7,First Semester,GL,57
+65,CCGL9011,Media in the Age of Globalization,A,64,64,5,First Semester,GL,59
+66,CCGL9016,Feeding the World (SCCE),A,64,64,5,First Semester,GL,59
+67,CCGL9022,Globalization in Question: Human and Economic Consequences,A,64,64,8,First Semester,GL,56
+68,CCGL9025,The Political Economy of Growth and Poverty in the World (HL),A,64,64,6,First Semester,GL,58
+69,CCGL9030,"Financial Crises: History, Solutions, and Our Economic Futures (SCCE)",A,64,64,10,First Semester,GL,54
+70,CCGL9031,Entrepreneurship: Global and Social Development (SCCE),A,64,64,10,First Semester,GL,54
+71,CCGL9035,Challenges of Global Governance: Past and Present (SCCE),A,64,64,5,First Semester,GL,59
+72,CCGL9036,Dilemmas of Humanitarian Intervention (SCCE),A,64,64,2,First Semester,GL,62
+73,CCGL9040,"Energy Futures, Globalization and Sustainability (SCCE)",A,64,64,8,First Semester,GL,56
+74,CCGL9042,"The Evolution of Civilization (UQM, HL, UQM)",A,64,64,29,First Semester,GL,35
+75,CCGL9053,"Suicide: Risks, Research, and Realities (SCCE, HL)",A,64,64,25,First Semester,GL,39
+76,CCGL9054,"Responding to the Challenges of Aging Societies (SCCE, HL)",A,64,64,4,First Semester,GL,60
+77,CCGL9066,Music and Global Politics: From Beethoven to Beyoncé and Beyond (CA),A,64,64,7,First Semester,GL,57
+78,CCGL9067,Companies and People: Friends or Foes?,A,64,64,1,First Semester,GL,63
+79,CCGL9073,"Fashion, Politics and the Global City (SCCE)",A,64,64,15,First Semester,GL,49
+80,CCGL9074,"Unleashing the Power of Big Data in Global Cities (SCCE, HL)",A,64,64,50,First Semester,GL,14
+81,CCCH5006,China's Modernization in the East Asian Context (Online) (SCCE),A,100,100,11,First Semester,CH,89
+82,CCCH5054,Mothering China: From the Womb to the Nation (Online) (GSD),A,100,100,12,First Semester,CH,88
+83,CCCH9005,The Chinese Cultural Revolution (SCCE),A,64,64,7,First Semester,CH,57
+84,CCCH9005,The Chinese Cultural Revolution (SCCE),B,64,64,1,First Semester,CH,63
+85,CCCH9007,China in the Global Economy (SCCE),A,64,64,29,First Semester,CH,35
+86,CCCH9014,"Social Development: China, Asia, and the World (SCCE, HL, GSD)",A,64,64,6,First Semester,CH,58
+87,CCCH9015,"Population, Society and Sustainable Development in Hong Kong (SCCE, HL)",A,64,64,12,First Semester,CH,52
+88,CCCH9018,"Buddhism and Chinese Culture (UQM, HL, UQM)",A,64,64,19,First Semester,CH,45
+89,CCCH9025,"Humanity and Nature in Chinese Thought (SCCE, UQM, HL, UQM)",A,64,64,7,First Semester,CH,57
+90,CCCH9026,Rule of Law and China's Economic Miracle,A,64,64,3,First Semester,CH,61
+91,CCCH9029,"Ideas and Practices of Healing Arts in Traditional Chinese Medicine (SCCE, UQM, HL, UQM)",A,150,150,16,First Semester,CH,134
+92,CCCH9031,"Property Rights, Built Heritage and Sustainable Development in Hong Kong",A,64,64,21,First Semester,CH,43
+93,CCCH9033,"Sustainable Urban Development and Hong Kong (SCCE, HL)",A,64,64,11,First Semester,CH,53
+94,CCCH9037,"Chinese Mythology (UQM, UQM, GSD)",A,64,64,15,First Semester,CH,49
+95,CCCH9042,Corruption and Anticorruption in China (SCCE),A,64,64,4,First Semester,CH,60
+96,CCCH9044,"Dunhuang and the Silk Road: Art, Culture and Trade",A,64,64,5,First Semester,CH,59
+97,CCCH9052,"Arts, Science and Artifacts in Chinese Cultural Heritage",A,64,64,4,First Semester,CH,60
+98,CCST5068,Artificial Intelligence: Utopia or Dystopia? (Online),A,100,100,5,Second Semester,ST,95
+99,CCST6002,Innovation and Entrepreneurship: Experiential and Cultural Learning Opportunities in Israel,A,30,30,0,Second Semester,ST,30
+100,CCST6002,Innovation and Entrepreneurship: Experiential and Cultural Learning Opportunities in Israel,B,30,30,0,Second Semester,ST,30
+101,CCST9010,The Science of Crime Investigation (SCCE),A,64,64,6,Second Semester,ST,58
+102,CCST9012,"Our Place in the Universe (SCCE, UQM, UQM)",A,64,64,1,Second Semester,ST,63
+103,CCST9014,"Science and Music (SCCE, CA)",A,64,64,5,Second Semester,ST,59
+104,CCST9018,"Origin and Evolution of Life (SCCE, UQM, UQM)",A,64,64,1,Second Semester,ST,63
+105,CCST9025,"Genetics and Human Nature (SCCE, HL)",B,64,64,7,Second Semester,ST,57
+106,CCST9027,"The Science of Irrational Thinking (SCCE, UQM, UQM)",A,150,150,3,Second Semester,ST,147
+107,CCST9036,"Frontiers in Materials: Civilisation, Industry, and Well-Being (SCCE)",A,64,64,0,Second Semester,ST,64
+108,CCST9038,"Science and Science Fiction (SCCE, CA)",A,64,64,1,Second Semester,ST,63
+109,CCST9045,The Science and Lore of Culinary Culture (SCCE),A,64,64,9,Second Semester,ST,55
+110,CCST9047,The Age of Big Data (SCCE),A,64,64,1,Second Semester,ST,63
+111,CCST9049,The Metaverse: From Human Vision to Extended Reality (SCCE),A,64,64,5,Second Semester,ST,59
+112,CCST9062,Sports: For You and Hong Kong (HL),A,64,64,8,Second Semester,ST,56
+113,CCST9063,"The Unseen: Invaders, Healers, and the Microbial World",A,40,40,1,Second Semester,ST,39
+114,CCST9066,"Big Data Solutions to Social Problems: the Good, the Bad and the Ugly",A,64,64,7,Second Semester,ST,57
+115,CCST9067,Leaving Earth: Our Future in Space (SCCE),A,64,64,0,Second Semester,ST,64
+116,CCST9072,"Smile ! Teeth and Society (UQM, UQM)",A,64,64,22,Second Semester,ST,42
+117,CCST9073,"Emotion, Cognition and Brain (HL)",A,64,64,4,Second Semester,ST,60
+118,CCST9074,"Water: Resources, Policy and Technology (SCCE)",A,64,64,2,Second Semester,ST,62
+119,CCST9075,Be Fit! Be Active! (SCCE),A,64,64,17,Second Semester,ST,47
+120,CCST9076,Attention Magnet: The Psychological and Technological Aspects of Social Media Addiction,A,64,64,4,Second Semester,ST,60
+121,CCST9080,"Fintech: Financial Inclusion, Emerging Markets, and Social Value",A,64,64,6,Second Semester,ST,58
+122,CCST9082,Pandemics: From Science to Societal Impact (SCCE),A,64,64,1,Second Semester,ST,63
+123,CCST9085,"Inspiration from the Living World (SCCE, UQM, UQM)",A,64,64,0,Second Semester,ST,64
+124,CCHU5001,"Designs on the Future (Online) (SCCE, HL)",A,100,100,2,Second Semester,HU,98
+125,CCHU5074,Beyond Fake News (Online),A,64,64,14,Second Semester,HU,50
+126,CCHU6001,For Films’ Sake! The Power of Short Films (CA),A,60,60,0,Second Semester,HU,60
+127,CCHU9002,Battles for Bodies: The Birth of Surveillance Society (SCCE),A,64,64,2,Second Semester,HU,62
+128,CCHU9005,Food and Values (SCCE),A,150,150,15,Second Semester,HU,135
+129,CCHU9006,"Girl Power in a Man's World (SCCE, GSD)",A,64,64,1,Second Semester,HU,63
+130,CCHU9007,"Sexuality and Gender: Diversity and Society (SCCE, GSD)",B,64,64,3,Second Semester,HU,61
+131,CCHU9009,"Moral Controversies in Contemporary Society (SCCE, UQM, HL, UQM, GSD)",A,64,64,1,Second Semester,HU,63
+132,CCHU9010,"Being Different: Understanding People with Disabilities (SCCE, HL)",A,64,64,2,Second Semester,HU,62
+133,CCHU9014,"Spirituality, Religion and Social Change (SCCE, UQM, HL, UQM)",A,64,64,3,Second Semester,HU,61
+134,CCHU9015,"Sex and Intimacy in Modern Times (SCCE, HL, GSD)",A,64,64,4,Second Semester,HU,60
+135,CCHU9021,Critical Thinking in Contemporary Society (SCCE),A,64,64,11,Second Semester,HU,53
+136,CCHU9030,"Image,  Space and Society (SCCE)",A,64,64,1,Second Semester,HU,63
+137,CCHU9034,"Architecture and Film (SCCE, CA)",A,64,64,1,Second Semester,HU,63
+138,CCHU9039,"Sexuality and Culture (SCCE, GSD)",B,64,64,15,Second Semester,HU,49
+139,CCHU9042,Human Language: Nature or Nurture? (SCCE),B,64,64,0,Second Semester,HU,64
+140,CCHU9043,"Rethinking Women: The Big Debates (SCCE, GSD)",A,64,64,1,Second Semester,HU,63
+141,CCHU9044,"Creative Arts as a Way of Knowing (SCCE, CA)",A,64,64,6,Second Semester,HU,58
+142,CCHU9045,Vision: The Science and Art of Perception (SCCE),A,64,64,5,Second Semester,HU,59
+143,CCHU9048,The City: Histories of Urbanism and the Built Environment (SCCE),A,64,64,3,Second Semester,HU,61
+144,CCHU9062,"Buddhist Visions in World Cinema (SCCE, UQM, CA, UQM)",B,64,64,6,Second Semester,HU,58
+145,CCHU9065,"A Life Worth Living (SCCE, UQM, HL, UQM)",A,64,64,10,Second Semester,HU,54
+146,CCHU9069,Economic Logic of Civilizations: How Human Societies have Innovated to Deal with Risk (SCCE),A,64,64,11,Second Semester,HU,53
+147,CCHU9070,Making Movies: Creative Expression on Screen (CA),A,40,40,1,Second Semester,HU,39
+148,CCHU9076,"The Journalist: Comics, Movies, Fiction & Fact",A,64,64,1,Second Semester,HU,63
+149,CCHU9079,"Queering Art, Performance and Cities (SCCE, GSD)",A,64,64,1,Second Semester,HU,63
+150,CCHU9080,"Dead People's Things: Excavating the Past with Archaeology (UQM, UQM)",A,64,64,3,Second Semester,HU,61
+151,CCHU9084,The Law in Everyday Life,A,64,64,0,Second Semester,HU,64
+152,CCHU9088,"We are Family: Myths, Realities and the Future of an Idea (GSD)",A,64,64,1,Second Semester,HU,63
+153,CCHU9089,Race and Ethnicity (GSD),A,64,64,2,Second Semester,HU,62
+154,CCHU9090,"The Love We Give and the Lies We Tell: The Ethics of Relationships (UQM, UQM, GSD)",A,64,64,5,Second Semester,HU,59
+155,CCGL5022,Globalization in Question: Human and Economic Consequences (Online),A,100,100,3,Second Semester,GL,97
+156,CCGL5048,Global Crime and Injustice (Online) (SCCE),A,100,100,5,Second Semester,GL,95
+157,CCGL5063,How to Make (Sense of) Money (Online),A,100,100,34,Second Semester,GL,66
+158,CCGL9001,Hong Kong Cinema through a Global Lens (CA),B,64,64,14,Second Semester,GL,50
+159,CCGL9002,Hong Kong Culture in the Context of Globalization (SCCE),B,64,64,0,Second Semester,GL,64
+160,CCGL9007,"Youth in a Global World (SCCE, GSD)",B,64,64,5,Second Semester,GL,59
+161,CCGL9014,"Thinking about Global Ethics (SCCE, UQM, UQM)",A,64,64,2,Second Semester,GL,62
+162,CCGL9015,Globalization and Migration (SCCE),A,64,64,1,Second Semester,GL,63
+163,CCGL9018,Corporate Social Responsibility (SCCE),A,64,64,3,Second Semester,GL,61
+164,CCGL9021,Globalization and Tourism (SCCE),A,64,64,30,Second Semester,GL,34
+165,CCGL9024,"The Life and Death of Languages: Diversity, Identity and Globalization (SCCE)",A,64,64,5,Second Semester,GL,59
+166,CCGL9026,"Think Global, Act Local: You, Hong Kong, and the World (SCCE)",A,64,64,17,Second Semester,GL,47
+167,CCGL9030,"Financial Crises: History, Solutions, and Our Economic Futures (SCCE)",B,64,64,7,Second Semester,GL,57
+168,CCGL9031,Entrepreneurship: Global and Social Development (SCCE),A,64,64,6,Second Semester,GL,58
+169,CCGL9032,Rule of Law in a Globalizing World (SCCE),A,64,64,2,Second Semester,GL,62
+170,CCGL9042,"The Evolution of Civilization (UQM, HL, UQM)",B,64,64,22,Second Semester,GL,42
+171,CCGL9052,"Some We Love, Some We Eat: Human-Animal Relationships in the Global Marketplace (SCCE)",A,64,64,4,Second Semester,GL,60
+172,CCGL9055,"Genocide: The Nightmare from History (UQM, UQM)",A,64,64,2,Second Semester,GL,62
+173,CCGL9058,"Villages and Global Futures (SCCE, HL)",A,64,64,0,Second Semester,GL,64
+174,CCGL9059,Water in a Changing World,A,64,64,11,Second Semester,GL,53
+175,CCGL9065,Our Response to Climate Change: Hong Kong 2100 (SCCE),A,64,64,1,Second Semester,GL,63
+176,CCGL9068,Social Entrepreneurship for Social Impact,A,64,64,0,Second Semester,GL,64
+177,CCGL9069,Multinationals and the Global Economy,A,64,64,4,Second Semester,GL,60
+178,CCGL9070,The Birth of the City and the Shaping of Societies (SCCE),A,64,64,2,Second Semester,GL,62
+179,CCCH5017,"People, Propaganda and Profit: Understanding Media in China (Online) (SCCE)",A,100,100,4,Second Semester,CH,96
+180,CCCH5039,"Curing the Chinese: Medicine and Society in Modern China (Online) (SCCE, HL)",A,100,100,3,Second Semester,CH,97
+181,CCCH5044,"Dunhuang and the Silk Road: Art, Culture and Trade (Online)",A,100,100,4,Second Semester,CH,96
+182,CCCH5057,Shaping Health in China (Online) (SCCE),A,100,100,8,Second Semester,CH,92
+183,CCCH9001,"Chinese House and Garden: Architecture, Landscape, and Material Culture (SCCE)",A,64,64,5,Second Semester,CH,59
+184,CCCH9002,"Chinese Cities in the 21st Century (SCCE, HL)",A,64,64,1,Second Semester,CH,63
+185,CCCH9005,The Chinese Cultural Revolution (SCCE),C,64,64,5,Second Semester,CH,59
+186,CCCH9005,The Chinese Cultural Revolution (SCCE),D,64,64,1,Second Semester,CH,63
+187,CCCH9007,China in the Global Economy (SCCE),B,64,64,17,Second Semester,CH,47
+188,CCCH9010,Understanding China's Governance: Challenges and Prospects,A,64,64,2,Second Semester,CH,62
+189,CCCH9018,"Buddhism and Chinese Culture (UQM, HL, UQM)",B,64,64,23,Second Semester,CH,41
+190,CCCH9023,"Family and Development in Modern China (SCCE, HL, GSD)",A,64,64,3,Second Semester,CH,61
+191,CCCH9027,China’s Ethnic Groups: Assimilation or Pluralism?,A,64,64,10,Second Semester,CH,54
+192,CCCH9041,The Rule of Law in Modern China (SCCE),A,64,64,1,Second Semester,CH,63
+193,CCCH9050,Blessings or Curses? World Heritage Sites in China and their Sustainability (SCCE),A,64,64,3,Second Semester,CH,61
+194,CCCH9051,"Digitizing Cultural Heritage in Greater China (SCCE, CA)",A,64,64,12,Second Semester,CH,52
+195,CCCH9058,"Talking About Politics: Chinese Debates in Political Thinking, Past and Present",A,64,64,2,Second Semester,CH,62
