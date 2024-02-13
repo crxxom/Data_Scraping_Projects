@@ -1,0 +1,6 @@
+2024-02-13 18:02:45,430 [ERROR] name 'now' is not defined
+2024-02-13 20:00:52,988 [ERROR] [Errno 2] No such file or directory: 'historic_deals.csv'
+2024-02-13 20:02:18,840 [ERROR] [Errno 32] Broken pipe
+2024-02-13 20:15:42,578 [INFO] 02132024: Scraped 0 pages, 24 games, script ran for 0:00:29.354647 seconds
+2024-02-13 20:18:53,064 [INFO] 13/02/2024: Scraped 0 pages, 24 games, script ran for 3.753892 seconds
+2024-02-13 21:16:54,523 [INFO] 13/02/2024: Scraped 120 pages, 2868 games, script ran for 3452.834377 seconds
